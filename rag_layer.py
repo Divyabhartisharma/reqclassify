@@ -8,9 +8,22 @@ from gemini_client import get_client
 EMBED_MODEL = "models/gemini-embedding-001"
 
 
-def get_supabase():
-    return create_client(os.environ["SUPABASE_URL"], os.environ["SUPABASE_KEY"])
+#def get_supabase():
+ #   return create_client(os.environ["SUPABASE_URL"], os.environ["SUPABASE_KEY"])
 
+def get_supabase():
+    try:
+        import streamlit as st
+        url = st.secrets["SUPABASE_URL"]
+        key = st.secrets["SUPABASE_KEY"]
+    except Exception:
+        url = os.environ.get("SUPABASE_URL", "")
+        key = os.environ.get("SUPABASE_KEY", "")
+
+    if not url or not url.startswith("https://"):
+        raise RuntimeError(f"SUPABASE_URL invalid or missing: '{url}'")
+
+    return create_client(url, key)
 
 # simple in-memory cache to avoid re-embedding the same text
 _EMBED_CACHE: dict = {}
