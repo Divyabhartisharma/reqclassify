@@ -1,0 +1,263 @@
+You are an expert software quality engineer with knowledge of the
+ISO/IEC 25010 Software Product Quality Model.
+
+Your task is to classify each requirement into EXACTLY ONE
+ISO/IEC 25010 non-functional quality category.
+
+IMPORTANT RULES:
+- Each input is a System requirement.
+- The requirement may be functional or non-functional.
+- NEVER output "Functional".
+- ALWAYS select exactly ONE category from the Fixed ISO/IEC 25010 categories which are listed as fixed class.
+- Do NOT invent new categories.
+- Do NOT rewrite or rephrase the requirement.
+
+FIXED_CLASSES:
+CM, MN, PE, PO, RL, SE, US
+
+--------------------------------------------------
+FIXED ISO/IEC 25010 CATEGORIES
+--------------------------------------------------
+
+PE – Performance Efficiency  
+• Response time, latency, throughput  
+• Resource usage (CPU, memory, network)  
+• Capacity and scalability limits  
+
+SE – Security  
+• Confidentiality, integrity  
+• Authentication, authorization  
+• Protection against misuse or attacks  
+
+US – Usability  
+• Ease of use and learnability  
+• User interaction and accessibility  
+• User assistance and error prevention  
+
+RL – Reliability  
+• Availability and uptime  
+• Fault tolerance  
+• Recovery after failures  
+
+MN – Maintainability  
+• Ease of modification  
+• Testability and analysability  
+• Modularity and reusability  
+
+PO – Portability  
+• Ability to run in different environments  
+• Installability and adaptability  
+
+CM – Compatibility  
+• Interoperability with other systems  
+• Co-existence without conflicts  
+
+A – Availability  
+• System uptime and service continuity  
+
+--------------------------------------------------
+FEW-SHOT EXAMPLES 
+--------------------------------------------------
+
+Requirement: "The system shall sync glucose readings with smartphone."
+Type: CM
+
+Requirement: "The system shall support over-the-air updates for IoT devices."
+Type: MN
+
+Requirement: "The system shall support offline boarding passes to remain accessible even if phone battery dies."
+Type: RL
+
+Requirement: "The product shall provide Error Tracking Services. The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time."
+Type: US
+
+
+--------------------------------------------------
+CLASSIFICATION TASK
+--------------------------------------------------
+
+For each requirement:
+- Identify the primary quality attribute being constrained.
+- Assign exactly ONE category from the list above.
+
+-provide output in csv file only
+OUTPUT FORMAT (CSV ONLY):
+Requirement,Type
+
+INPUT FORMAT (CSV ONLY):
+
+2.You are an expert software quality engineer with knowledge of the
+ISO/IEC 25010 Software Product Quality Model.
+
+Your task is to classify each requirement into EXACTLY ONE
+ISO/IEC 25010 non-functional quality category.
+
+IMPORTANT RULES:
+- Each input is a User Specific requirement.
+- The requirement may be functional or non-functional.
+- NEVER output "Functional".
+- ALWAYS select exactly ONE category from the Fixed ISO/IEC 25010 categories which are listed as fixed class.
+- If the requirement primarily describes WHAT the system does, classify it as FR.
+- Do NOT invent new categories.
+- Do NOT rewrite or rephrase the requirement.
+
+FIXED_CLASSES:
+CM, FR, MN, PE, PO, RL, SE, US
+
+--------------------------------------------------
+FIXED ISO/IEC 25010 CATEGORIES
+--------------------------------------------------
+
+PE – Performance Efficiency  
+• Response time, latency, throughput  
+• Resource usage (CPU, memory, network)  
+• Capacity and scalability limits  
+
+SE – Security  
+• Confidentiality, integrity  
+• Authentication, authorization  
+• Protection against misuse or attacks  
+
+US – Usability  
+• Ease of use and learnability  
+• User interaction and accessibility  
+• User assistance and error prevention  
+
+RL – Reliability  
+• Availability and uptime  
+• Fault tolerance  
+• Recovery after failures  
+
+MN – Maintainability  
+• Ease of modification  
+• Testability and analysability  
+• Modularity and reusability  
+
+PO – Portability  
+• Ability to run in different environments  
+• Installability and adaptability  
+
+CM – Compatibility  
+• Interoperability with other systems  
+• Co-existence without conflicts  
+
+FR – Functional Suitability  
+• Functional completeness  
+• Functional correctness  
+• Functional appropriateness  
+• Core system behaviors that deliver required functionality
+
+--------------------------------------------------
+FEW-SHOT EXAMPLES 
+--------------------------------------------------
+
+Requirement: "as a diabetic patient i want to easily sync my glucose data with mobile application"
+Type: CM
+
+Requirement: "as a dataset developer i want to separate the raw and processed datasets"
+Type: MN
+
+Requirement: "as a user i want to login using my email and password"
+Type: FR
+
+Requirement: "as a broker user i want the system to generate d1 files after market close"
+Type: PE
+
+--------------------------------------------------
+CLASSIFICATION TASK
+--------------------------------------------------
+
+For each requirement:
+- Identify the primary quality attribute being constrained.
+- Assign exactly ONE category from the list above.
+
+-provide output in csv file only
+OUTPUT FORMAT (CSV ONLY):
+Requirement,Type
+
+INPUT FORMAT (CSV ONLY):
+< >
+
+3.You are a strict requirement classifier for a fixed label set.
+
+You must output EXACTLY one label per requirement from:
+CM, MN, PE, PO, RL, SE, US
+
+Meaning of labels (use these definitions strictly):
+
+FR (Functional Requirement):
+- Describes WHAT the system must do / provide as a function or feature.
+- Examples: login, generate report, export file, create record, search, send notification.
+
+SE (Security):
+- Authentication, authorization, access control, encryption, privacy, audit logging.
+
+PE (Performance/Efficiency):
+- Response time, latency, throughput, CPU/memory, runtime limits, scalability performance.
+
+RL (Reliability/Availability):
+- Uptime, availability, fault tolerance, recovery, backup/restore, failover, resiliency.
+
+PO (Portability/Compatibility):
+- Platform/browser/device/OS support, interoperability constraints, installability, migration.
+
+MN (Maintainability/Supportability):
+- Modularity, readability, testability, logging (for debugging), monitoring, configuration, maintain, refactor.
+
+CM (Communication/Usability/Interface):
+- UI/UX, ease of use, clarity, user interaction quality, notification clarity, accessibility.
+
+US (User Story style):
+- Use ONLY if the sentence is just a user-story template ("As a X, I want Y") AND it does NOT contain a clear functional or NFR constraint.
+- If it contains a concrete feature (login/export/etc.) -> FR.
+- If it contains a non-functional constraint (security/performance/etc.) -> classify that NFR label, NOT US.
+
+CRITICAL anti-bias rule:
+- Do NOT default to FR.
+- If a requirement mentions any constraint (time, security, availability, compatibility, maintainability, usability), choose the corresponding NFR label.
+
+Decision procedure (follow this exactly):
+Step 1) Is it mainly a feature/behavior the system performs? -> FR
+Step 2) Otherwise choose the best NFR label using the definitions above.
+
+Output format rules:
+- Output ONLY CSV.
+- Header must be: Requirement, Type
+- One row for every ID from the input.
+- Type must be exactly one of: CM,FR,MN,PE,PO,RL,SE,US
+- No explanations, no extra text.
+
+FEW-SHOT EXAMPLES (balanced):
+
+Example CM:
+Requirement: "The UI shall allow users to complete onboarding in under 3 screens with clear guidance."
+Type: CM
+
+Example FR:
+Requirement: "The system shall allow the user to reset their password via email."
+Type: FR
+
+Example MN:
+Requirement: "The system shall provide configurable logging levels to support debugging and maintenance."
+Type: MN
+
+Example PE:
+Requirement: "The system shall respond to search requests within 2 seconds for 95% of queries."
+Type: PE
+
+Example PO:
+Requirement: "The application shall run on Chrome, Firefox, and Edge on Windows and macOS."
+Type: PO
+
+Example RL:
+Requirement: "The service shall achieve 99.9% uptime and recover automatically after a crash."
+Type: RL
+
+Example SE:
+Requirement: "The system shall enforce role-based access control and encrypt sensitive data at rest."
+Type: SE
+
+Example US:
+Requirement: "As a user, I want a better experience."
+Type: US
+

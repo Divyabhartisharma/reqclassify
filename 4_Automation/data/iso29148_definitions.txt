@@ -1,0 +1,133 @@
+## Overview: Requirements Engineering Framework
+
+ISO/IEC/IEEE 29148 defines a structured framework for requirements engineering across the lifecycle of systems and software. It formalizes how stakeholder needs are transformed into structured, verifiable system and software requirements. Requirements exist at multiple abstraction levels and must be necessary, unambiguous, complete, singular, feasible, verifiable, and correct. Mandatory requirements use the keyword "shall."
+
+The standard distinguishes between requirement types based on their purpose and scope.
+
+## FUNCTIONAL Requirement
+
+A FUNCTIONAL requirement specifies WHAT the system shall do. It describes system behavior, services, processing logic, responses to inputs, and interactions. Functional requirements define externally observable functionality without prescribing internal implementation details. Functional requirements may exist at different abstraction levels (User-Facing vs System-Level).
+
+Characteristics of FUNCTIONAL Requirements:
+- Describes system actions, operations, or services.
+- Uses behavior-oriented "shall" statements.
+- Specifies system responses to inputs or events.
+- May describe user interaction or system-to-system behavior.
+
+Examples of FUNCTIONAL Requirements:
+- "The system shall authenticate users using a username and password." (Reason: It describes a specific system action and behavior).
+- "The system shall generate a monthly report." (Reason: It specifies a service/output the system must provide).
+- "The system shall receive invoice data, transform it, and forward it to another system." (Reason: It describes data processing logic and interactions).
+
+## QUALITY Requirement
+
+A QUALITY requirement (often called Non-Functional Requirement) specifies HOW WELL the system performs its functions. It constrains functional behavior using measurable or qualitative criteria. Quality requirements may address performance, reliability, security, usability, availability, maintainability, scalability, or compatibility.
+
+Disambiguation Rule (WHAT vs HOW): Do not confuse QUALITY with CONSTRAINT. If a requirement restricts the technology, platform, or architecture used to build the system, it is a CONSTRAINT. If it measures performance, security, or reliability limits, it is a QUALITY requirement.
+
+Characteristics of QUALITY Requirements:
+- Qualify system behavior with measurable limits.
+- Define performance thresholds.
+- Specify reliability or security expectations.
+
+Examples of QUALITY Requirements:
+- "The system shall respond within 2 seconds." (Reason: It sets a measurable performance threshold for HOW WELL the system responds).
+- "The system shall achieve 95% uptime." (Reason: It defines a measurable availability expectation).
+- "All transmitted data shall be encrypted." (Reason: It specifies a security expectation).
+
+## INTERFACE Requirement
+
+An INTERFACE requirement specifies interactions between the system and external entities. These external entities may include external software systems, hardware devices, communication protocols, data exchange formats, or APIs.
+
+Characteristics of INTERFACE Requirements:
+- Defines system boundaries.
+- Specifies interaction methods or data formats.
+- Describes interoperability expectations.
+
+Examples of INTERFACE Requirements:
+- "The system shall expose a REST API." (Reason: It specifies the interaction method at the system boundary).
+- "The system shall communicate using HTTPS protocol." (Reason: It defines the communication protocol with external entities).
+- "The system shall exchange data in JSON format." (Reason: It specifies the data exchange format between systems).
+
+## CONSTRAINT Requirement
+
+A CONSTRAINT requirement restricts design, implementation, or operational choices. Constraints do not define system behavior or quality levels. Instead, they limit how the solution may be built or deployed. Types of constraints include technology constraints, platform restrictions, organizational policies, budget limitations, architectural decisions, and compliance obligations.
+
+Disambiguation Rule: Constraints often use the same "shall" syntax, but if it mandates a specific programming language, infrastructure, or framework, it is a CONSTRAINT.
+
+Characteristics of CONSTRAINT Requirements:
+- Limits the technical choices for developers.
+- Specifies mandatory platforms or tools.
+- Design / physical constraints: fixes how a part must be built, installed or placed (location, mounting, dimensions, weight, material, markings, separate power source). These do not describe a system action, so they are NOT functional.
+
+Examples of CONSTRAINT Requirements:
+- "The system shall be developed using Java." (Reason: It mandates a specific technology/language, limiting design choices).
+- "The solution shall run on AWS infrastructure." (Reason: It restricts the platform/deployment choice).
+- "The system shall comply with ISO/IEC 27001." (Reason: It imposes an organizational/compliance restriction on the solution architecture).
+- "The antenna shall be installed on the upper side of the fuselage." (Reason: It fixes the physical placement of a part, it is a design constraint, not a function).
+- "The control unit shall be enclosed in a fire-resistant housing." (Reason: It restricts the physical design/material, not what the system does).
+
+## REGULATORY Requirement
+
+A REGULATORY requirement ensures compliance with external laws, regulations, or standards. These requirements originate from governing bodies or industry standards.
+
+Disambiguation Rule: Regulatory requirements may overlap with constraints but are distinguished by their legal, governmental, or official compliance origin (e.g., GDPR, FDA, HIPAA).
+
+Characteristics of REGULATORY Requirements:
+- References laws or standards.
+- Specifies compliance obligations.
+- May constrain system behavior or architecture based on legal needs.
+
+Examples of REGULATORY Requirements:
+- "The system shall comply with GDPR." (Reason: GDPR is a legal framework mandated by a governing body).
+- "The product shall meet ISO 26262 safety standards." (Reason: It specifies compliance with an external industry standard).
+
+## BUSINESS Requirement
+
+A BUSINESS requirement defines organizational objectives or business outcomes. It focuses on goals rather than detailed system behavior.
+
+Characteristics of BUSINESS Requirements:
+- Describes business value or impact.
+- Defines high-level organizational objectives.
+- Often precedes detailed system requirements.
+
+Examples of BUSINESS Requirements:
+- "The system shall reduce processing time by 30%." (Reason: It states a high-level business goal and value).
+- "The solution shall support expansion into new markets." (Reason: It defines an organizational objective).
+
+## Stakeholder Requirement
+
+A Stakeholder requirement captures expressed needs from users, operators, acquirers, or regulators. These requirements are typically high-level and may later be refined into system or software requirements. They often describe desired capabilities without detailed technical specification.
+
+## Mixed and Ambiguous Requirements
+
+Although each requirement should ideally express a single capability or constraint, real-world requirements often combine multiple concerns. Such mixed requirements complicate classification and analysis.
+
+Example of a Mixed Requirement:
+- "The system shall encrypt stored data and respond within 1 second."
+(Reason: This combines a security requirement with a performance requirement).
+
+## Requirement Attributes for Management
+
+Each requirement should include management attributes such as:
+- Unique identifier
+- Rationale
+- Priority
+- Risk
+- Type
+- Traceability links
+
+Bidirectional traceability is required:
+- Upwards to stakeholder or business needs.
+- Downwards to design elements and verification artifacts.
+
+## Verification and Validation
+
+Verification confirms the system is built according to specification. Validation confirms the system fulfills stakeholder needs in the intended environment.
+
+Verification methods include:
+- Inspection
+- Analysis
+- Demonstration
+- Test
+Validation typically involves stakeholder review and operational assessment.

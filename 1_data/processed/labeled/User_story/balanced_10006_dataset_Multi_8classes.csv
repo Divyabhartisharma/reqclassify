@@ -1,0 +1,81 @@
+Requirement,Type
+as a home occupant i want my thermostat to auto adjust to real time outdoor temperature so that energy will be used efficiently based on weather,PE
+as a broker user i want the d1 file generation to be synced with the fpds data load so that i dont have to regenerate a file if no data has been updated,CM
+as a developer i want to have configuration for zone definition,MN
+as a home owner i want remote wireless access to surveillance cameras so that i can keep an eye on my home in real time even when i am away,PE
+as a a musician i want microphone picks up voice or instruments and automatically records the sound then transcribes and composes into sheet music so that i can easily get my creative ideas documented,FR
+as a developer i want to use a configuration that is not prepackaged within a built version of application,MN
+as a a caretaker i want backup generator so that home dialysis wouldnt have to stop during an outtage,FR
+as a a teacher i want daily syllabus to be studied with systematic alerts so that easy to teach the students,US
+as a hotel event planner i want to manage event bookings and integrate them with room reservations so that guests attending events have a seamless experience,CM
+as a a farmer i want to know the weather so that when the rain come and light is high,FR
+"As a content creator, I want my media files to display consistently across different platforms, so that my work looks professional.",PO
+as a business analyst i need the system to handle large datasets without performance degradation,PE
+as a home owner i want an alarm system that i can monitor anywhere so that i can make sure everyone is safe,SE
+as a business owner i want to easily input employee salary data so that i can manage payroll efficiently,PE
+as a home owner i want an alarm that will detect leaks in the house so that i can stay safe,SE
+"As a end-user, I want the application to run on various platforms.",PO
+as a cooking enthusiast i want a faster preheating oven so that i can cook things without as much planning or waiting,US
+as a home occupant i want a security camera and a siren which can be remotely monitored so that it would be good for chasing thieves away,SE
+"As a caregiver, I want caregiving apps to reliably track and manage the care of my loved ones.",RL
+as a frequent traveler i want the app to adjust its features based on my current location and language,PO
+as a user i want to control layer rendering symbology for vt gis data layers accessed via a web map service,CM
+as a home occupant i want automatic locking doors at night so that i do not forget to lock the doors,SE
+as a researcher i want an app that generates an openrefine reconciliation api endpoint from a tabular data package so that i can use it to clean messy data,CM
+"As a student, I want the app to work on both my laptop and tablet, so that I can study from anywhere.",PO
+as a business analyst i want the system to process information correctly so that decisionmaking is based on accurate data,PE
+as a home occupant i want a subtle reminder should i leave a door unlocked or open so that im protected from intruders,SE
+as a home occupant i want my music and videos to sync across devices all over the house so that i will not have to manually transfer my entertainment between devices,PO
+as an administrator i want to backup and restore the rulebase so that duo doesnt lose production knowledge,RL
+as a a home owner i want to be able to access my pantry and fridges inventory so that i can get exactly what i need from the grocery store without having to create a list,FR
+as a customer i expect the online service to process my transactions within 2 seconds,PE
+as ifa i want the system development implementation and maintenance to be outsourced,RL
+as a customer i want to easily find atm locations through the app so that i can withdraw cash when needed,US
+as a user i want the app to accurately convert my handwriting to digital text so that i can save time on manual transcription,CM
+as a busy professional i want the app to provide a reliable reminder system for my upcoming donation appointments so that i never miss a donation due to my schedule,RL
+as a user i want the app to keep my data accurate and uptodate,RL
+as a a parents i want i want to block strangers from entering my house when the child is alone so that i am tension free,FR
+as a home occupant i want security footage of visits by humans only so that i can save time when reviewing the footage,SE
+as a developer i want to test system resilience so that i can ensure the platform remains stable under load,MN
+as an univitservice i want to be able to export all data to a different system so that i am not tied into one system which may not be the most appropriate at some point in the future,PO
+as a a farmer i want to regulate the motor so that it is very useful for save the water and electricity,FR
+as a customer i want to be able to search for products by keywords category or brand so that i can find what im looking for quickly and easily,US
+as a home occupant i want coffee machine is controllable from mobile and tablet so that can be save time,CM
+as a a mother i want remind about homework so that so i dont forget,FR
+as a cashier i want to initiate pos payment automatically so that i can work more swiftly,PE
+as a user i want to be able to sync my personal calendar with other calendars so that i can see all my events in one place,CM
+as a home occupant i want my smart home to make a sound to warn me if my door is not locked at night so that my home remains secure,SE
+as a student i want the library system to link to academic databases so that i can access a wide range of resources,CM
+as a business owner i want to monitor realtime payroll expenditures so that i can manage the companys finances effectively,PE
+as a content editor i want to be able to easily find content so that i can edit it,US
+"As a developer, I want the system to be scalable to handle future growth.",RL
+"As a end-user, I want to ensure the application works on different device types.",PO
+as a customer i want to be able to select different shipping options including express and overnight delivery so that i can receive my medications as quickly as possible,US
+as a a home owner i want lights that turn on when someone approaches so that so that i can see people outside my home,FR
+as a developer i want to track version changes so that the correct updates are applied across environments,MN
+as a user i want to be able to access news articles from different regions,PO
+as a developer i want to track data modifications so that changes can be easily audited,MN
+"As a team member, I want documents to open correctly on any device, so that I can collaborate easily.",PO
+as a developer i want to simulate system failures so that i can identify potential weaknesses in the architecture,MN
+as a nurse i want to have mobile hospital devices that automatically transfer the data it measured to the patients medical file so that i do not have to insert the data manually,PO
+as a customer i want to be able to search for specific medications by name or category so that i can quickly find what i need,US
+"As a security officer, I need refactoring to be part of the development process, so that code quality is sustained.",RL
+as a a command kitchen that controls appliances by voice i want i can remote activate anything even not in the kitchen so that energy,FR
+"As a team leader, I want background tasks to run without affecting user experience, so that users can work uninterrupted.",PE
+as a customer i want to be able to save my payment and shipping information for future purchases so that i can checkout more quickly and easily,US
+as a developer i want d files generation requests to be managed and cached so that duplicate requests do not cause performance issues,RL
+as a home occupant i want ability to lock all doors and windows instantly phone app or hot button so that to keep occupants safe,SE
+as a home owner i want automatic door lock so that dont need keys,SE
+as a cashier i want to be able to quickly scan and process purchases so that i can provide fast and efficient service to customers,PE
+as a developer migration developer deployment engineer i want to use a configuration that is not prepackaged within a built version of application,MN
+as a dataset developer i want to separate the interface from the implementation of a dataset type,CM
+as a healthcare provider i want the device to maintain a high level of accuracy over time so that patients can rely on their readings for making health decisions,RL
+as a developer i want to easily create and to maintain my apps within the market place,MN
+as a diabetic patient i want to easily sync my glucose data with my electronic health record so that my healthcare team can stay updated on my condition,CM
+as a developer i want to obtain apps development support,MN
+as a customer i want to be able to access a variety of payment options such as cash credit debit and mobile payments so that i can choose the most convenient method for me,US
+as a developer i want to be able to log better so that i can troubleshoot issues with particular submissions and functions,MN
+as a customer i want the ability to block my card through the app so that i can prevent misuse if its lost or stolen,SE
+as a beginner i want access to a library of exercises with instructions so that i can learn how to perform them correctly,US
+as a a headmaster i want maintain the working hours arrange the good teacher for free students so that increase the good result for the school,FR
+as a energy saver i want a device that cools down any of my electronic devices so that they wont overheat,RL

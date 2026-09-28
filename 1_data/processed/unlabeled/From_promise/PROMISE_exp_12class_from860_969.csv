@@ -1,0 +1,112 @@
+﻿Requirement,
+"The system shall allow the user to view past attended meetings.""",FR
+"The system shall allow the user to view pending meetings.""",FR
+"The system shall show the meetings to the user in ascending time order by default.""",FR
+"The system shall allow users to view equipment information.""",FR
+"The system shall allow users to view other users' information.""",FR
+"The system shall allow user to specify custom meeting locations.""",FR
+"The system shall allow users to view location information.""",FR
+"The system shall allow users to search  for available distributed location templates(if any).""",FR
+"The system shall allow users to view information concerning the available distributed location templates(if any).""",FR
+"The web application shall add no more than 5 seconds of perceivable overhead time to any necessary web and database transaction time.""",PE
+"The system shall utilize HTTPS communication to ensure data confidentiality.""",SE
+"User authentication and privileges are defined outside the scope of the sytem by the Microsoft Active Directroy Server.""",SE
+"Personal information security is defined outside the scope of the SDMS by the database server.""",SE
+"Users shall be required to log into the system for all operations except the operations on the login page.""",SE
+"The system shall run on Windows Server 2003.""",PO
+"The system shall be compatible with IIS6.0 and above or  Apache 2.0 and above.""",PO
+"The system shall display all the products that can be configured.""",FR
+"The system shall allow user to select the product to configure.""",FR
+"The system shall display all the available components of the product to configure.""",FR
+"The system shall enable user to add one or more component to the configuration.""",FR
+"The system shall notify the user about any conflict in the current configuration.""",FR
+"The system shall allow user to confirm the completion of current configuration.""",FR
+"The system shall display detailed information of the selected products.""",FR
+"The system shall provide browsing options to see product details.""",FR
+"The system shall display detailed product categorization to the user.""",FR
+"The system shall enable user to enter the search text on the screen.""",FR
+"The system shall enable user to select multiple options on the screen to search.""",FR
+"The system shall display all the matching products based on the search.""",FR
+"The system shall display only 10 matching result on the current screen.""",FR
+"The system shall enable user to navigate between the search results.""",FR
+"The system shall notify the user when no matching product is found on the search.""",FR
+"The system shall allow user to create profile and set his credential.""",FR
+"The system shall authenticate user credentials to view the profile.""",FR
+"The system shall allow user to update the profile information.""",FR
+"The system shall display both the active and completed order history in the customer profile.""",FR
+"The system shall allow user to select the order from the order history.""",FR
+"The system shall display the detailed information about the selected order.""",FR
+"The system shall display the most frequently searched items by the user in the profile.""",FR
+"The system shall allow user to register for newsletters and surveys in the profile.""",FR
+"The system shall allow user to select the support type he wants.""",FR
+"The system shall allow user to enter the customer and product information for the support.""",FR
+"The system shall display the customer support contact numbers on the screen.""",FR
+"The system shall allow user to enter the contact number for support personnel to call.""",FR
+"The system shall display the online help upon request.""",FR
+"The system shall display the FAQ's upon request.""",FR
+"The system shall maintain customer email information as a required part of customer profile.""",FR
+"The system shall send an order confirmation to the user through email.""",FR
+"The system shall display detailed invoice for current order once it is confirmed.""",FR
+"The system shall optionally allow user to print the invoice.""",FR
+"The system shall provide shopping cart during online purchase.""",FR
+"The system shall allow user to add/remove products in the shopping cart.""",FR
+"The system shall display different shipping options provided by shipping department.""",FR
+"The system shall enable user to select the shipping method during payment process.""",FR
+"The system shall display the shipping charges.""",FR
+"The system shall display tentative duration for shipping.""",FR
+"The system shall allow user to enter the order information for tracking.""",FR
+"The system shall display the current tracking information about the order.""",FR
+"The system shall calculate tax for the order.""",FR
+"The system shall display tax information for the order.""",FR
+"The system shall display available payment methods for payment.""",FR
+"The system shall allow user to select the payment method for order.""",FR
+"The system shall display the orders that are eligible to change.""",FR
+"The system shall allow user to select the order to be changed.""",FR
+"The system shall allow user to cancel the order.""",FR
+"The system shall notify the user about any changes made to the order.""",FR
+"The system shall enable the user to enter their reviews and ratings.""",FR
+"The system shall display all the available financing options.""",FR
+"The system shall allow user to select the financing option.""",FR
+"The system shall notify the use about the financing request.""",FR
+"The system shall allow user to view detailed sitemap.""",FR
+"The system shall display all the available promotions to the user.""",FR
+"The system shall allow user to select available promotion.""",FR
+"The system shall allow user to confirm the purchase.""",FR
+"The system shall enable user to enter the payment information.""",FR
+"The system shall provide a uniform look and feel between all the web pages.""",LF
+"The system shall provide a digital image for each product in the product catalog.""",US
+"The system shall provide use of icons and toolbars.""",US
+"The system shall provide handicap access.""",US
+"The system shall provide multi language support.""",US
+"The system shall provide a contractual agreement with an internet service provider for T3 access with 99.9999% availability.""",A
+"The system shall provide a contractual agreement with an internet service provider who can provide 99.999% availability through their network facilities onto the internet.""",A
+"The product shall be based on web and has to be run from a web server.""",O
+"The product shall take initial load time depending on internet connection strength which also depends on the media from which the product is run.""",PE
+"The performance shall depend upon hardware components of the client/customer.""",PE
+"The system shall use secure sockets in all transactions that include any confidential customer information.""",SE
+"The system shall automatically log out all customers after a period of inactivity.""",SE
+"The system shall confirm all transactions with the customer's web browser.""",US
+"The system shall not leave any cookies on the customer's computer containing the user's password.""",SE
+"The system shall not leave any cookies on the customer's computer containing any of the user's confidential information.""",SE
+"The customer's web browser shall never display a customer's password.  It shall always be echoed with special characters representing typed characters.""",SE
+"The customer's web browser shall never display a customer's credit card number after retrieving from the database.  It shall always be shown with just the last 4 digits of the credit card number.""",SE
+"The system's back-end servers shall never display a customer's password.  The customer's password may be reset but never shown.""",SE
+"The system's back-end databases shall be encrypted.""",SE
+"The system shall allow the user to register for an account from any page in the system.""",FR
+"The system will use a single password per user to login to the E-Store System.""",SE
+"The system shall use secure socket layer (SSL) technology to ensure all payments made online and user logins are secure.""",SE
+"Any page of the application should not take more than 6 seconds to load on a DSL broadband connection.""",PE
+"The system may be throttled or slowed down on heavy loads to ensure service for everybody. By throttling is meant that certain functionality may be unavailable during heavy server load.""",PE
+"The application should be able to support 100 concurrent users without any performance degradation.""",PE
+"The system should be able to scale up to 500 concurrent users (if there is a need in the future) by installing additional hardware components.""",SC
+"The system's back-end servers shall never display a customer's password.  The customer's password may be reset but never shown.""",A
+"A secure server will be required to ensure confidentiality of customer's credit card and other details.""",SE
+"The user interface of the system should be very user friendly. """,US
+"It should not take more than 120 seconds for a new user to register for an account.""",US
+"It should not take more than 90 seconds for a registered user to place an order.""",US
+"The system should be easy enough to maintain that someone else could do it with a manual and a few hours training.""",MN
+"The system should be portable to various operating environments.""",PO
+"Registered User must be able to maintain his/her session information for at least 60 minutes of inactive session before the system prompts him to log out of the system. The registered user must be provided with all the options of the E-store regardless of the time when he/she logs in.""",FR
+"The entire website must be user-friendly and easily navigable. The website must be provided with a site map for quick access to a particular link according to the requirement specification. The user must be able to find what he/she wants from the site without any difficulty. The website must adhere to branding schemes and the layout of the web pages must be uniform throughout  """,US
+"The system shall support up to 10000 simultaneous users against the central database at any given time and up to 5000 simultaneous users against the local servers at any one time. The performance of the website must be optimal incase of huge loads and hence appropriate load balancing must be done to achieve this. There can be any number of mirror servers readily available in case of huge loads without the user getting any delay.""",PE
+"The website must provide highest degree of security to the registered users. All the transactions that are made must be secured. The sensitive information passed to and from the website must be secured. Identity theft and other security related issues must be solved. Unauthorized transmission of sensitive information of the user to third party websites for reference must be avoided. On the basis of user agreement the information must be processed. All the information about the registered user must be securely stored in the central database.""",SE

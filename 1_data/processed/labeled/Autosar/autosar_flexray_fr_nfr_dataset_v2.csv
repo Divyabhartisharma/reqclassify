@@ -1,0 +1,86 @@
+Requirement Text,Type
+The FlexRay-related BSW modules shall support applications running synchronously to the FlexRay global time.,FR
+The FlexRay-related BSW modules shall support applications running asynchronously to the FlexRay global time.,FR
+The FlexRay Interface shall operate synchronized to the FlexRay global time of all involved FlexRay Communication Controllers.,FR
+The FlexRay-related BSW modules shall support the FlexRay Slot and Cycle Multiplexing mechanism for efficient bandwidth exploitation.,FR
+The FlexRay Interface shall provide a PDU-based data API to all upper layers.,FR
+The FlexRay Interface shall be able to communicate with at least four FlexRay CCs via the appropriate FlexRay Drivers.,FR
+The FlexRay Interface shall identify each PDU with a unique PDU-ID based on the operation to be carried out.,FR
+The FlexRay Interface shall provide a software interface to initialize the local memory space used to store PDU data and properties.,FR
+The FlexRay Interface shall provide a software interface to start-up a specific FlexRay CC.,FR
+The FlexRay Interface shall provide a software interface to immediately abort the communication of a specific FlexRay CC by setting it into HALT state.,FR
+The FlexRay Interface shall provide a software interface to send a wake-up pattern on a specific FlexRay Channel of a specific FlexRay CC.,FR
+The FlexRay Interface shall provide a software interface to get the CC POC status of a specific FlexRay CC.,FR
+The FlexRay Interface shall provide a software interface to transmit a PDU via the FlexRay communication system.,FR
+The FlexRay Interface shall provide a software interface to initialize and configure a specific FlexRay CC including its transmit and receive buffers.,FR
+All configuration data of the FlexRay Interface defined at system configuration time shall be modifiable by a flashing process.,FR
+The FlexRay Interface shall provide a software interface to set the operation mode of a specific FlexRay Transceiver device.,FR
+The FlexRay Interface shall allow switching from one configuration of a FlexRay CC to another during runtime in Normal Active Mode.,FR
+The NM Vector feature provided by the FlexRay Communication Controller shall be supported by the FlexRay BSW modules.,FR
+The FlexRay Interface shall provide a software interface to halt the communication of a specific FlexRay CC at the end of the current Communication Cycle.,FR
+The FlexRay Interface configuration shall specify which FlexRay Communication Controller is to be served by which FlexRay Driver.,FR
+The FlexRay Interface shall be able to communicate with at least four FlexRay Drivers.,FR
+"The FlexRay Interface shall be configurable to generate, transmit, and handle PDU-based update and valid information per PDU within FlexRay Frames.",FR
+The FlexRay Interface shall support PDU transmission buffer queues of configurable size for higher BSW modules.,FR
+The FlexRay Interface shall retrieve PDUs received via the FlexRay communication system and indicate reception to the appropriate higher-layer BSW module.,FR
+The FlexRay Interface shall be configurable to provide the appropriate higher-layer BSW module with a transmit confirmation for a sent PDU.,FR
+The FlexRay Interface shall provide the DEM with error-related information using the aggregated channel status known to the FlexRay Interface.,FR
+The FlexRay Interface shall provide an API that cancels a transmit request from the CC buffer.,FR
+The FlexRay Driver shall provide an abstraction from the FlexRay CC-specific implementation and a generic FlexRay Driver API to the FlexRay Interface.,FR
+The FlexRay Driver shall be able to communicate with at least four FlexRay CCs of the same type.,FR
+The FlexRay Driver shall provide a software interface to start-up a specific FlexRay CC after proper configuration.,FR
+The FlexRay Driver shall provide a software interface to immediately abort the communication of a specific FlexRay CC by setting it into HALT state.,FR
+The FlexRay Driver shall provide a software interface to halt the communication of a specific FlexRay CC at the end of the current Communication Cycle.,FR
+The FlexRay Driver shall provide a software interface to initialize and configure a specific FlexRay CC.,FR
+The FlexRay Driver shall provide a software interface to send a wake-up pattern on a specific FlexRay Channel of a specific FlexRay CC.,FR
+The FlexRay Driver shall provide a software interface to get the CC POC status of a specific FlexRay CC.,FR
+The FlexRay Driver shall provide a software interface to get the sync state of a specific FlexRay CC.,FR
+The FlexRay Driver shall provide an API that cancels a transmit request to remove it from the CC buffer.,FR
+The FlexRay Driver shall provide a method that reinitializes CC functionality when trouble occurs at the hardware level.,FR
+The FlexRay Transport Layer shall identify each N-SDU with a unique identifier independent of addressing mode configuration.,FR
+The FlexRay Transport Layer shall implement an initialization interface to initialize all global variables and set all connections to default Idle state.,FR
+The FlexRay Transport Layer services shall not be operational before the module is initialized and shall raise an error in development mode if not initialized.,FR
+The FlexRay Transport Layer shall support per connection the ISO 10681-2 and ISO 15765-2 service N_ChangeParameter to adapt bandwidth control parameters.,FR
+The FlexRay Transport Layer shall provide to the sender a cancellation service of transmission at any point in time.,FR
+The FlexRay Transport Layer shall support the dynamic bandwidth control mechanism as described in ISO 10681-2.,FR
+The FlexRay Transceiver Driver shall provide an API to initialize the driver internally during the ECU power-up or reset sequence.,FR
+The FlexRay Transceiver Driver shall provide a software interface to get the wake-up reason of a specific FlexRay Transceiver device.,FR
+The FlexRay Transceiver Driver shall call a notification to higher layers when the transceiver detects a wake-up by bus.,FR
+The FlexRay Interface shall provide a software interface to get the wake-up reason of a specific FlexRay Transceiver device.,FR
+The FlexRay Interface shall provide a software interface to enable the wake-up indication of a specific FlexRay Transceiver device.,FR
+The FlexRay Interface shall provide a software interface to disable the wake-up indication of a specific FlexRay Transceiver device.,FR
+The FlexRay Interface shall provide a software interface to clear all pending wake-up events of a specific FlexRay Transceiver device.,FR
+For data reception and sending the FlexRay Interface shall provide upper software layers an abstraction from specific FlexRay features as well as a PDU-based API.,NFR
+The FlexRay Interface shall allocate the needed memory space only once for a PDU sent multiple times in the FlexRay matrix.,NFR
+The software interface of the FlexRay Driver shall be independent of the FlexRay CC transmit and receive buffers configuration and their access.,NFR
+The FlexRay Interface configuration shall be done at system configuration time before the execution of the FlexRay Interface code.,NFR
+The configuration of the FlexRay Driver shall be defined at system configuration time before the execution of the FlexRay Driver code.,NFR
+The FlexRay Transport Layer software module shall be located between the PDU Router and the FlexRay Interface for FlexRay PDUs requiring Transport Protocol functionalities.,NFR
+The FlexRay Transport Layer implementation shall be independent of the network configuration represented by the FlexRay communication matrix.,NFR
+The FlexRay-related BSW modules shall ensure that no timer interrupt from a FlexRay CC will be forwarded to other software modules during the shutdown phase.,NFR
+The FlexRay-related BSW modules shall ensure that no timer interrupt from a FlexRay CC will be forwarded to other software modules during the start-up phase.,NFR
+The FlexRay Driver shall raise an error if a time services function is called after communication of the CC has been halted or aborted.,NFR
+The FlexRay Driver shall raise an error if a time services function is called for a FlexRay CC which is not synchronous to its Cluster.,NFR
+The FlexRay Transceiver Driver shall check the correctness of the executed control communication and the operation mode a transceiver is in.,NFR
+The FlexRay Driver shall decide whether the received frame is valid in accordance with a criteria setting defined in pre-compiled parameters.,NFR
+The FlexRay Driver shall check whether the CC is working properly at its initialization phase and notify errors to the application when illegal status is detected.,NFR
+The FlexRay Transceiver Driver initialization function shall check error status in BD to ensure the hardware is working properly.,NFR
+The FlexRay Transceiver Driver shall support situations where a wake-up by bus occurs at the same moment the transition to standby or sleep is executed by the driver.,NFR
+The FlexRay Transceiver Driver shall support the AUTOSAR ECU state manager in a way that a safe system startup and shutdown is possible.,NFR
+The FlexRay Transceiver Driver shall handle the transceiver-specific timing requirements internally including predefined sequences applied to ports.,NFR
+The FlexRay BSW modules shall provide a method to trigger functionality by an OS-task instead of using the FlexRay interrupt to reduce interrupt resource consumption.,NFR
+The FlexRay Transport Layer shall support at least 32 logical FlexRay Transport Layer active connections being used concurrently.,NFR
+The FlexRay Transceiver Driver shall support the configuration for more than one transceiver type as well as for more than one FlexRay Cluster.,NFR
+For safety reasons it shall be possible to completely deactivate the runtime configuration switching feature at pre compile time.,NFR
+The transceiver driver package shall include a description file with the basic information needed to configure the driver for a given bus and the supported notifications.,NFR
+The FlexRay Transceiver Driver shall support the configuration sequence of the AUTOSAR stack to enable correct ECU startup behavior.,NFR
+It shall be possible to select at pre-compile time which AUTOSAR Transport Protocol Module shall be used: ISO 10681-2 or ISO 15765-2 or both.,NFR
+All post-build configuration parameters of the FlexRay Transport Layer shall be modifiable by a flashing process.,NFR
+In the FlexRay Interface a pre-compile configuration parameter shall define the mode in the checking function of L-PDU length supporting both loose and strict validation modes.,NFR
+FlexRay 2.1 and 3.0 Communication Controllers and Transceivers shall be supported by the FlexRay BSW modules.,NFR
+It shall be possible to configure the AUTOSAR FlexRay Transport Layer at system configuration time to be compliant with the ISO 10681-2 specification.,NFR
+It shall be possible to select the AUTOSAR FlexRay Transport Layer at pre-compile time to be compliant with ISO 15765-2 regarding the PCI layout.,NFR
+Hardware filtering mechanism provided by the FlexRay CC for selecting receive buffers based on a message ID within the dynamic segment shall be supported.,NFR
+It shall be possible to transmit and receive dynamic LPdu payload length in the dynamic segment of a FlexRay Communication Cycle.,NFR
+The FlexRay Interface shall periodically call an API that detects error information in transmitted frames controlled by a pre-compile configuration parameter.,NFR
+The FlexRay Transceiver Driver API shall be synchronous to ease implementation of wake-up and sleep concepts and improve testability in the AUTOSAR BSW environment.,NFR

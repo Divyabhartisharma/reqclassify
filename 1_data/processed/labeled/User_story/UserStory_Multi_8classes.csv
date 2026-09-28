@@ -1,0 +1,1601 @@
+Requirement,Type
+as a broker user i want the d1 file generation to be synced with the fpds data load so that i dont have to regenerate a file if no data has been updated,CM
+as a dataset developer i want to separate the interface from the implementation of a dataset type,CM
+as a diabetic patient i want to easily sync my glucose data with my electronic health record so that my healthcare team can stay updated on my condition,CM
+as a home occupant i want coffee machine is controllable from mobile and tablet so that can be save time,CM
+as a hotel event planner i want to manage event bookings and integrate them with room reservations so that guests attending events have a seamless experience,CM
+as a researcher i want an app that generates an openrefine reconciliation api endpoint from a tabular data package so that i can use it to clean messy data,CM
+as a student i want the library system to link to academic databases so that i can access a wide range of resources,CM
+as a user i want the app to accurately convert my handwriting to digital text so that i can save time on manual transcription,CM
+as a user i want to be able to sync my personal calendar with other calendars so that i can see all my events in one place,CM
+as a user i want to control layer rendering symbology for vt gis data layers accessed via a web map service,CM
+as an app developer i want to perform custom administrative operations on dataset instances from my app and the cli and rest or the ui,CM
+as an archivist i want to export a description as ead,CM
+as a bath data archive administrator i want to import bath data from an external data centre wholesale so that bath data holdings in external archives are not lost if they close down,CM
+as a business analyst i want the software to adapt to different data analysis methods so that it is versatile for various tasks,CM
+as a business owner i want the system to integrate with employee performance data so that salary reviews can be based on measurable metrics,CM
+as a business owner i want to integrate the salary management system with my accounting software so that i can streamline financial processes,CM
+as a cataloger and a collections manager i want trident to support duke core so that metadata is consistent between collections,CM
+as a collection manager i want to import metadata and create records from a dcp digitazation guide,CM
+as a collection manager i want to map fields in inherited metadata to duke core fields and import a spreadsheet and create records,CM
+as a company executive i want to ensure that our software is compatible with major thirdparty tools we use,CM
+as a consumer i want to download a data package at a particular version so that that i know it is compatible with my scripts and system,CM
+as a consumer i want to download a datapackages data one coherent sqlite database so that that i can get it easily in one form,CM
+as a controller i want my house to integrate to my phone and tell me when i need to service or repair something so that repairs dont get more costly or do damage,CM
+as a customer i want the ability to export my transaction data so that i can use it for personal finance management,CM
+as a data analyst i want to download datasets in various formats so that i can use them in different analytical tools,CM
+as a data consuming user i want to be able to download a csv of the data that is used in any visualisation i am viewing so that i can use the data in other tools,CM
+as a data librarian i want to extract pointers from the dmp to metadata held in other systems so that i can import this metadata into a data catalogue,CM
+as a data librarian i want to import administrative information regarding a project into dmp so that i can prepopulate the dmp,CM
+as a data publishing user i want to be able to import data from a google spreadsheet so that i do not have to convert data formats in order to use the data packager,CM
+as a data publishing user i want to be able to import data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager,CM
+as a data publishing user i want to be able to import data in excel so that i do not have to convert data formats in order to use the data packager,CM
+as a data publishing user i want to be able to import data in json so that i do not have to convert data formats in order to use the data packager,CM
+as a data reuser i want to view a doi for a dataset so that i can get back to the data in future and i can import the dataset into my referencemanagement software automatically,CM
+as a data scientist i want apis for integration with analytical tools so that i can automate workflows and analysis,CM
+as a database manager i want to easily integrate the new software with our existing database systems,CM
+as a developer i want a dat integration so that i can integrate datapackaged data with pipelines that use dat,CM
+as a developer i want a dummy app to test ddr models on fedora 4,CM
+as a developer i want a jquery plugin for core data packages so that i can use it to apply to form control that uses a core dataset for autocompletion,CM
+as a developer i want a mongo integration so that i can integrate datapackaged data with pipelines that use mongo,CM
+as a developer i want an dspace integration so that i can integrate datapackaged data with pipelines that use dspace,CM
+as a developer i want an elasticsearch integration so that i can integrate datapackaged data with pipelines that use elasticsearch,CM
+as a developer i want an eprints integration so that i can integrate datapackaged data with pipelines that use eprints,CM
+as a developer i want an spss integration so that i can integrate datapackaged data with pipelines that use spss,CM
+as a developer i want feather integration so that i can integrate datapackaged data with pipelines that use feather,CM
+as a developer i want hdf5 integration so that i can integrate datapackaged data with pipelines that use hdf5,CM
+as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios application,CM
+as a developer i want to be able to generate testcases for compatibility testing so that i can ensure that the software works correctly with different devices browsers and platforms,CM
+as a developer i want to be able to generate testcases for different input formats eg xml json csv so that i can ensure that the software handles different input types correctly,CM
+as a developer i want to be able to generate testcases for integration testing so that i can ensure that the software works correctly with other systems and components,CM
+as a developer i want to be able to integrate the automatic testcase generation tool with my development environment eg ide build system so that i can easily run and debug the generated testcases,CM
+as a developer i want to do exploratory data analysis in r and operationalize that analysis in python so that i can use the best tool for the job,CM
+as a developer i want to get a data package into c in seconds so that i can start using the data in doing analysis and visualizations,CM
+as a developer i want to get a data package into clojure in seconds so that i can start using the data in doing analysis and visualizations,CM
+as a developer i want to get a data package into julia in seconds so that i can start using the data in doing analysis and visualizations,CM
+as a developer i want to get a data package into node so that i can start using the data for doing analysis and visualizations,CM
+as a developer i want to get a data package into python in seconds so that i can start using the data for doing analysis and visualizations,CM
+as a developer i want to have written a site which is compliant with xhtml and css standards so that as many people as possible can access the site and view it as intended,CM
+as a developer i want to use data package as a node lib in my project so that that i can depend on it using my normal dependency framework,CM
+as a developer of openbeta i need google analytics on the current usaspendinggov to develop wireframes for the home page and for search,CM
+as a developerdatawrangler i want to store my data package in github and have it automatically stored into ckan so that i get a data api and my dataset is listed in a relevant catalog,CM
+as a diabetic patient i want the device to integrate with health management apps so that i can have a centralized view of my health data,CM
+as a doctor i should be able to transfer the digital medical record to this system so that i have all the info consolidated in one place,CM
+as a doctor i want mobile devices to be integrated with emrs so that any data collected by mobile devices can be stored on emrs,CM
+as a doctor i want to be able to automatically transfer prescriptions to pharmacy information systems,CM
+as a doctor i want to be able to link an external device to the software so that the data generated can be uploaded automatically to the software,CM
+as a fat person i want my scale to connect to my ipad so that i can track weightloss,CM
+as a fitness enthusiast i want to integrate the app with my fitness wearables so that i can track my workouts more accurately,CM
+as a gamer i want my entertainment system to integrate with my steam accounts so that it can show me suggestions for what i might want to play in the future,CM
+as a gamer i want the game to be compatible with various gaming consoles and pcs,CM
+as a home occupant i want an oven synced with my smartphone so it preheats based on a recipe i have pulled up so that cooking is easier and more efficient,CM
+as a home owner i want smart home that integrates with every tv in each room to coordinate viewing so that i can streamline my viewing experience,CM
+as a hospital administrator i want the system to integrate with existing health information exchanges so that we can share data with other healthcare providers,CM
+as a hospital it specialist i want the system to be compatible with other healthcare technologies so that we can integrate new tools and systems as needed,CM
+as a hospital it specialist i want the system to be compatible with various medical devices and equipment so that data from these devices can be integrated into patient records,CM
+as a hotel it staff i want to ensure that the reservation system is compatible with various browsers and devices so that all potential guests can book easily,CM
+as a hotel manager i want to integrate the reservation system with other hotel management software so that we have a unified system for operations,CM
+as a hotel manager i want to integrate the reservation system with our pointofsale systems so that guest charges can be accurately tracked and billed,CM
+as a librarian i want the system to be compatible with various printers and scanners so that we can digitize and print materials easily,CM
+as a librarian i want the system to integrate with existing databases so that there is a seamless transition,CM
+as a library manager i want to integrate academic journals and publications so that students and faculty can access a wide range of resources,CM
+as a machine learning expert i would like to package ml datasets as data packages so that i can easily import them into my ml platform so that i can start using the data in doing analysis,CM
+as a metadata batch editor id like to be able to export and import descriptive and administrative metadata for multiple collections together,CM
+as a moderator i want to export a transcript of a game as a csv file so that i can further process the stories and estimates,CM
+as a moderator i want to export a transcript of a game as a html file so that i can save the stories and estimates locally,CM
+as a moderator i want to import stories from a spreadsheet so that i dont have to copy and paste each individual story,CM
+as a movie lover i want a projector mounted on the wall that has wifi capabilities to connect to video streaming services netflix etc so that my family can be entertained without having to fumble with several different electronics,CM
+as a nurse i want to be able to link an external device to the software so that the data generated can be uploaded automatically to the software,CM
+as a payroll manager i want the system to integrate seamlessly with time tracking software so that employee hours are automatically reflected in payroll,CM
+as a publisher i want to import my data package into the registry so that my data has a permanent online home to access,CM
+as a publisher i would like an integration with excel so that i can output cleaned data packages,CM
+as a publisher i would like an integration with open refine so that i can output cleaned data packages,CM
+as a repository administrator i want symplectic elements to integrate with ddr they provide a fedora connector and emory is using a hidden fedora instance that hydra collects objects for note that there is bidirectional communication with elements,CM
+as a repository developer i would like to upgrade to fedora 4 and migrate our applications and data,CM
+as a repository manager id like to be able to export a spreadsheet of technical metadata at the repository collection or item level,CM
+as a research information manager i want to integrate the archive with cris so that i can analyse impact of research data publication i can link funding to all of the outputs it produces,CM
+as a researcher i want an integration with httpsdatamendeleycom so that i can validate my data upon ingest to the service,CM
+as a researcher i want the cms to be integrated with academic citation tools so that referencing is streamlined in my publications,CM
+as a researcher i want to be able to translate my eml dataset to a data package so that i can benefit from the wide array of tools available for data packages,CM
+as a researcher i want to export descriptive data in a common format so that i can use text mining tools on it,CM
+as a researcher i want to get a data package into excel in seconds so that i can start using the data for doing analysis and visualizations,CM
+as a researcher i want to get a data package into julia in seconds so that i can start using the data for doing analysis and visualizations,CM
+as a researcher i want to get a data package into libreofficeopenoffice in seconds so that i can start using the data for doing analysis and visualizations,CM
+as a researcher i want to get a data package into r in seconds so that i can start using the data for doing analysis and visualizations,CM
+as a researcher i want to get a data package into spss in seconds so that i can start using the data for doing analysis and visualizations,CM
+as a researcher i want to get a data package into stata in seconds so that i can start using the data for doing analysis and visualizations,CM
+as a researcher i want to get my excel spreadsheet into a data package so that i can benefit from better tooling and standardization,CM
+as a researcher i want to import metadata that i captured with a metadata tool so that i do not have to capture it again in a dmp,CM
+as a researcher working with data i want an microsoft power bi integration so that i can import datasets without downloading them locally,CM
+as a researcher working with data in netcdf i want netcdf integration so that i can store my data in plaintext while still retaining its metadata,CM
+as a researcherdeveloper would like the ability importexport from mssql so that i can use data packages in workflows that involve mssql,CM
+as a researcherpublisher i want an integration with zenodo so that when i store my dataset in github i dont have to retype descriptive information about my dataset,CM
+as a software developer i want an automatic testcase generation tool to integrate with my continuous integrationcontinuous deployment pipeline so that i can ensure that any changes made to the codebase do not introduce new bugs or regressions,CM
+as a software integrator i need the new system to work with our existing legacy systems,CM
+as a student i want the cms to be compatible with reference management software so that i can cite sources easily,CM
+as a system admin i need the software to integrate smoothly with different database systems,CM
+as a system administrator i want electronic medical records emrs to be integrated with the new management system so that there is a digital collection of a patients medical information available,CM
+as a system administrator i want the software to be compatible with our existing hardware so that integration costs are minimal,CM
+as a system administrator i want to migrate data from an older version of neurohub to the current version,CM
+as a system administrator i want to run a script that installs the neurohub node onto a virgin ubuntu operating system,CM
+as a system integrator i want the software to work with various data formats so that integration is seamless,CM
+as a systems administrator i want to install neurohub dependencies into an ubuntu 1004 lts machine using the normal ubuntu package management tools,CM
+as a teacher i want the system to be compatible with standardized testing formats so that i can prepare students for these assessments,CM
+as a teacher i want to integrate the system with external educational tools and platforms so that students have a broad range of learning resources,CM
+as a teacher i want to integrate the system with library resources so that students can access a wide range of academic materials,CM
+as a tester i want to be able to generate test cases that are compatible with different platforms and environments so that i can ensure that the software is reliable across different systems,CM
+as a university staff member i want the cms to integrate seamlessly with existing student information systems so that all digital assets are correlated with the relevant courses and students,CM
+as a university student i want the educational app to integrate with my academic tools so that my learning experience is cohesive,CM
+as a user i expect the website to be compatible with all major web browsers,CM
+as a user i want the app to be compatible with both ios and android so that i can chat with all my friends regardless of their device,CM
+as a user i want the app to be compatible with both ios and android so that i can use it regardless of my device,CM
+as a user i want the app to be compatible with different screen sizes and resolutions so that it looks good on any device,CM
+as a user i want the app to be compatible with gym equipment so that i can automatically log workouts from machines like treadmills or stationary bikes,CM
+as a user i want the app to be compatible with my wearable devices so that i can receive alerts and health recommendations,CM
+as a user i want the app to be compatible with various devices and screen sizes so that i can use it on any of my devices,CM
+as a user i want the option to export the converted text in various formats such as pdf or word so that i can use it in different applications,CM
+as a user i want to be able to sync my fitness data with other apps and devices so that i can have a comprehensive view of my health,CM
+as a user i want to be able to upload documents in various file formats such as jpeg png or pdf so that i can convert files directly from my camera or scanner,CM
+as a user i want to download data in nongis formats eg csv geojson,CM
+as a user i want to download vt gis data layers in esri file geodatabase format,CM
+as a user i want to download vt gis data layers in esri shapefile format,CM
+as a user i want to download vt gis data layers in gml format,CM
+as a user i want to download vt gis data layers in kml format,CM
+as a user i want to have access to data warehouse capabilities via a published api eg rest endpoint so i can integrate it,CM
+as a user i want to integrate aerial photos eg vt orthos into my own web mashups,CM
+as a user i want to integrate vt gis data layers into my own web mashups,CM
+as a user i want to sync events created in neurohub with a webbased calendar such as google calendar,CM
+as a visually impaired user i want the app to be compatible with screen readers so that i can use it independently,CM
+as admin im able to import event records,CM
+as an administrator i want the cms to integrate with the universitys event calendar so that students can stay informed about upcoming events,CM
+as an administrator i want to export rulebase parts to standard formats so that information exchange with other systems can happen,CM
+as an administrator i want to have a connection with magicdraw so that implementation details can easily be connected to business rules,CM
+as an app developer i want the application to be compatible with the latest os versions so that it stays relevant,CM
+as an app developer i want to tolerate existing datasets if their properties are different but compatible when creating a dataset as part of app deployment,CM
+as an archivist i want to export agent records as eaccpf,CM
+as an archivist i want to import accessions data in csv,CM
+as an archivist i want to import agent information from eaccpf records,CM
+as an archivist i want to import ead data,CM
+as an archivist i want to import ead files that were exported by archon,CM
+as an archivist i want to import ead files that were exported by the archivists toolkit,CM
+as an archivist i want to import only agent and subject information from marcxml records,CM
+as an archivist i want to import resources from marcxml records,CM
+as an archivist i want to upload an ead for import from within the frontend application,CM
+as an archivist i want to use archival content on the rac website so that i can integrate our collections into our web presence,CM
+as an ez developer i want to have my development environment ready to work with the ez event site bundle,CM
+as an ez developer i want to have the ez event site bundle in a github repository,CM
+as an it manager i need to integrate the new software with our existing network infrastructure,CM
+as an it manager i want ipv6 support by cms sitemanager so im ensured that cms sitemanager will work fine once ipv6 is applied into our hostingnetwork environment,CM
+as an it manager i want the new software to integrate with our current systems so that we have a unified workflow,CM
+as an it manager i want the software to integrate with our existing crm system,CM
+as an online gamer i want the game to be compatible with different gaming platforms so that it is widely accessible,CM
+as an online teacher i want the teaching platform to be compatible with various digital whiteboards so that my lessons are interactive and engaging,CM
+as an univitservice i want to integrate the archive with existing university systems such as ldap so that the cost of administering the system can be kept low,CM
+as metadata architect i want to be able to use batch tools to ingest update and export descriptive and administrative metadata in lieu of mets ingest,CM
+as patient i want to be able to link my fitness device to this software so that i can make use of the data that is generated by my fitness device,CM
+as repository developer i want to find opportunities to merge functionality in batch tools,CM
+"As a manager, I need seamless integration with external systems.",CM
+"As a analyst, I want the application to be compatible with various browsers to ensure smooth operations.",CM
+"As a end-user, I want seamless integration with third-party CRM to avoid compatibility problems.",CM
+"As a end-user, I want the application to be compatible with various browsers to ensure smooth operations.",CM
+"As a admin, I need the system to work across multiple device types without issues.",CM
+"As a end-user, I need the system to work across desktops, tablets, and smartphones without issues.",CM
+"As a analyst, I want seamless integration with third-party CRM to avoid compatibility problems.",CM
+"As a developer, I need the system to work across desktops, tablets, and smartphones without issues.",CM
+"As a manager, I want the application to be compatible with different operating systems to ensure smooth operations.",CM
+"As a manager, I want seamless integration with third-party CRM to avoid compatibility problems.",CM
+"As a admin, I want the application to be compatible with different operating systems to ensure smooth operations.",CM
+"As a analyst, I need the system to work across multiple device types without issues.",CM
+"As a developer, I want the application to be compatible with different operating systems to ensure smooth operations.",CM
+"As a analyst, I want the application to be compatible with different operating systems to ensure smooth operations.",CM
+"As a customer, I want the payment system to support different banks, so that I can use my preferred card.",CM
+"As a remote worker, I want the video call feature to work on various browsers, so that I donâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥t need extra software.",CM
+"As a guest user, I want my profile to sync with other apps, so that I donâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥t have to re-enter information.",CM
+"As an organizer, I want calendar events to integrate with popular scheduling apps, so that I can stay on top of my meetings.",CM
+"As a tourist, I want the map app to support local GPS services, so that I get accurate directions.",CM
+"As an author, I want text formatting to remain intact across word processors, so that my documents stay neat.",CM
+"As a teacher, I want class content to sync between school and home devices, so that I save time.",CM
+"As a consultant, I want project files to work across platforms, so that I collaborate with clients smoothly.",CM
+"As a end-user, I need seamless integration with third-party tools, so that I can automate workflows.",CM
+"As a developer, I want data formats to be compatible across modules, so that information is not lost.",CM
+"As a team leader, I need API endpoints to follow industry standards, so that developers can integrate easily.",CM
+as a a caretaker i want backup generator so that home dialysis wouldnt have to stop during an outtage,FR
+as a a command kitchen that controls appliances by voice i want i can remote activate anything even not in the kitchen so that energy,FR
+as a a farmer i want to know the weather so that when the rain come and light is high,FR
+as a a farmer i want to regulate the motor so that it is very useful for save the water and electricity,FR
+as a a headmaster i want maintain the working hours arrange the good teacher for free students so that increase the good result for the school,FR
+as a a home owner i want lights that turn on when someone approaches so that so that i can see people outside my home,FR
+as a a home owner i want to be able to access my pantry and fridges inventory so that i can get exactly what i need from the grocery store without having to create a list,FR
+as a a mother i want remind about homework so that so i dont forget,FR
+as a a musician i want microphone picks up voice or instruments and automatically records the sound then transcribes and composes into sheet music so that i can easily get my creative ideas documented,FR
+as a a parents i want i want to block strangers from entering my house when the child is alone so that i am tension free,FR
+as a a student i want schedule the home work so that very lot of work give importance and get low marks to get alert,FR
+as a active person i want a floor that counts how many steps i take a day so that i can track my fitness around the house without any attachments,FR
+as a administrator i want to assign a room to a time slot and a location so that i can populate the schedule,FR
+as a administrator i want to assign sponsors to events trainings and summits so that they will be featured on the sponsor detail page,FR
+as a administrator i want to bulk approve sessions as accepted so that i can save time,FR
+as a administrator i want to create and maintain venues so that i can provide location details to help users find what theyre looking for,FR
+as a administrator i want to create blog posts so that i can share the latest information about badcamp with the public,FR
+as a administrator i want to mark a session as accepted so that i can populate the schedule,FR
+as a administrator i want to refund sponsorship money that was processed via stripe so that people get their monies back,FR
+as a administrator i want to tag my blog posts for consumption by drupal planet so that they will be listed on the drupal planet blog,FR
+as a adult i want smoke detectors that can notify my phone so that i know if there is anything wrong in the house,FR
+as a agency data creatorsandbox tester i need to be able to inform the sprint process,FR
+as a alcohol drinker i want alcohol supplies to be maintained so that there is sufficient alcohol,FR
+as a allergy sufferer i want air quality monitor so that i can be warned of pollutants in the air,FR
+as a animal lover i want my smart home to inform me if any animal enters into my home or garage so that i can take steps to make sure that both the animal and my family remain safe from potential threats to one another,FR
+as a anonymoususer i want to easily find a link in the menu that links to the registration form so that i can easily register for the camp,FR
+as a anonymoususer i want to fill out a user registration form so that i can register for the camp and get an account on the website,FR
+as a anonymoususer i want to find out where the coding lounge is and what time it is open so that i can code with my friends,FR
+as a anonymoususer i want to find session information so that i can go to a session,FR
+as a anonymoususer i want to have a dedicated page for each class to learn more about the offering the following information must be shown logo title trainers location possibly a map view datetime skill level registrations remaining link to register for class the url path should be seo friendly trainingtrainingtitle so that i can choose the right class and the trainer can tweet and promote their class,FR
+as a anonymoususer i want to have a link on the home page to a list of training options so that i can take training,FR
+as a anonymoususer i want to have a training landing page with an intro section and a list of all training offerings and promote call for trainings so that i can shop for training all with one page and we can have a call for trainings for selection,FR
+as a anonymoususer i want to have the training options clearly marked for the following information day and time of training title short summary trainers level number of registrations remaining registrations location of training link to full details of the training register now link so that i can shop for training all with one page and find their class on on one page,FR
+as a anonymoususer i want to learn about posting jobs as a sponsor and contact the sponsorship person so that i have the opportunty to post my job listing on the badcamp site,FR
+as a anonymoususer i want to learn about sponsorship levels so that i can determine the right level of sponsorship for my organization,FR
+as a anonymoususer i want to read the blog so that i can stay informed about all the latest happenings with badcamp,FR
+as a anonymoususer i want to receive a notification when i submit a session so that know that my session went through ok,FR
+as a anonymoususer i want to receive a notification when sessions have been evaluated so that i know whether ive been accepted or rejected,FR
+as a anonymoususer i want to register to speak at badcamp so that i submit a session,FR
+as a anonymoususer i want to see a list of all the summits so that i can determine which summit i might be interested and able to attend,FR
+as a anonymoususer i want to see a list of all the summits that include when they are so that i can determine which summit i want to attend,FR
+as a anonymoususer i want to see a list of attendees associated with this company so that i know who from this sponsor organization is attending,FR
+as a anonymoususer i want to see a list of the sessions associated with sponsor attendees so that i know where i can engage with this sponsor and where they are thought leaders,FR
+as a anonymoususer i want to see all events trainings and summits that a sponsor is sponsoring so that i know where i can engage with this sponsor and where they are thought leaders,FR
+as a anonymoususer i want to see how many seats are left for the summit so that i can make sure to register intime to reserve my spot,FR
+as a anonymoususer i want to see specific details on summits so that i can learn more about the summit im interested in to see if it matches my interests register for the event and get dayof knowledge to help me get to the location,FR
+as a anonymoususer i want to see the final list of sessions approved so that i can see whats going on at badcamp,FR
+as a anonymoususer i want to see the schedule so that i can plan my day and figure out where to go,FR
+as a anonymoususer i want to sign up for the badcamp newsletter so that i can stay up to date with the latest communications about badcamp,FR
+as a anonymoususer i want to view a list of sponsors so that i can thank all the awesome sponsors,FR
+as a anonymoususer i want to view a list of user profiles so that i know who is attending the conference,FR
+as a anonymoususer i want to view venue details so that i can get a sense of the location and see the events happening there,FR
+as a anxious person i want smart light controls so that i can turn all of the lights off from my bed,FR
+as a aquarium owner i want leakage sensors so that if anything around my tank starts to leak i get notified,FR
+as a archivist i want bidirectional linking between items in the digital collections and ead finding aids,FR
+as a art fan i want an art room so that i can admire my collections,FR
+as a artist i want to be able to play around on softwares between screens around my house so that i can work more efficiently,FR
+as a as a home occupant i want sensors that will detect rodent activity so that ill know when varmint control measures need to be taken,FR
+as a as a lady who lives alone i want smart home to check for movement in my home prior to my entering so that i know that no one is waiting for me on the inside of the home,FR
+as a as a parent i want monitor when the baby is waking up from sleep so that turn my concentration towards by baby,FR
+as a aspiring baker i want to bake so that my baked goods are considered delicious,FR
+as a assistant i want my smart home to give alert if anything is on the floor apart from usual things like if my key is lost somewhere my smart house should give me an alert of direction where i should search it so that it can save my time to search things,FR
+as a assistant i want my smart home to have voice command feature to operate activities from bathrooms so that even if i am alone in home and in bathroom i can manage the activities,FR
+as a asthmatic i want my home to let me know when dust particulates are high so that dont go into anaphalaxis,FR
+as a athlete i want a motivator to alert me when i did not go to the gym so that i can go to the gym and continue my fitness goals,FR
+as a athlete i want my treadmill to alert me when i havent used it in too long so that i know i need to exercise,FR
+as a attendee i want to be added to a training waitlist so that so they can be considered for a class,FR
+as a attendee i want to get detailed directions to the summit venue so that i can get to the summit easily on the day of the event,FR
+as a attendee i want to have a very clear map where the buildings and rooms are so that i can make it to class on time,FR
+as a attendee i want to register for a summit so that i can reserve my seat at the summit,FR
+as a attendee i want to see what summits im signed up for so that i can confirm my attendence and prevent myself from accidentally doublebooking with a training or another summit,FR
+as a aunt i want safety outlets so that to prevent my nieces and nephews from getting shocked,FR
+as a authenticated user i want to identify myself as and pay for a 350 company sponsorship so that i can easily become a sponsor at this level without having to interface with badcamp personnel to get a sponsorship,FR
+as a authenticateduser i want to be offered several choices of idividual sponsorship on the second page of registration so that i can be awesome and financially support the camp,FR
+as a authenticateduser i want to edit my session so that if i make a mistake i can correct it,FR
+as a authenticateduser i want to enter payment information and have my card charged for an individual sponsorship so that i can pay for an individual sponsorship,FR
+as a authenticateduser i want to find a link on the sponsorships page to become a 350 level sponsor so that i can pay for and become a sponsor role,FR
+as a authenticateduser i want to see a payment page to pay for my individual sponsorships as the third step of the registration process so that pay for my sponsorship,FR
+as a authenticateduser i want to submit a session at badcamp so that i can get my session evaluated,FR
+as a authenticateduser i want to update my user profile so that i can connect with other drupalists at badcamp,FR
+as a authenticateduser i want to use a wysiwyg editor for all longform content so that i dont have to know html to update my content,FR
+as a authenticateduser i want to view the job board so that i can look for an interesting drupal gig,FR
+as a avid online shopper i want my smart home to sync with package deliveries so that so that the packages can be left at my door,FR
+as a bank account holder i want the app to provide insights into my spending habits so that i can budget more effectively,FR
+as a bank customer i want to be able to view my account balance online so that i can keep track of my finances,FR
+as a baseball fan i want my smart phone to notify me 10 minutes before the braves games begin and if i dont respond automatically dvr the game so that i dont miss a single game,FR
+as a basic data entry user i want to create and update basic archival description information,FR
+as a batch submitter i want documentation describing the folder ingest process,FR
+as a batch submitter id like to be able to provide my data and metadata in a simple documented format to the repository staff for ingest,FR
+as a bath data archive administrator i want to encourage and promote the use of open standards for deposit so that data is as reusable as possible,FR
+as a bath data archive administrator i want to make some checks on deposited datasets before they are made public so that consistent quality of metadata is maintained compliance with policies can be checked and details of licensing can be checked,FR
+as a bath data archive administrator i want to query the entire archive so that i can report on particular aspects of the archive holdings,FR
+as a bath data archive administrator i want to require a minimum set of metadata so that consistent quality of metadata is maintained,FR
+as a bath taker i want a feature that can fill a tub remotely to the temperature i set as well as dispense correct amounts of soapbubble bath so that i can do other things while the tub is filling or i can have the tub ready for me when i get in,FR
+as a bath taker i want set temp just right so that good bath,FR
+as a bbq lover i want smart thermometer so that i know when the meat is ready from inside my house while its in the barbecue or oven,FR
+as a beta user i want to be able to browse the data from the homepage,FR
+as a beta user i want to discover content on the homepage thats not map related,FR
+as a beta user i want to see how we spend money on different categories,FR
+as a bill payer i want a thermostat that learns my schedule and selfadjusts so that i know i am saving as much as possible on my home heating costs,FR
+as a bill payer i want lights to automatically turn off when no motion is detected in a room so that i will save on bills,FR
+as a bill payer i want lights to turn off if no one has entered a room during a given period so that i can save electricity,FR
+as a bill payer i want measurements of what each appliance draws in voltage so that i can conserve energy,FR
+as a bill payer i want my phone to tell me the temp in my house and allow me to adjust it so that i can keep my bill lower,FR
+as a billing department employee i want to see the date of an appointment so that i can check if the bill is correct,FR
+as a billing department employee i want to see the start and end time of an appointment so that i can check if bill is correct,FR
+as a billing department employee i want to view the appointment information that the doctor entered into the system so that i can check if the bill is correct,FR
+as a billing specialist i want to process insurance claims electronically so that we can streamline billing and reduce paperwork,FR
+as a bird owner i want ceiling fans to shut off when bird is in the room so that he doesnt get chopped,FR
+as a blood bank manager i want the app to help in predicting donation trends so that we can better prepare for future needs,FR
+as a blood recipient i want to thank donors through the app so that i can express my gratitude for their contribution,FR
+as a board game geek i want a robot that automatically keeps track of gaming pieces and can set up a game and put it away so that i dont ever lose pieces from board games and dont waste time setting it up and cleaning it back up,FR
+as a book lover i want lights that i can adjust from my chair so that i can continue to read without worry about eye strain,FR
+as a borrower i want to search by title so that i can check it exists or not on database,FR
+as a bread eater i want my toaster to send me a text so that i can know when the toast is finished without looking at the toaster,FR
+as a bride or groom i want to be able to collaborate and communicate with my wedding party and guests,FR
+as a bride or groom i want to be able to create a wedding checklist and timeline to keep track of all the tasks and deadlines,FR
+as a bride or groom i want to be able to create and share my wedding registry,FR
+as a bride or groom i want to be able to manage my wedding budget and expenses,FR
+as a bride or groom i want to be able to plan and schedule my wedding ceremony and reception,FR
+as a bride or groom i want to be able to search for and book wedding venues and vendors,FR
+as a broker team member i want to add the and forgn ppopcode cases to the derivation logic,FR
+as a broker team member i want to derive fundingagencycode so that the data quality and completeness improves,FR
+as a broker team member i want to ensure the broker resources validations and pp pages are updated appropriately for the launch of fabs and daims v11,FR
+as a broker team member i want to make some updates to the sql codes for clarity,FR
+as a broker user i want the historical fabs loader to derive fields so that my agency codes are correct in the publishedawardfinancialassistance table,FR
+as a broker user i want to have ppopzip4 work the same as the legal entity zip validations,FR
+as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so that i can fix my submission,FR
+as a broker user i want to submit records for individual recipients without receiving a duns error,FR
+as a broker user i want to upload and validate the error message to have accurate text,FR
+as a business analyst i want the system to generate accurate reports so that i can make informed decisions,FR
+as a business owner i want a home that is also like an assistant so that i can keep up to date with my responsibilities,FR
+as a business owner i want the ability to review and approve payroll before its finalized so that i can ensure its accuracy,FR
+as a business owner i want the inventory system to accurately reflect stock levels so that i can manage my supply chain effectively,FR
+as a business owner i want the system to alert me about payroll anomalies so that i can investigate and resolve potential issues promptly,FR
+as a business owner i want the system to alert me when payroll costs exceed budgeted amounts so that i can take corrective actions,FR
+as a business owner i want the system to generate payrollrelated tax documents so that we can streamline our tax reporting processes,FR
+as a business owner i want the system to provide insights into payroll trends over time so that i can identify and analyze changes in wage expenses,FR
+as a business owner i want to be able to track the time spent on each task or project so that i can accurately bill clients and optimize my teams productivity,FR
+as a business owner i want to easily adjust payroll for seasonal or parttime workers so that i can manage variable workforce costs,FR
+as a business owner i want to generate custom reports on payroll for different departments so that i can make informed business decisions,FR
+as a business owner i want to generate reports on payroll expenses so that i can analyze labor costs and budget effectively,FR
+as a business owner i want to manage multiple accounts in the app so that i can oversee all my business transactions,FR
+as a business owner i want to receive insights and analytics about payroll trends so that i can make datadriven decisions for the business,FR
+as a businessman i want the house to grab the mail so that i dont have to go to the mailbox,FR
+as a busy cook i want my smart home to be able to order food items i commonly use when i am running short so that i dont have to worry about running out of butter or flour or other pantry items,FR
+as a busy homeowner i want to recieve text alerts if i leave my garage door open after leaving so that i dont leave my garage door open unknowingly,FR
+as a busy mother i want my fridge to alert me when i am low on milk and cereal so that my kids will have food,FR
+as a busy woman i want voice activated online grocery ordering similar to dash with a voice activated component so that can order groceries as i realize im running out of something,FR
+as a camp administrator i want to be able to add campers so that i can keep track of each individual camper,FR
+as a camp administrator i want to be able to add parents so that they can enroll their kids at camp,FR
+as a camp administrator i want to be able to assign different positions to the staff members so that it is possible to organize activities in terms of responsibilities,FR
+as a camp administrator i want to be able to automatically create nametags for campers so that i can lower the amount of work i need to do,FR
+as a camp administrator i want to be able to create a registration form for both staff and kids so that i can keep organized,FR
+as a camp administrator i want to be able to create groups and add campers to the groups so that i can easily organize the campers,FR
+as a camp administrator i want to be able to create modify rules that campers and camp workers has to follow,FR
+as a camp administrator i want to be able to delete campers from the database so that i can keep my pages free of clutter,FR
+as a camp administrator i want to be able to delete parents from the database so that i can keep my pages free of unneeded clutter,FR
+as a camp administrator i want to be able to delete tasksactivities i scheduled so that i can keep the schedule clean of unneeded activities,FR
+as a camp administrator i want to be able to keep camper records from previous years so that the amount of work i need to do is lowered,FR
+as a camp administrator i want to be able to keep my information in one place so that the admins next year can improve on the previous years,FR
+as a camp administrator i want to be able to keep track of which camper submitted which forms so that legal issues are avoided,FR
+as a camp administrator i want to be able to modify a groups information so that i can keep the groups up to date,FR
+as a camp administrator i want to be able to modify tasksevents i scheduled in case there is a change so that i can always keep the schedule up to date,FR
+as a camp administrator i want to be able to modify the information of added parents so that i can keep parents information up to date,FR
+as a camp administrator i want to be able to modify the information of enrolled campers so that i can keep the campers information up to date,FR
+as a camp administrator i want to be able to notify parents all at once so that they can be notified of any upcoming events,FR
+as a camp administrator i want to be able to remove campers if they dont attend the camp anymore so that i can keep the records organized,FR
+as a camp administrator i want to be able to schedule activities for campers so that camp workers can easily keep track of who is where at all times,FR
+as a camp administrator i want to be able to schedule tasksactivities for a specific camp group so that i can track each groups dailyweekly and monthly activities,FR
+as a camp administrator i want to be able to see all my camp groups and the events scheduled for each camp group so that i can notify counselor of what their group will be doing for the day,FR
+as a camp administrator i want to be able to see medical forms so that we can be prepared for an allergy attack,FR
+as a camp administrator i want to be able to see only events for a specific groupgroups on the event calendar so that i can easily read the data on the calendar without too much clutter,FR
+as a camp administrator i want to be able to set a reminders related to specific tasks that has to be done,FR
+as a camp administrator i want to be able to suspend a camper who had behavioral problems,FR
+as a camp administrator i want to be able to upload consent forms so that campers or their parents can easily access the forms,FR
+as a camp administrator i want to be able to warn a camp worker who i think did hisher job inappropriate,FR
+as a camp administrator i want to create an avenue so parents can submit feedback and general concerns so that i can keep improving the services i provide,FR
+as a camp administrator i want to keep track of the usage of internal camp facilities so that i dont create conflicting schedules for the different camp groups,FR
+as a camp administrator i want to provide biweekly feedback to campers parents so that they can be aware of their childs behavior and performance at camp,FR
+as a camp administrator i want to store campers emergency information in a database so that i can easily notify the necessary parties in case of an emergency,FR
+as a camp administrator i want to store campers immediate parentguardians information so that i can easily call to notify them in case a grossly unacceptable behavior,FR
+as a camp counselor i want to be able to take attendance of my assigned kids so that i can make ensure everybody is accounted for,FR
+as a camp worker i want to be able to see which campers i am in charge of and where so that i can make sure i am doing my job properly,FR
+as a camp worker i would be able to submit a completion report for the tasks which was assigned to me,FR
+as a camp worker im able to report a camper to the manager with an inappropriate behavior,FR
+as a camp worker im able to report a list of supplies to the manager that the camp is short of,FR
+as a camp worker im able to report necessary repairs to the manager that the camp is needed of,FR
+as a cancer patient i want a full featured remote to control diagnostics of my health and be transmitted to my television so that i can monitor my diagnostics wireless and possibly have them transmitted to my dr,FR
+as a car driver i want a smart garage so that i can open my garage doors more quickly before being all the way home,FR
+as a car driver i want an autoeject feature in my car so that i am automatically ejected from the vehicle if something hits it,FR
+as a car owner i want a garage that monitors my vehicles needs so that so that i know what my vehicle needs and if there are any problems potentially occurring,FR
+as a car owner i want a station that can automatically make biodiesel for my car so that i can have really cheap gasoline to power my car,FR
+as a car owner i want my car to send an alert to my smartphone if i forget to lock it so that i will prevent breakins,FR
+as a car owner i want my car to start warming up on my schedule so that i dont have to do the remote start manually each workday morning,FR
+as a car owner i want my smart home to start my car for me on cold mornings so that the heat is ready to go when i get in the car to drive,FR
+as a car owner i want sensors in the driveway that detect car movement so that i will be alerted if my car is stolen,FR
+as a car owner i want smart home to sense when my car needs to be washed and wash it in the modified garage using recycled water so that my car is always clean and water is not wasted,FR
+as a car owner i want to be able to start my car from inside the house so that it can warm up in winter time,FR
+as a car owner i want to be able to start my vehicle from a button inside the house so that i dont have to use an app on my smartphone or go outside to start my car,FR
+as a developer i want to be able to log better so that i can troubleshoot issues with particular submissions and functions,MN
+as a developer i want to easily create and to maintain my apps within the market place,MN
+as a developer i want to have configuration for zone definition,MN
+as a developer i want to obtain apps development support,MN
+as a developer i want to simulate system failures so that i can identify potential weaknesses in the architecture,MN
+as a developer i want to test system resilience so that i can ensure the platform remains stable under load,MN
+as a developer i want to track data modifications so that changes can be easily audited,MN
+as a developer i want to track version changes so that the correct updates are applied across environments,MN
+as a developer i want to use a configuration that is not prepackaged within a built version of application,MN
+as a developer migration developer deployment engineer i want to use a configuration that is not prepackaged within a built version of application,MN
+as a software developer i want to be able to access and use development tools and utilities so that i can improve my productivity and efficiency,MN
+as a teacher i want the educational software to be adaptable to different teaching styles so that it enhances learning,MN
+as an app developer i want to deploy a new version of a dataset type as part of an app artifact without affecting other datasets of this type,MN
+as a developer i want to develop a custom importer,MN
+as a developer i would like to have js code fully covered with js unit tests,MN
+as a studio ui developer i would like to have js unit tests updated and running,MN
+"As a security officer, I want automated tests for cross-platform support, so that compatibility issues are detected early.",MN
+"As a  streamer, I want third-party plugin support so that I can add chat bots.",MN
+"As a  engineer, I want robotics software to allow modular sensor integrations.",MN
+as a business analyst i need the software to adapt to changing business processes and requirements,MN
+as a business owner i want the software to be easy to install across multiple branches,MN
+as a business owner i want the system to be easily modifiable so that it can grow with my business,MN
+as a developer i need the software to be easily upgradable without affecting existing functionalities,MN
+as a developer i need to easily understand and modify the softwares codebase,MN
+as a developer i need to ensure that my code is modular and reusable for future projects,MN
+as a developer i want blocks to be unit tested,MN
+as a developer i want to be able to easily modify and test new features in the application,MN
+as a developer i want to define presentation variants in my presentation configuration xml file so i can easily and efficiently deploy my presentation throughout dtap,MN
+as a developer i want to use bootstrap in the process of developing so that i can easily design my website,MN
+as a hotel manager i want the system to automatically update room availability so that we avoid overbooking,MN
+as a librarian i want the system to be adaptable to new technologies so that the library remains modern and efficient,MN
+as a library administrator i want the software to be easy to upgrade so that new features can be added without disruptions,MN
+as a library it support staff i want the system to be easy to maintain and update so that it remains current and functional,MN
+as a pipeline developer i want to upgrade a dataset instance to a newer version of the code after the pipeline was created,MN
+as a platform maintainer i want to easily update and add features to the platform so that it stays relevant and useful,MN
+as a plugin developer i want to upgrade the code of a dataset type used by a dataset instance created by that plugin when i deploy a new version of the plugin and update the pipeline to use that version,MN
+as a product manager i need the software to be flexible enough to add new features in the future,MN
+as a product manager i want the software tool to be flexible for adding new features so that it can evolve with market trends,MN
+as a project manager i need the system to adapt to changing project requirements easily,MN
+as a project manager i want the software to be adaptable to changes so that it can evolve with project needs,MN
+as a project manager i want the tool to be modular so that it can be easily updated and maintained,MN
+as a release engineer i want to configure nightly builds that automatically perform a neurohub installation on a virgin operating system execute tests and report back results without requiring any manual inputinteraction,MN
+as a small business owner i want the accounting software to scale with my business growth so that i dont need to switch systems,MN
+as a software architect i want to ensure the system can be easily broken down into modules for better understanding and updates,MN
+as a software developer i need the code to be modular so i can update parts of it independently,MN
+as a software developer i want the code to be welldocumented so that it is easier to understand and modify,MN
+as a software developer i want the codebase to be modular so that i can update and maintain it easily,MN
+as a software engineer i want the code to be reusable so that development is efficient and consistent,MN
+as a software engineer i want to be able to easily deploy and manage software releases so that i can ensure that the software is stable and reliable,MN
+as a software tester i need the application to be modular for efficient testing,MN
+as a software tester i want the application components to be testable so that i can ensure quality,MN
+as a software tester i want the application to be easily testable so that i can assure its quality,MN
+as a software tester i want to be able to easily create and run tests on different modules of the application,MN
+as a software tester i want to ensure that the application can be tested thoroughly for bugs,MN
+as a system administrator i want the software to be easily analyzable for issues so that maintenance is efficient,MN
+as a system administrator i want to define presentation variants in my presentation configuration xml file so i can easily and efficiently deploy my presentation throughout dtap,MN
+as a system administrator i want to easily analyze system performance and diagnose issues,MN
+as a system administrator i want to easily diagnose and fix any issues that arise in the software,MN
+as a system user i want the software to be easy to update so that i can always have the latest features,MN
+as a teacher i want to receive regular updates and improvements to the system so that it stays current with educational trends and technologies,MN
+as a team leader i want the project management tool to be modular so that updates can be made easily,MN
+as a tech support agent i want the software to provide detailed user logs so that troubleshooting is efficient,MN
+as a techie i want my smarthome to have the ability to connect and upgrade to the latest standards so that i can keep up with the latest available technology,MN
+as a tester i want to be able to generate test cases that are easily maintainable so that i can quickly update them as new changes are made to the software,MN
+as a user i want the app to automatically update so that i always have the latest features and fixes,MN
+as a user i want the app to be easy to install and update so that i can always have the latest version without hassle,MN
+as a user i want the app to be regularly updated with new features and security enhancements so that i always have the best experience,MN
+as a user i want the device to receive software updates for improved functionality so that the device stays current with the latest diabetes management practices,MN
+as an accountant i want the system to update automatically with the latest tax laws and regulations so that we always comply with current legislation,MN
+as an admin i want to log system errors so that i can review them for troubleshooting,MN
+as an administrator i want the system to be easily upgradable without significant downtime,MN
+as an administrator i want to update the brm tool so that users experience the least possible inconvenience,MN
+as an app developer i want to deploy a new version of a dataset type as part of deploying a new version of the app that includes it and i expect that all dataset instances of that type that were created as part of the app deployment start using the new code,MN
+as an app developer i want to ensure that when i deploy a new version of an app that includes a different version of a dataset type deployed by another app and this app shares a dataset instance of this type with the other app the deployment will fail with a version conflict error,MN
+as an app developer i want to ensure that when i deploy a new version of an app that includes a shared dataset type that all dataset instances created by this app start using the new code but all dataset instances created by other apps remain unchanged,MN
+as an it administrator i want the cms to be easily maintainable and upgradeable so that the system remains current with minimal downtime,MN
+as ifa i want the system to be accommodating to new modules so that i can add new functionalities in the next versions 10,MN
+as ifa i want the system to be implementable in a modular way so that i can prioritize my implementation stages 9,MN
+as the ifa we want the system to be expandable so that new users can be added to the system,MN
+"As a analyst, I need clear documentation for existing features.",MN
+"As a analyst, I want the application to support frequent updates.",MN
+"As a analyst, I want to ensure minimal disruptions during feature upgrades.",MN
+"As a end-user, I need clear documentation for existing features.",MN
+"As a end-user, I want the application to support frequent updates.",MN
+"As a end-user, I want to ensure minimal disruptions during feature upgrades.",MN
+"As a end-user, I want clear documentation for user management module to support maintenance tasks.",MN
+"As a developer, I need the system to be updated without breaking scalability options to ensure maintainability.",MN
+"As a developer, I want the codebase to be easy to maintain to reduce future costs.",MN
+"As a member, I want system updates to avoid disruptions, so that I can continue my work smoothly.",MN
+"As a developer, I want clear instructions on how to report issues, so that they are addressed quickly.",MN
+"As a small business owner, I want the interface to adapt to new regulations, so that I stay compliant.",MN
+"As a student, I want frequent updates to learning tools, so that I have access to the latest resources.",MN
+"As a project owner, I want a consistent design language across modules, so that users have a cohesive experience.",MN
+"As a system administrator, I want error logs to be detailed, so that issues can be diagnosed quickly.",MN
+"As a developer, I want redundancy for critical components, so that single points of failure are minimized.",MN
+"As a manager, I want the system to have modular architecture, so that changes can be made easily.",MN
+"As a end-user, I need reusable components, so that development is more efficient.",MN
+"As a system administrator, I want automated tests to cover core functionality, so that regressions are caught early.",MN
+"As a business analyst, I need clear documentation, so that new developers can onboard quickly.",MN
+"As a developer, I want the codebase to follow best practices, so that maintainability is improved.",MN
+"As a team leader, I need a version control system, so that changes can be tracked and reverted if necessary.",MN
+"As a project owner, I want performance benchmarks to be established, so that improvements can be measured.",MN
+"As a database administrator, I want dependency updates to be automated, so that the system remains up-to-date.",MN
+"As a developer, I want configuration files to be environment-specific, so that deployment is adaptable.",MN
+"As a user, I want the app to allow me to rollback updates so that I can revert to a stable version.",MN
+"As a developer, I want the code to be organized in a readable manner so that I can understand it easily.",MN
+"As a developer, I want the app to include inline comments so that I understand the purpose of the code.",MN
+"As a developer, I want the app to use design patterns so that the code is modular.",MN
+"As a developer, I want the app to follow a versioning system so that changes are tracked.",MN
+"As a developer, I want the app to use a continuous integration pipeline so that code changes are tested automatically.",MN
+"As a developer, I want the app to support linting so that code quality is maintained.",MN
+"As a developer, I want the app to provide debug logs so that I can troubleshoot issues.",MN
+"As a developer, I want the app to use configuration files so that settings are managed separately from code.",MN
+"As a developer, I want the app to support automated deployments so that updates are rolled out seamlessly.",MN
+"As a developer, I want the app to follow coding standards so that the codebase is consistent.",MN
+"As a developer, I want the app to support feature flags so that new features can be toggled easily.",MN
+"As a developer, I want the app to include performance metrics so that I can optimize the code.",MN
+"As a developer, I want the app to use a modular architecture so that components can be updated independently.",MN
+"As a  developer, I want modular code libraries so that I can reuse them in future projects.",MN
+"As a  teacher, I want customizable quiz templates so that I can create tests faster.",MN
+"As a  designer, I want reusable color palettes so that branding stays consistent.",MN
+"As a  doctor, I want EHR systems to add new labs without coding so that I adopt tools faster.",MN
+"As a  gamer, I want mod-friendly game engines so that I can create custom levels.",MN
+"As an  engineer, I want versioned APIs so that old apps still work during updates.",MN
+"As a  tester, I want automated test scripts so that I can validate updates quickly.",MN
+"As an  admin, I want independent service modules so that I can fix bugs without downtime.",MN
+"As a  user, I want backward-compatible plugins so that I donâ€šÃ„Ã´t lose features after upgrades.",MN
+"As a  manager, I want impact analysis tools so that I can assess code changes.",MN
+"As a  developer, I want CI/CD pipelines so that I can deploy updates automatically.",MN
+"As a  teacher, I want flexible grading scales so that I can adapt to different courses.",MN
+"As a  developer, I want code comments so that others can understand my work.",MN
+"As an  engineer, I want over-the-air updates for IoT devices so that I can patch remotely.",MN
+"As an  HR manager, I want customizable workflows so that I can streamline hiring.",MN
+"As a  developer, I want reusable code components so that I can build features faster.",MN
+"As a  teacher, I want customizable gradebook templates so that I can adapt them for different courses.",MN
+"As a  manager, I want modular dashboards so that I can update metrics without disrupting workflows.",MN
+"As a  student, I want backward-compatible note-taking apps so that I can access old notes after updates.",MN
+"As a  designer, I want reusable design templates so that I can create consistent visuals quickly.",MN
+"As a  doctor, I want EHR systems to integrate new devices without rewriting code so that I can use the latest tools.",MN
+"As a  gamer, I want modding tools so that I can customize my gameplay without breaking the game.",MN
+"As a  researcher, I want modular data pipelines so that I can add new datasets without rework.",MN
+"As a  streamer, I want overlay tools that support third-party widgets so that I can enhance my broadcasts.",MN
+"As a developer, I want modular code components to update features without breaking the system.",MN
+"As a tester, I want automated regression tests to validate changes during deployments.",MN
+"As a developer, I want version control for the codebase to track and revert changes.",MN
+"As an admin, I want a centralized logging system to diagnose errors quickly.",MN
+"As a user, I want backward compatibility for saved files when upgrading to new versions.",MN
+"As a developer, I want feature toggles to enable/disable functionalities without redeploying.",MN
+"As a developer, I want code linting tools to enforce coding standards.",MN
+"As a  admin, I want modular microservices to update billing without downtime.",MN
+"As a  architect, I want CAD software to allow custom plugins for niche design needs.",MN
+"As a  banker, I want transaction systems to support new payment methods without downtime.",MN
+"As a  designer, I want animation tools to allow reusable motion presets.",MN
+"As a  designer, I want design systems with reusable templates for faster prototyping.",MN
+"As a  developer, I want CI/CD pipelines to automate testing and deployment.",MN
+"As a  developer, I want codebases to include inline documentation for easier maintenance.",MN
+"As a  developer, I want error logs to include stack traces for faster debugging.",MN
+"As a  developer, I want reusable UI components for consistent app redesigns.",MN
+"As a  doctor, I want EHR systems to integrate new medical devices without rewriting code.",MN
+"As a  engineer, I want API versioning to support legacy integrations during upgrades.",MN
+"As a  engineer, I want IoT systems to allow firmware updates without replacing hardware.",MN
+"As a  gamer, I want game engines to allow modding without breaking core gameplay.",MN
+"As a  gamer, I want game servers to allow custom rule sets for private matches.",MN
+"As a  manager, I want analytics dashboards to allow custom metric calculations.",MN
+"As a  manager, I want dependency graphs to assess the impact of code changes.",MN
+"As a  manager, I want project management tools to allow custom workflow templates.",MN
+"As a  researcher, I want data pipelines to allow new data sources without rework.",MN
+"As a  scientist, I want lab software to allow custom data export formats.",MN
+"As a  scientist, I want lab software to support modular data analysis pipelines.",MN
+"As a  student, I want e-learning platforms to allow custom note-taking plugins.",MN
+"As a  teacher, I want gradebook tools to allow custom grading scales per course.",MN
+"As a  teacher, I want LMS platforms to allow custom plugins for unique course needs.",MN
+"As a  tester, I want automated regression test suites for every release candidate.",MN
+"As a  user, I want apps to allow theme customization without modifying core code.",MN
+"As a  user, I want backward compatibility for plugins when upgrading software.",MN
+"As a system administrator, I want the system to be easy to update so that I can apply patches and upgrades efficiently.",MN
+"As a developer, I want to be able to test the code easily so that I can ensure its quality.",MN
+"As a developer, I want the system to be well-documented so that it is easy to understand.",MN
+"As a developer, I want to be able to deploy the system quickly and easily.",MN
+"As a system administrator, I want to be able to monitor the system easily.",MN
+"As a developer, I want the code to be organized so that it is easy to navigate.",MN
+"As a developer, I want the system to be designed in a modular way so that it is easy to modify.",MN
+"As a developer, I want to be able to add new features without affecting existing functionality.",MN
+"As a developer, I want to be able to fix bugs quickly and efficiently.",MN
+"As a developer, I want the codebase to be well-documented, so I can easily understand and maintain the system.",MN
+"As a developer, I want to be able to easily add new features to the system without affecting existing functionality.",MN
+"As a developer, I want the system to be written in a modular and maintainable code, so I can easily understand and modify it.",MN
+"As a developer, I want the system to have comprehensive test coverage, so I can ensure the quality of the code.",MN
+"As a developer, I want the system to be easy to debug and troubleshoot, so I can quickly resolve any issues that arise.",MN
+"As a developer, I want the system to be well-structured and organized, so I can easily navigate and understand the codebase.",MN
+"As a system administrator, I want to be able to easily upgrade the application to new versions, so we can benefit from the latest features and bug fixes.",MN
+"As a developer, I want the system to be easy to test and deploy, so we can release new versions quickly and reliably.",MN
+"As a developer, I want the system to be designed with scalability in mind, so we can easily handle future growth.",MN
+"As a developer, I want the system to be easy to maintain and update, so I can quickly implement changes and fix bugs.",MN
+"As a developer, I want the system to be well-documented and easy to understand, so I can quickly get up to speed on the codebase.",MN
+"As a software developer, I want code compilation to be fast so I can quickly test my code changes.",MN
+"As a software developer, I want development tools to have clear error messages and debugging features.",MN
+"As a software developer, I want development tools to be reliable for building and testing software.",MN
+"As a developer, I want the codebase to be well-documented and easy to understand.",MN
+"As a developer, I want the system to be modular and easy to modify.",MN
+as a home occupant i want my thermostat to auto adjust to real time outdoor temperature so that energy will be used efficiently based on weather,PE
+as a home owner i want remote wireless access to surveillance cameras so that i can keep an eye on my home in real time even when i am away,PE
+"As a team leader, I want background tasks to run without affecting user experience, so that users can work uninterrupted.",PE
+as a business analyst i need the system to handle large datasets without performance degradation,PE
+as a business analyst i want the system to process information correctly so that decisionmaking is based on accurate data,PE
+as a business owner i want to easily input employee salary data so that i can manage payroll efficiently,PE
+as a business owner i want to monitor realtime payroll expenditures so that i can manage the companys finances effectively,PE
+as a cashier i want to be able to quickly scan and process purchases so that i can provide fast and efficient service to customers,PE
+as a cashier i want to initiate pos payment automatically so that i can work more swiftly,PE
+as a customer i expect the online service to process my transactions within 2 seconds,PE
+as a customer i want the shopping site to load fast so that i can shop without waiting,PE
+as a customer i want to be able to see the availability of each medication in realtime so that i can determine whether it is currently in stock,PE
+as a customer i want to check my account balance in realtime so that i can manage my finances effectively,PE
+as a customer i want to see realtime updates of my transactions so that i can keep track of my spending instantly,PE
+as a customer i want to track my order in realtime so that i know when to expect delivery,PE
+as a data analyst i want the software to handle complex queries efficiently so that i can analyze data faster,PE
+as a data entry operator i need the system to accurately record and store all entries without loss,PE
+as a data scientist i want the application to process large datasets quickly,PE
+as a developer i want my domain models to be indexed properly so that i can get validation results back in a reasonable amount of time,PE
+as a developer i want to quickly access broker application data so that i can investigate issues,PE
+as a doctor i want to be able to log in to the system quickly so that i dont have to waste any time during patient appointments,PE
+as a environmentalist i want my lights bulbs to turn off after 5 minutes so that i use less energy,PE
+as a environmentalist i want my television to turn off every 2 hours so that i use less energy,PE
+as a fabs user i want to have my validations run in a reasonable amount of time,PE
+as a fan i want to have fast response time while using the system so that i do not lose time waiting for an answer,PE
+as a fan i want to receive realtime updates on match scores so that i can stay informed when i cant watch the game,PE
+as a frequent flyer i want the travel app to provide realtime updates so that i can plan my trips efficiently,PE
+as a gamer i want the game to maintain consistent performance so that my gaming experience is enjoyable,PE
+as a gamer i want the house to increase the volume when im playing so that i can enjoy the game more,PE
+as a guest i want to check the availability of rooms in realtime so that i can make immediate decisions about my booking,PE
+as a health data analyst i want the system to handle large datasets reliably so that i can perform accurate analyses,PE
+as a healthcare professional i want the app to provide realtime blood inventory levels so that i can plan for supply and demand,PE
+as a healthcare provider i need the patient management system to handle a large number of patient records efficiently,PE
+as a home man i want lights to be control automatically so that time consume,PE
+as a home occupant i want doors to open automatically so that i can save time,PE
+as a home occupant i want electronics to turn themselves off if not being used in a certain amount of time so that electricity consumption is reduced,PE
+as a home occupant i want my computer to turn on automatically at 7am so that i waste no time waiting on it,PE
+as a home occupant i want my dishwasher to automatically open when its finished so that the dishes can dry out easier,PE
+as a home occupant i want my house to turn off devices that havent been used in a certain amount of time so that i dont waste energy,PE
+as a home occupant i want my thermostat to automatically adjust itself based on realtime weather updates so that my house can be more efficient with cooling and heating,PE
+as a home occupant i want my work computer to turn on at a set time each day so that i am never late logging in for work,PE
+as a home occupant i want surfaces to automatically detect and report sanitation levels in real time so that i know what i really need to clean and when,PE
+as a home owner i want ceiling fans to come on automatically so that air will be circulated for constant temp and comfort,PE
+as a home owner i want electronic usage monitor so that i can tell how much energy im using real time,PE
+as a home owner i want lights that turn on and off automatically so that ligts are never left on wasting electricty,PE
+as a home owner i want lights to automatically turn off when im not present so that i conserve energy efficiently,PE
+as a home owner i want my daily purchase of home needs monitored and done automatically with the help of mobile application so that i can save time,PE
+as a homemaker i want my robotic vacuum cleaner to start automatically twice a week so that my house is not dusty,PE
+as a hospital administrator i want the system to provide realtime bed availability so that we can manage patient admissions effectively,PE
+as a hospital administrator i want to track resource allocation in realtime so that we can optimize the use of our facilities and staff,PE
+as a hospital billing specialist i want to process payments and insurance claims efficiently so that financial transactions are streamlined,PE
+as a hotel staff member i want the system to handle group bookings efficiently so that we can manage large reservations without errors,PE
+as a journalist i need the news app to update content in realtime,PE
+as a journalist i want the news app to update content quickly so that i can stay informed with the latest news,PE
+as a librarian i want the cataloging system to support bulk uploads of book information so that the process is efficient,PE
+as a librarian i want the system to generate late fee reports automatically so that manual calculations are minimized,PE
+as a library member i want to perform operations under 20 seconds,PE
+as a member i want the library website to load quickly so that i can find information without delays,PE
+as a member i want to search book by author so that i can quickly search for an authors book,PE
+as a member i want to search book by name so that i can quickly search for a book,PE
+as a member i want to search book by subject category so that i can quickly search for a subject,PE
+as a mobile user i need the app to work efficiently without draining my phones battery,PE
+as a nurse i want to quickly update patient records after each visit so that the information is always current and accurate,PE
+as a parent i want to be able to view my childs academic progress in realtime so that i can stay informed and support their learning at home,PE
+as a parent i want to be able to view realtime updates on my childs school bus location and estimated arrival time so that i can plan for pickup and dropoff,PE
+as a payroll administrator i want the system to support batch processing of salaries so that i can manage payroll more efficiently,PE
+as a payroll administrator i want to process salaries in batches so that i can manage payroll more efficiently for different departments,PE
+as a platform user i want to collaborate on datasets in realtime so that i can work efficiently with my research team,PE
+as a publisher i want to store my data quickly and easily online,PE
+as a receptionist i want to view a realtime dashboard of daily hotel operations so that i can stay updated on occupancy checkins and checkouts,PE
+as a recruiter i want to be able to manage job listings and applications efficiently,PE
+as a referee i want to be able to record game events efficiently in realtime so that i do not have to waste any time,PE
+as a referee i want to be connected to the system in realtime during the games so that i can provide the status updates as fast as possible without slowing me down or hindering my ability to manage the game,PE
+as a remote worker i want the communication tool to work efficiently on limited data plans,PE
+as a researcher i need the application to process and display large datasets efficiently,PE
+as a side referee i want to have a mobilebased reporting tool so that i can report the game events in realtime,PE
+as a staff i want to search book by author so that i can quickly search for an authors book,PE
+as a staff i want to search book by name so that i can quickly search for a book,PE
+as a staff i want to search book by subject category so that i can quickly search for a subject,PE
+as a streaming service user i want videos to start playing quickly without buffering,PE
+as a student i want quick page load times so that i can access documents swiftly without delay,PE
+as a student i want the ability to upload multiple pages at once so that i can convert entire lecture notes in one go,PE
+as a superuser i want to view users stats so that i can view in realtime how many users have visited my recycling center information and their recyclable waste,PE
+as a system administrator i want to deploy filters runtime so that i can rollout filter dependent functionality efficiently throughout dtap,PE
+as a system i want to handle multiple user requests efficiently so that performance is maintained during peak times,PE
+as a system i want to route traffic dynamically so that the application remains responsive during heavy load,PE
+as a system operator i need to be able to monitor system performance and identify issues quickly,PE
+as a teacher i want to assess student progress in realtime during class so that i can provide immediate feedback and support,PE
+as a team manager i want to be able to connect my system to the ifas so that i can report in realtime,PE
+as a umd employee i want the system to start up within 2 minutes so that i can go to action fast when it is required,PE
+as a umd employee i want to see a realtime simulation of the current traffic situation of wonderland so that i can take more informed decisions,PE
+as a umd employee i want to see environmental measures taken at points in the city realtime on the map so that i know how the current traffic situation is affecting the environment,PE
+as a umd employee i want to see the overall realtime co2 emissions so that i know how harmful the traffic situation is to the environment,PE
+as a umd employee i want to see the realtime level of noise per measure point in the map so that i can see if the noise levels do not exceed the legal limits,PE
+as a umd employee i want to see the realtime levels of air pollution per measure point in the map so that i can see it when a certain area is getting too polluted,PE
+as a umd employee i want to see the realtime overall level of air pollution so that i know how harmful the traffic situation is to the environment,PE
+as a user i expect the app to provide realtime notifications without delays,PE
+as a user i expect the website to load within three seconds even during high traffic periods,PE
+as a user i want the app to be reliable especially when tracking workouts in realtime so that i dont lose any important data,PE
+as a user i want the app to have a quick response time so that i can perform banking activities without delays,PE
+as a user i want the app to load quickly and provide information efficiently so that i can use it without delay,PE
+as a user i want the app to load quickly on my phone so that i can start chatting immediately,PE
+as a user i want the app to load quickly so that i can access content without frustration,PE
+as a user i want the app to quickly process my uploaded documents so that i dont have to wait long for the conversion to complete,PE
+as a user i want the app to send messages instantly so that my conversations feel realtime and engaging,PE
+as a user i want the application to load quickly so that i can save time in accessing information,PE
+as a user i want the banking app to load quickly so that i dont waste time waiting,PE
+as a user i want the device to provide quick readings so that i can efficiently monitor my glucose levels multiple times a day,PE
+as a user i want the navigation app to provide realtime traffic updates and alternative routes,PE
+as a user i want the website to load quickly so that i can shop without waiting for pages to load,PE
+as a user i want to be able to easily search for available parking spots in my desired location and time period,PE
+as a user i want to be able to easily search for available rental cars in my desired location and time period,PE
+as a user i want to be able to purchase replacement parts easily so that i can maintain the devices performance over time,PE
+as a user i want to be able to see realtime stock prices and updates so that i can make informed investment decisions,PE
+as a user i want to be able to view the availability of parking spots in realtime,PE
+as a user i want to be able to view the train schedule and availability of seats in realtime so that i can make informed booking decisions,PE
+as a user i want to be able to view the trains coach and seat availability in realtime so that i can make informed booking decisions,PE
+as a user i want to be able to view the trains running status in realtime so that i can stay updated on any changes or delays,PE
+as a user i want to find and download townlevel gis data,PE
+as a user i want to view notifications in realtime so that i stay informed of important updates,PE
+as a web developer i want the website to be responsive and load quickly on all devices,PE
+as an admin i want to handle all users activities so that i can manage more efficiently,PE
+as an administrator i want to have extensive logging so that i can easily and quickly reproduce errors,PE
+as an ecommerce website owner i want the site to handle thousands of simultaneous users without slowing down,PE
+as an ifa administration i want to allow 50000 people to have access on web application in the same time so that there will not be accessibility problems while logging into the system,PE
+as an it technician i want to ensure minimal downtime during system maintenance,PE
+as an online retailer i need the website to handle increased traffic during sales events,PE
+as an online retailer i want my website to handle high traffic during holiday sales without crashing,PE
+as an online shopper i want the ecommerce site to load quickly so that i can shop without delays,PE
+as an online shopper i want the ecommerce website to load quickly on my mobile device so that i can shop on the go,PE
+as an online store manager i want the website to handle high traffic during sales so that customer experience remains smooth,PE
+as ifa i want all the information about the current games to be updated on the system portals in realtime so that the system portal is the only official source of information about the league and its games,PE
+as ifa i want the referees realtime updates from the games to be prioritized over any other data flows in the system so that the updates are as fast as possible,PE
+as ifa i want the system response time for fans team administration and ifa administration to not exceed 1 second so that to enhance the users experience,PE
+as ifa i want to access the teams budgets in realtime instead of annually so that i monitor policy adherence,PE
+as part of the throughput requirement the application should be able to process large files without any lag or delay,PE
+as the ifa we want realtime digital recording of game event data by referees so that all the information we get is accurate reliable and true,PE
+as the ifa we want to be able to see the specifications of the budgets of the teams in realtime so that we can monitor that they fulfill the regulations and policies,PE
+as the main referee i want to have a mobilebased reporting tool so that i can report the game events in realtime,PE
+"As a admin, I want efficient operations even under heavy load.",PE
+"As a developer, I need the application to load responses promptly.",PE
+"As a manager, I need the application to load responses promptly.",PE
+"As a manager, I want efficient operations even under heavy load.",PE
+"As a end-user, I want the system to handle 1000 concurrent users to handle high loads efficiently.",PE
+"As a end-user, I want the application to optimize CPU and memory usage during peak hours.",PE
+"As a developer, I need responses to be less than 2-second response time to ensure timely operations.",PE
+"As a customer, I want the search results to appear within 2 seconds, so that I can quickly find what I need.",PE
+"As an employee, I want the app to load smoothly during peak hours, so that I can complete tasks without delays.",PE
+"As a manager, I want the system to handle multiple reports at the same time, so that I can analyze data efficiently.",PE
+"As a teacher, I want assignments to be submitted without slowdowns, so that students meet deadlines.",PE
+"As a user, I want video streaming to run without buffering, so that I enjoy uninterrupted content.",PE
+"As an analyst, I want large data exports to finish quickly, so that I can share results with my team.",PE
+"As a manager, I need the application to respond within 2 seconds for critical operations, so that I can maintain efficiency.",PE
+"As a end-user, I want the system to support 100,000 users simultaneously, so that our business can scale.",PE
+"As a business analyst, I want reports to be generated within 5 seconds, so that decision-making is faster.",PE
+"As a database administrator, I need the system to handle up to 1TB of data efficiently, so that performance is not compromised.",PE
+"As a security officer, I want real-time analytics to be available, so that we can act on insights immediately.",PE
+"As a user, I want the login screen to load within 1 second so that I can access my account quickly.",PE
+"As a shopper, I want the product page to display within 2 seconds so that I can view items without delay.",PE
+"As a gamer, I want the game to start within 3 seconds so that I can begin playing immediately.",PE
+"As a user, I want the chat messages to appear instantly so that I can have real-time conversations.",PE
+"As a traveler, I want the flight search results to load within 2 seconds so that I can book tickets quickly.",PE
+"As a student, I want the online class to start within 5 seconds so that I don't miss any part of the lecture.",PE
+"As a user, I want the map to load within 1 second so that I can find locations quickly.",PE
+"As a reader, I want the e-book to open within 1 second so that I can start reading immediately.",PE
+"As a user, I want the notification to appear within 1 second so that I can stay informed in real-time.",PE
+"As a driver, I want the GPS to recalculate the route within 1 second so that I can stay on track.",PE
+"As a user, I want the photo to upload within 2 seconds so that I can share it quickly.",PE
+"As a player, I want the leaderboard to update within 1 second so that I can see the latest rankings.",PE
+"As a shopper, I want the shopping cart to update within 1 second so that I can see my added items.",PE
+"As a reader, I want the article to load within 2 seconds so that I can start reading immediately.",PE
+"As a user, I want the email to send within 1 second so that I can communicate quickly.",PE
+"As a viewer, I want the video to start playing within 2 seconds so that I can watch without delay.",PE
+"As a user, I want the calendar to update within 1 second so that I can see my new events immediately.",PE
+"As a listener, I want the podcast to start playing within 2 seconds so that I can listen without delay.",PE
+"As a  shopper, I want product images to load instantly so that I can browse without waiting.",PE
+"As a  student, I want the exam portal to handle 500 logins at once so that I donâ€šÃ„Ã´t get locked out during finals.",PE
+"As a  traveler, I want hotel search results to appear in under 3 seconds so that I can plan trips faster.",PE
+"As a  gamer, I want in-game menus to respond immediately so that I donâ€šÃ„Ã´t miss multiplayer cues.",PE
+"As a  doctor, I want lab results to display in under 2 seconds so that I can diagnose patients quickly.",PE
+"As a  streamer, I want live chat messages to update without delays so that I can interact with viewers.",PE
+"As a  teacher, I want quiz submissions to process instantly so that I can grade assignments faster.",PE
+"As a  trader, I want real-time currency exchange rates so that I can execute trades accurately.",PE
+"As a  farmer, I want weather alerts to refresh every 10 seconds so that I can protect crops from storms.",PE
+"As a  customer, I want payment confirmations to appear in 5 seconds so that I know my order is placed.",PE
+"As a  librarian, I want catalog searches to return results instantly so that patrons find books quickly.",PE
+"As a  parent, I want the family calendar app to load in 1 second so that I can schedule activities smoothly.",PE
+"As an  event planner, I want attendee check-ins to process 200 people/minute so that lines move faster.",PE
+"As a  photographer, I want photo thumbnails to generate instantly so that I can sort albums efficiently.",PE
+"As an  HR manager, I want employee directories to load in under 2 seconds so that I can find contacts quickly.",PE
+"As a  driver, I want traffic updates to refresh every 15 seconds so that I can avoid jams.",PE
+"As a  scientist, I want data charts to render in under 3 seconds so that I can analyze trends faster.",PE
+"As a  retailer, I want inventory counts to update in real time so that I can restock items promptly.",PE
+"As a  pilot, I want flight dashboards to display fuel levels without lag so that I can monitor safety.",PE
+"As a  chef, I want recipes to scale for 1 or 10 servings so that I can cook for any group.",PE
+"As a  shopper, I want the website to load product pages in under 2 seconds so that I can browse efficiently without frustration.",PE
+"As a  student, I want the exam portal to handle 1,000 simultaneous users without crashing so that I can take my test without interruptions.",PE
+"As a  traveler, I want flight search results to appear instantly so that I can compare options quickly and book my trip.",PE
+"As a  gamer, I want multiplayer matches to run smoothly even with 50 players so that I can enjoy the game without lag.",PE
+"As a  doctor, I want patient records to load in under 1 second so that I can provide timely care during consultations.",PE
+as a frequent traveler i want the app to adjust its features based on my current location and language,PO
+as a user i want to be able to access news articles from different regions,PO
+as a home occupant i want my music and videos to sync across devices all over the house so that i will not have to manually transfer my entertainment between devices,PO
+as a nurse i want to have mobile hospital devices that automatically transfer the data it measured to the patients medical file so that i do not have to insert the data manually,PO
+as an univitservice i want to be able to export all data to a different system so that i am not tied into one system which may not be the most appropriate at some point in the future,PO
+"As a end-user, I want the application to run on various platforms.",PO
+"As a end-user, I want to ensure the application works on different device types.",PO
+"As a student, I want the app to work on both my laptop and tablet, so that I can study from anywhere.",PO
+"As a team member, I want documents to open correctly on any device, so that I can collaborate easily.",PO
+"As a content creator, I want my media files to display consistently across different platforms, so that my work looks professional.",PO
+"As a customer, I want digital receipts to be readable on all devices, so that I can access them anywhere.",PO
+"As a manager, I want the system to support both Windows and MacOS, so that it can be used across different platforms.",PO
+"As a database administrator, I need the system to handle various device screen sizes, so that users have a consistent experience.",PO
+"As a gamer, I want the game to work on different consoles so that I can play with friends on any platform.",PO
+"As a gamer, I want the game to support cross-platform play so that I can compete with friends on any device.",PO
+"As a shopper, I want the app to support different currencies so that I can shop internationally.",PO
+"As a  teacher, I want lesson plans to open on iPads and laptops so that I can teach from any device.",PO
+"As a  teacher, I want lesson plans to open on both Windows and Mac so that I can work from any device.",PO
+"As a  student, I want my notes to sync across my laptop, tablet, and phone so that I can study anywhere.",PO
+"As a  student, I want my e-learning platform to work offline so that I can study without internet access.",PO
+"As a manager, I want the system to run on both AWS and Azure cloud platforms.",PO
+"As a teacher, I want the online learning platform to be accessible from different browsers (Chrome, Firefox, Safari).",PO
+"As a patient, I want to be able to access my medical records from any healthcare provider's system.",PO
+"As a social media user, I want to be able to share content across different social media platforms.",PO
+"As a news reader, I want news websites to be accessible on different devices (desktops, laptops, tablets, smartphones).",PO
+"As a social media user, I want to share my posts on all my social media accounts so that I can reach a wider audience.",PO
+"As a news reader, I want to read the news on any device so that I can stay informed regardless of where I am.",PO
+"As a student, I want the app to sync between my phone and laptop, so that I can study on any device.",PO
+"As a professional, I want my presentation to open correctly on both Windows and Mac, so that I avoid technical issues.",PO
+"As a job applicant, I want my resume to display well in different formats, so that hiring managers see it properly.",PO
+"As a visitor, I want museum app features to adapt to my device type, so that I get an optimal experience.",PO
+"As a traveler, I want my travel itinerary to sync on my laptop and phone, so that I can access it anywhere.",PO
+as a developer i want the software to be easily installable on various operating systems,PO
+as a donor i want the app to provide a consistent experience across all devices so that i can switch between them as needed without confusion,PO
+as a business owner i want the salary management system to be accessible from different platforms so that i can manage payroll from any device,PO
+as a cloud service user i need to access the service from various devices and locations,PO
+as a cloud service user i want the service to be adaptable to different devices so that i can access it on any device i use,PO
+as a doctor i want the data stored on the old management systems to be transferred to the new core management system so that i do not lose any data,PO
+as a doctor i want to access patient data on my mobile device so that i can make informed decisions while on the move,PO
+as a doctor i want to be able to use the hospital management system on a mobile device so that i can access the system no matter my current location,PO
+as a doctor i want to have access to all the functionalities on a mobile device that i also have access to on a personal computer,PO
+as a fan i want to access the system on my phone so that i can access it wherever i am,PO
+as a fan i want to be able to access the system through a mobile app so that i can access it anywhere,PO
+as a freelance worker i want to install and use the application on different devices i own,PO
+as a frequent traveller i want the banking system to have a large network of atms and branches in different countries so that i can easily access my money while abroad,PO
+as a global company employee i want the software to support various currencies and languages,PO
+as a global user i want the app to support multiple languages so that i can use it in my native language,PO
+as a gymgoer i want to access the app across multiple devices so that i can log workouts from my phone tablet or computer,PO
+as a healthcare provider i want to access patient diagnostics and lab results on my mobile device so that i can make timely decisions,PO
+as a home owner i want device that plays music wirelessly from any device so that music and playlists can easily be listened to,PO
+as a match official i want to access the system on my phone so that i can access it on the field or while i am traveling to the game,PO
+as a mobile app user i want the app to be usable in different network conditions so that i can access it anywhere,PO
+as a multinational company employee i need the software to be usable in different languages and regions,PO
+as a music listener i want to be able to access my music library across multiple devices so that i can listen to my music wherever i am,PO
+as a nurse i want the data stored on the old management systems to be transferred to the new core management system so that i do not lose any data,PO
+as a nurse i want to access patient care plans and medication schedules on my mobile device so that i can provide care efficiently while on the move,PO
+as a nurse i want to view a patients medical record on my mobile phone so that i can check his blood type quicker than using a computer,PO
+as a party thrower i want surround sound connected to wifi so that i can stream music in any room,PO
+as a patient i want to be able to access and view my emr on a mobile device,PO
+as a patient i want to be able to access my medical record from my mobile device so that i can review measurement and test results,PO
+as a patient i want to be able to request new prescriptions on a mobile device,PO
+as a patient i want to be able to schedule an appointment on a mobile device,PO
+as a patient i want to be able to share data which is collected through my wearable devices with healthcare professionals,PO
+as a patient i want to be able to view prescriptions on a mobile device,PO
+as a remote employee i need the work application to be operable on various internet speeds,PO
+as a remote worker i want the collaboration tool to work seamlessly across different devices so that i can work from anywhere,PO
+as a software developer i want the application to be easily portable across different operating systems,PO
+as a student i want the catalog system to be accessible on my smartphone so that i can use it anytime anywhere,PO
+as a student i want the cms to be accessible on multiple devices so that i can study anywhere whether on my laptop tablet or phone,PO
+as a student i want the educational platform to be accessible on multiple devices so that i can study anywhere,PO
+as a student i want to be able to access course materials and resources on my mobile device so that i can study on the go,PO
+as a student i want to be able to access course materials from my mobile device so that i can study on the go,PO
+as a teacher i want the system to be accessible from various devices so that i can work on student assessments from anywhere,PO
+as a team manager i want to be able to access the system from a desktop so that i make fewer mistakes when managing my assets,PO
+as a team staff member i want to be able to access the system from a desktop so that i more easily work together with other staff members,PO
+as a traveler with diabetes i want the device to be usable in different climates and altitudes so that i can manage my diabetes anywhere i go,PO
+as a traveller i want the booking app to offer support in multiple languages so that i can use it in my native language,PO
+as a umd employee i want the software to be able to reach from remote computers so that my employees can work from home,PO
+as a user i want the app to be available in different languages so that i can use it in my native language for better understanding,PO
+as a user i want the app to be available in multiple languages so that nonnative speakers can also use it easily,PO
+as a user i want the app to support casting to larger screens so that i can view videos and live games on my tv,PO
+as a user i want the app to support multiple languages so that i can chat in my preferred language,PO
+as a user i want the app to work across different devices so that i can access my chats from anywhere,PO
+as a user i want the app to work on both ios and android devices so that i can use it regardless of my phone,PO
+as a user i want the application to run on both ios and android platforms,PO
+as a user i want the platform to be accessible on various devices so that i can work on my research from anywhere,PO
+as a user i want the site to be accessible on mobile devices so that i can shop on the go,PO
+as a user i want to access my account from different devices so that i can manage my profile from anywhere,PO
+as a user i want to be able to access news articles in multiple languages,PO
+as a user i want to be able to access news articles on different devices,PO
+as a user i want to be able to access the service from both a website and a mobile app so that i can use it on multiple devices,PO
+as a user i want to be able to access the site and do all the other stuffs on all of my electronic devices,PO
+as a user i want to be able to access the system from different devices mobile phone tablets computers etc so that i can use whatever is available to access the software,PO
+as a user i want to be able to sync my ebooks across devices so that i can pick up where i left off on any device,PO
+as a user i want to have cloud storage integration so that i can save and access my converted files from different devices,PO
+as a web user i want the site to be responsive on all browsers so that i can access it from any device,PO
+as a webmaster i want the website to be responsive on all devices and screen sizes,PO
+as an event organizer i need the app to adapt to different event types and sizes,PO
+as an hr manager i want the system to be accessible from both desktop and mobile devices so that i can manage payroll tasks on the go,PO
+as an hr manager i want the system to support multiple currencies so that we can manage payroll for employees in different countries,PO
+as an ifa employee i want to be able to access the system from a desktop so that i can more easily enter new data into the system,PO
+as an international student i want the cms to be available in multiple languages so that i can navigate it in my native language,PO
+as an international user i want the application to support multiple languages,PO
+as an international user i want the software to support different date formats and cultural norms,PO
+as an international user i want the software to support multiple currencies and time zones,PO
+as an it manager i want the system to be accessible on different operating systems and browsers so that all staff members can use it regardless of their device,PO
+as ifa i want the system to be localizable so that it can accommodate different local regulations languages currencies and time zone,PO
+as medical staff member i want to have access to appointment data through any handheld devices so that i can do my work more efficiently,PO
+as medical staff member i want to have access to patient data through any handheld devices so that i can do my work more efficiently,PO
+as medical staff member i want to have access to room scheduling through any handheld devices so that i can do my work more efficiently,PO
+as the ifa i want the system to be able to handle multiple languages so that i can service leagues in different countries,PO
+as a business owner I want the service to be run on any device type or hardware or browser or operating system so that I achieve the highest customer base shortly,PO
+"As a admin, I want flexibility to switch between different infrastructures.",PO
+"As a analyst, I need the ability to migrate data between setups.",PO
+"As a analyst, I want the system to work in different environments.",PO
+"As a end-user, I need to migrate the application to cloud infrastructure easily.",PO
+"As a analyst, I want the software to be portable across different operating systems to maximize flexibility.",PO
+"As a manager, I want the system to run on both Windows and Linux without modifications.",PO
+"As a developer, I want the system to run on both Windows and Linux without modifications.",PO
+"As a user, I want the app to work both online and offline, so that I can use it in any situation.",PO
+"As a remote worker, I want to install the app on different devices easily, so that I stay productive.",PO
+"As a hiker, I want my outdoor app to adapt to local GPS services, so that I get accurate readings.",PO
+"As a mobile user, I want the app to adjust to my screen size, so that itâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥s easy to use.",PO
+"As an organizer, I want my app to support regional date formats, so that it matches local preferences.",PO
+"As a system administrator, I want the application to work in various web browsers, so that users have flexibility.",PO
+"As a tester, I want the system to support multiple languages, so that international users are accommodated.",PO
+"As a manager, I want the application to run on different operating systems, so that users have flexibility.",PO
+"As a end-user, I need the system to support containerization, so that deployment is simplified.",PO
+"As a business analyst, I need the application to be cloud-agnostic, so that we can switch providers easily.",PO
+"As a tester, I need localization support, so that users from different regions are accommodated.",PO
+"As a database administrator, I want the system to run on various hardware configurations, so that it meets diverse needs.",PO
+"As a security officer, I need compatibility tests for major platforms, so that portability issues are minimized.",PO
+"As a user, I want the app to work on both my phone and tablet so that I can use it on any device.",PO
+"As a student, I want the online class to be accessible on different devices so that I can study anywhere.",PO
+"As a user, I want the app to work with different operating systems so that I can use it on any device.",PO
+"As a user, I want the app to support various languages so that I can use it in my preferred language.",PO
+"As a user, I want the app to work offline so that I can use it without an internet connection.",PO
+"As a developer, I want the app to support containerization so that it runs consistently across environments.",PO
+"As a user, I want the app to run on different screen sizes so that it works on any device.",PO
+"As a user, I want the app to support different input methods so that I can use touch, keyboard, or mouse.",PO
+"As a user, I want the app to be installable via app stores so that I can download it easily.",PO
+"As a user, I want the app to migrate data from older versions so that I don't lose information.",PO
+"As a user, I want the app to sync data across devices so that I have a consistent experience.",PO
+"As a user, I want the app to run on different operating systems so that I can use it on any platform.",PO
+"As a user, I want the app to be installable with a single click so that I can set it up easily.",PO
+"As a user, I want the app to work with different network conditions so that it functions well on varying internet speeds.",PO
+"As a user, I want the app to support multiple user profiles so that different users can share the same device.",PO
+"As a user, I want the app to provide a migration tool so that I can move data to a new device easily.",PO
+"As a user, I want the app to run in different environments so that it works on both desktop and mobile.",PO
+"As a user, I want the app to be available in multiple languages so that it can be used globally.",PO
+"As a user, I want the app to support multiple accounts so that I can switch between them easily.",PO
+"As a user, I want the app to have a lightweight version so that it can run on older devices.",PO
+"As a user, I want the app to use universal design principles so that it works for everyone.",PO
+"As a  user, I want the app to adjust to phone and tablet screens so that I can use it anywhere.",PO
+"As a  traveler, I want apps to auto-detect language so that I can use them abroad.",PO
+"As a  gamer, I want save files to transfer to new consoles so that I keep progress.",PO
+"As a  doctor, I want apps to run on basic phones so that rural patients can use them.",PO
+"As a  user, I want apps to adjust to screen sizes so that I can use them on any device.",PO
+"As a  traveler, I want my travel app to adjust currency and language automatically so that I can use it anywhere.",PO
+"As a  gamer, I want my game saves to transfer between devices so that I can play anywhere.",PO
+"As a  teacher, I want my lesson plans to export to different formats so that I can share them easily.",PO
+"As a  parent, I want parental controls to sync across devices so that I can manage screen time consistently.",PO
+"As a user, I want the system to prioritize critical tasks (e.g., payments) over background processes.",PO
+"As a user, I want the mobile app to function offline and sync data once reconnected.",PO
+"As a user, I want the app to adjust its layout for both 4K monitors and mobile screens.",PO
+"As a user, I want the app to run on Windows, macOS, and Linux without separate builds.",PO
+"As a traveler, I want the app to adjust date/time formats based on my location.",PO
+"As a developer, I want Docker containers to deploy the app across cloud providers.",PO
+"As an admin, I want the system to migrate data from legacy databases seamlessly.",PO
+"As a customer, I want the app to function identically on iOS and Android devices.",PO
+"As a user, I want configuration files to customize settings for different regions.",PO
+"As a  developer, I want apps to run on both ARM and x86 processors without recompiling.",PO
+"As a  student, I want e-learning platforms to work offline and sync progress later.",PO
+"As a  therapist, I want telehealth apps to function on low-end smartphones and tablets.",PO
+"As a  traveler, I want travel apps to adjust currency and language based on my location.",PO
+"As a  user, I want apps to adjust UI layouts for both 4K monitors and mobile screens.",PO
+"As a user, I want to access the application from my phone and my laptop so that I can use it conveniently.",PO
+"As a user, I want to access the application from any device so that I can use it conveniently.",PO
+"As a user, I want the application to work on different operating systems so that I can use it regardless of my computer.",PO
+"As a user, I want the application to be available in my language so that I can understand it easily.",PO
+"As a user, I want the application to be accessible to everyone so that people with disabilities can use it.",PO
+"As a user, I want to use the application anywhere in the world so that I can access it while traveling.",PO
+"As a system administrator, I want to install the application on any server so that I have flexibility in my infrastructure.",PO
+"As a developer, I want to deploy the application easily to different environments so that I can release it quickly.",PO
+"As a user, I want the application to look good on different screen sizes so that I have a consistent user experience.",PO
+"As a system administrator, I want to configure the application easily for different regions so that it can be adapted to local requirements.",PO
+"As a user, I want the application to be accessible on different devices (desktop, laptop, tablet), so I can use it from anywhere.",PO
+"As a system administrator, I want to be able to deploy the application on different operating systems (Windows, Linux), so I can choose the best platform for our needs.",PO
+"As a user, I want the application to be available in multiple languages, so I can use it in my native language.",PO
+"As a system administrator, I want to be able to easily install and configure the application on different environments (development, testing, production).",PO
+"As a user, I want the application to be responsive and fast, so I don't have to wait for pages to load.",PO
+"As a user, I want the application to be accessible on different devices and screen sizes, so I can use it comfortably regardless of my device.",PO
+"As a system administrator, I want to be able to easily configure the application for different environments, so I can deploy it seamlessly.",PO
+"As a system administrator, I want to be able to easily deploy the application to different environments, so I can manage the application lifecycle effectively.",PO
+"As a user, I want the application to work seamlessly across different operating systems (Windows, macOS, Linux).",PO
+"As a user, I want to be able to access the application from any device with an internet connection.",PO
+"As a mobile user, I want the application to be responsive and adapt to different screen sizes.",PO
+"As a user, I want the application to be available in multiple languages.",PO
+"As a system administrator, I want to be able to deploy the application on different operating systems (Windows, Linux, macOS).",PO
+"As a developer, I want the application to be easily installable on different environments.",PO
+as a busy professional i want the app to provide a reliable reminder system for my upcoming donation appointments so that i never miss a donation due to my schedule,RL
+as a energy saver i want a device that cools down any of my electronic devices so that they wont overheat,RL
+as a healthcare provider i want the device to maintain a high level of accuracy over time so that patients can rely on their readings for making health decisions,RL
+as a user i want the app to keep my data accurate and uptodate,RL
+as an administrator i want to backup and restore the rulebase so that duo doesnt lose production knowledge,RL
+"As a caregiver, I want caregiving apps to reliably track and manage the care of my loved ones.",RL
+as ifa i want the system development implementation and maintenance to be outsourced,RL
+"As a security officer, I need refactoring to be part of the development process, so that code quality is sustained.",RL
+"As a developer, I want the system to be scalable to handle future growth.",RL
+as a developer i want d files generation requests to be managed and cached so that duplicate requests do not cause performance issues,RL
+as a donor i want the app to maintain a high level of performance during emergency situations so that it doesnt crash when its needed the most,RL
+as a renter i want my drains to be automatically cleaned regularly so that water doesnt back up,RL
+as a user i want the app to be energy efficient so that it doesnt drain my phones battery,RL
+as a user i want the app to function well even during high traffic times so that my chats are not interrupted,RL
+as a user i want the app to have a high level of uptime so that i can access banking services whenever i need them,RL
+as a user i want the app to have high performance even during peak usage times so that my experience is not affected,RL
+as a user i want the app to maintain a high level of performance even during major events like the finals so that i can access features without interruptions,RL
+as a user i want the app to maintain high performance even during live broadcasts so that my experience is uninterrupted,RL
+as a user i want the application to maintain high performance as it updates and expands,RL
+as a user i want the platform to be responsive even during maintenance windows so that i can continue working,RL
+as an online gamer i want the game to be free from latency issues so that my gaming experience is smooth and competitive,RL
+as an online gamer i want the game to perform well even during peak usage times,RL
+"As a manager, I want the system to handle a high number of users.",RL
+"As a traveler, I want the booking confirmation to appear instantly, so that I feel confident my reservation is secure.",RL
+"As a system administrator, I need optimized data processing during peak hours, so that system performance remains stable.",RL
+"As a  journalist, I want article drafts to auto-save every 30 seconds so that I never lose work.",RL
+"As a system administrator, I want to be able to configure the system to handle peak loads without performance degradation, so we can ensure a smooth user experience.",RL
+"As a worker, I want the time-tracking app to save my clock-in immediately, so that I donâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥t miss hours.",RL
+"As a student, I want exams to open on time during online tests, so that I donâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥t lose valuable minutes.",RL
+"As a tester, I want load balancing to be implemented, so that no single server is overloaded.",RL
+"As a user, I want the app to be tested thoroughly so that it works without issues.",RL
+"As a  driver, I want car infotainment systems to block app installations while driving.",RL
+"As a user, I want the application to be reliable and performant regardless of my location.",RL
+"As a community organizer, I want community engagement platforms to be reliable for communication and event organization.",RL
+"As a user, I want the application to work reliably and well no matter where I am so that I can depend on it.",RL
+as a bank customer i want the banking app to be available 247 so that i can perform transactions anytime,RL
+as a business owner i want the system to be reliable especially during the payroll processing period so that employees are paid without delays,RL
+as a business professional i want the app to be reliable during business hours so that it doesnt disrupt my work,RL
+as a cloud service user i want the service to be consistent in performance so that i can rely on it for my work,RL
+as a cloud storage user i expect the service to be available whenever i need it with minimal downtime,RL
+as a customer i want the app to be available 247 so that i can manage my finances at any time,RL
+as a customer i want the app to be reliable especially during financial emergencies so that i can access my funds when needed,RL
+as a customer i want the banking app to be consistently reliable during financial market fluctuations so that i can manage my investments effectively,RL
+as a customer i want the service helpline to be available at all times so that i can get support when needed,RL
+as a customer i want the service to be available 247 so that i can access it any time i need,RL
+as a customer i want the service to be reliable during peak hours so that i can use it without disruptions,RL
+as a data manager i want the system to accurately back up data so that no information is lost,RL
+as a developer i want to make sure data exchanges are smooth so that information remains accurate during transfers,RL
+as a environmentalist i want an ac unit to turn off when it reaches a certain temperature so that i will use less energy,RL
+as a environmentalist i want the tech in the home to be as efficient as possible so that the energy lost due to heat can be minimized,RL
+as a fan i want the app to be reliable especially during hightraffic events like derby matches so that i dont miss out on live updates,RL
+as a frequent traveler i want the app to function well even with poor internet connectivity so that i can communicate without interruption,RL
+as a healthcare provider i want the system to be reliable especially during critical care situations so that i can access patient information without interruptions,RL
+as a healthcare provider we need reliable access to patient records at all times,RL
+as a hospital it manager i want to ensure system uptime is maximized so that healthcare providers have continuous access to critical patient information,RL
+as a hotel it manager i want to ensure the system is regularly backed up so that we do not lose reservation data,RL
+as a hotel manager i want the system to be scalable so that it can accommodate growth and changes in our hotel operations over time,RL
+as a librarian i want the system to back up data regularly so that no information is lost,RL
+as a librarian i want the system to be reliable during peak hours so that service is not disrupted,RL
+as a library member i want to be able to access to the platform at any time so that i can perform preservation,RL
+as a mobile app user i want the app to maintain my session even if i switch to other apps temporarily,RL
+as a parent i want the wifi to turn off at bedtime so that my kids wont be using it too late,RL
+as a parent i want wifi to turn off at a certain hour so that children get off their devices,RL
+as a payroll administrator i want the system to be reliable especially on payday so that employees receive their salaries without delay,RL
+as a payroll administrator i want the system to have a backup and recovery solution so that payroll data is not lost in case of technical issues,RL
+as a remote worker i need the software to remain operational even with intermittent internet connectivity,RL
+as a remote worker i want the communication tool to function in areas of low bandwidth so that i stay connected everywhere,RL
+as a remote worker i want the communication tool to work effectively in areas with low internet bandwidth,RL
+as a researcher i want the platform to be regularly backed up so that my data is not lost in case of technical issues,RL
+as a researcher i want the software to process data accurately so that my research is reliable,RL
+as a software architect i need the system to be resilient to failures and capable of quick recovery,RL
+as a software architect i need the system to recover quickly from any faults or crashes,RL
+as a software architect i want the system to be scalable so that it can handle growing user demands,RL
+as a staff member i want the emr to be consistent for all patients across all department so that patient safety is ensured,RL
+as a streaming service user i want the platform to maintain high video quality even during peak hours so that my viewing experience is consistent,RL
+as a student i need the educational platform to be consistently available especially during exam periods,RL
+as a student i want the cms to be available during offhours so that i can study at any time,RL
+as a system administrator i want the network to be faulttolerant so that services are not disrupted,RL
+as a system i want to automatically recover from minor failures so that system uptime is maintained,RL
+as a system i want to distribute resources dynamically so that services are always available,RL
+as a system i want to handle system updates without impacting users so that they can continue using the service,RL
+as a system operator i want the software to recover quickly from crashes so that downtime is minimized,RL
+as a teacher i want the system to automatically back up data so that student information is not lost in case of a system failure,RL
+as a teacher i want the system to be reliable during peak usage times such as report card season so that i can meet deadlines without technical issues,RL
+as a teacher i want the system to be scalable so that it can accommodate more students and classes as the school grows,RL
+as a umd employee i want the system to always be available so that i can access it whenever i need,RL
+as a university department we want the cms to be scalable so that it can handle an increasing amount of content and users as the university grows,RL
+as a user i expect the app to recover my data in case of an unexpected shutdown,RL
+as a user i expect the system to be available at all times even during maintenance or updates,RL
+as a user i expect the system to be consistently available especially during business hours,RL
+as a user i expect the website to be available 999 of the time even during peak hours,RL
+as a user i should be able to use the system at any given time,RL
+as a user i want the app to be available and functioning properly at all times especially during emergencies,RL
+as a user i want the app to be optimized for battery usage so that i can use it for long periods without draining my phones battery,RL
+as a user i want the app to be optimized for low battery usage so that i can use it even when my phones charge is low,RL
+as a user i want the app to consistently function without crashes so that i can rely on it every time i need to manage my donations,RL
+as a user i want the app to have a low data mode so that i can use it even with limited data availability,RL
+as a user i want the app to have a low data usage mode so that i can conserve data while using it on the go,RL
+as a user i want the app to have high availability so that i can use it anytime without interruptions,RL
+as a user i want the app to perform well even under poor internet connectivity so that i can access it from locations with weak signals,RL
+as a user i want the application to maintain its performance level regardless of updates or new features added,RL
+as a user i want the application to save my progress automatically in case of a crash,RL
+as a user i want the data hub to be reliable especially during peak usage times like grant deadlines so that i can access data without interruptions,RL
+as a user i want the glucose measurement device to have a long battery life so that i can rely on it throughout the day,RL
+as a user i want the platform to have high uptime so that i can access my data and other resources without disruptions,RL
+as a user i want the system to be error tolerant so that minor mistakes dont lead to significant issues,RL
+as a user i want the website to be reliable especially during sales or high traffic periods so that it doesnt crash when im shopping,RL
+as a user i want the website to have high uptime so that i can access it any time i need,RL
+as a user i want to be able to access the system so that i have maximum availability and ensure my users can use the system at any time,RL
+as a user i want to be assured that the service is continuously updated for accuracy and efficiency so that i can rely on its performance,RL
+as a user i want to be sure that existing metadata corresponding to the file is not lost when moving a file to a new location,RL
+as a user in a rural area i need the app to function properly even with lowquality internet connections,RL
+as an accountant i want the system to automatically back up payroll data so that we can recover information in case of a system failure,RL
+as an app developer i want to ensure that application creation fails if any of its datasets cannot be created,RL
+as an app developer i want to ensure that application redeployment fails if any of its datasets cannot be reconfigured,RL
+as an educator i want the learning platform to be reliable so that its always available for students,RL
+as an event planner i want the ticketing system to be reliable especially during highdemand events so that ticket sales are not disrupted,RL
+as an hr manager i want the system to be scalable so that it can handle more employees as the company grows,RL
+as an it manager i need the system to be scalable to accommodate growing numbers of users,RL
+as an it manager i want the system to support data backups so that patient data is not lost in case of a system failure,RL
+as an it professional i want the system to recover quickly from failures so that business continuity is ensured,RL
+as an online tutor i want the teaching platform to be available round the clock so that students can learn anytime,RL
+as the ifa i want the system to be reliable while being used by at least 50000 people at the same time so that the user experience will be satisfactory,RL
+"As a admin, I want to be informed when critical issues occur.",RL
+"As a developer, I need to trust that data will not be lost unexpectedly.",RL
+"As a end-user, I need consistent data backups to maintain trust in the system.",RL
+"As a developer, I want to be notified when a system failure happens to ensure immediate response.",RL
+"As a manager, I want the system to provide uptime of 99.99% to avoid unexpected downtimes.",RL
+"As a admin, I need consistent data backups to maintain trust in the system.",RL
+"As a store owner, I want the checkout process to be fast, so that customers donâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥t abandon their carts.",RL
+"As a parent, I want the app to work well even with poor internet, so that I can check my child's progress.",RL
+"As a reader, I want the app to remember where I left off, so that I donâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥t lose my place.",RL
+"As a driver, I want the map app to always show my current location, so that I can navigate accurately.",RL
+"As an online student, I want the class platform to be available during scheduled sessions, so that I can attend on time.",RL
+"As a buyer, I want my order history to be saved correctly, so that I can track my purchases.",RL
+"As a user, I want the app to resume where I left off after a crash, so that I donâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥t lose my progress.",RL
+"As a caregiver, I want emergency contacts to always be accessible, so that I can react quickly if needed.",RL
+"As a photographer, I want saved edits to be reliable, so that I donâ€šÃ„Ã¶âˆšÃ‘âˆšÂ¥t lose hours of work.",RL
+"As a project lead, I want reports to always generate successfully, so that I can share updates with stakeholders.",RL
+"As a manager, I want the system to have high uptime, so that users can rely on it.",RL
+"As a business analyst, I need regular system backups, so that data can be restored in case of failure.",RL
+"As a team leader, I need the system to handle unexpected spikes in usage, so that it remains operational.",RL
+"As a project owner, I want recovery procedures to be documented, so that downtime is minimized.",RL
+"As a security officer, I need maintenance windows to be scheduled, so that disruptions are predictable.",RL
+"As a user, I want the app to provide feedback on actions so that I know if they were successful.",RL
+"As a user, I want the app to provide error messages so that I can fix issues quickly.",RL
+"As a user, I want the app to save my preferences so that I don't have to set them every time.",RL
+"As a user, I want the app to save my work automatically so that I don't lose progress.",RL
+"As a user, I want the app to back up my data so that it can be restored if needed.",RL
+"As a user, I want the app to update regularly so that it stays reliable.",RL
+"As a user, I want the app to recover quickly from crashes so that I can continue using it.",RL
+"As a user, I want the app to handle high traffic so that it doesn't slow down.",RL
+"As a user, I want the app to run smoothly so that I don't encounter errors.",RL
+"As a user, I want the app to be reliable so that I can depend on it.",RL
+"As a user, I want the app to provide status updates so that I know if it is working properly.",RL
+"As a user, I want the app to be monitored so that issues are detected quickly.",RL
+"As a user, I want the app to have an uptime guarantee so that I can use it consistently.",RL
+"As a user, I want the app to recover data after unexpected shutdowns so that my information is safe.",RL
+"As a user, I want the app to provide a retry option for failed tasks so that I can complete them without starting over.",RL
+"As a user, I want the app to send me alerts for critical system updates so that I can ensure it's always up-to-date.",RL
+"As a user, I want the app to have redundant servers so that it remains available during outages.",RL
+"As a user, I want the app to handle errors gracefully so that I have a smooth experience.",RL
+"As a user, I want the app to perform regular health checks so that it runs optimally.",RL
+"As a user, I want the app to have auto-scaling capabilities so that it can handle increased load.",RL
+"As a user, I want the app to support cloud backups so that I can restore data if needed.",RL
+"As a  bank customer, I want ATM withdrawals to work during outages so that I can access cash.",RL
+"As a  patient, I want my glucose monitor to store data offline so that I donâ€šÃ„Ã´t lose readings.",RL
+"As a  teacher, I want quiz answers to auto-save so that students donâ€šÃ„Ã´t lose progress.",RL
+"As a  gamer, I want cloud saves to restore progress so that I never lose achievements.",RL
+"As a  farmer, I want irrigation systems to switch to manual mode if sensors fail.",RL
+"As a  streamer, I want backup internet routing so that my live stream stays online.",RL
+"As a  parent, I want baby monitors to work on battery power so that I can check on naps.",RL
+"As a  student, I want offline access to textbooks so that I can study anywhere.",RL
+"As a  trader, I want order retries if the network drops so that I donâ€šÃ„Ã´t miss trades.",RL
+"As an  EV driver, I want charging stations to stop if errors occur so that my car isnâ€šÃ„Ã´t damaged.",RL
+"As an  architect, I want auto-recovery for crashed designs so that I donâ€šÃ„Ã´t lose hours of work.",RL
+"As a  nurse, I want backup pagers if call systems fail so that I respond to emergencies.",RL
+"As a  journalist, I want drafts to save locally so that I never lose breaking news updates.",RL
+"As a  drone operator, I want auto-return if signal is lost so that I donâ€šÃ„Ã´t lose the device.",RL
+"As a  patient, I want insulin pumps to alarm if blocked so that I stay safe.",RL
+"As a  retailer, I want cash payments as a backup so that sales continue during card outages.",RL
+"As a  bank customer, I want my transactions to process accurately even during maintenance so that I donâ€šÃ„Ã´t lose money.",RL
+"As a  patient, I want my heart rate monitor to stay connected during Wi-Fi outages so that my data isnâ€šÃ„Ã´t lost.",RL
+"As a  teacher, I want exam answers to auto-save every minute so that I donâ€šÃ„Ã´t lose progress if the system crashes.",RL
+"As a  gamer, I want my game progress to save locally so that I donâ€šÃ„Ã´t lose it if the internet goes down.",RL
+"As a  driver, I want my navigation app to cache maps so that I donâ€šÃ„Ã´t get lost in areas with no signal.",RL
+"As a  farmer, I want my irrigation system to default to manual mode if sensors fail so that my crops arenâ€šÃ„Ã´t damaged.",RL
+"As a  streamer, I want my broadcast to switch to backup servers if the primary fails so that my viewers arenâ€šÃ„Ã´t interrupted.",RL
+"As a  parent, I want my baby monitor to work during power outages so that I can always check on my child.",RL
+"As a  student, I want my cloud documents to sync offline edits so that I donâ€šÃ„Ã´t lose my work.",RL
+"As a  trader, I want my trading app to retry failed orders so that I donâ€šÃ„Ã´t miss opportunities.",RL
+"As a user, I want the system to auto-save my work every 5 minutes to prevent data loss.",RL
+"As a user, I want redundant servers to keep the app running during hardware failures.",RL
+"As a customer, I want error-free order processing even during inventory updates.",RL
+"As a user, I want the app to handle abrupt shutdowns gracefully (e.g., unsaved data recovery).",RL
+"As a  architect, I want rendering software to resume from the last checkpoint after crashes.",RL
+"As a  bank customer, I want transactions to process accurately even during system maintenance.",RL
+"As a  doctor, I want EHR systems to log all actions for audit trails during outages.",RL
+"As a  driver, I want EV charging stations to stop power flow if faults are detected.",RL
+"As a  driver, I want navigation apps to cache maps for areas with poor signal.",RL
+as a customer i want the ability to block my card through the app so that i can prevent misuse if its lost or stolen,SE
+as a home occupant i want a security camera and a siren which can be remotely monitored so that it would be good for chasing thieves away,SE
+as a home occupant i want a subtle reminder should i leave a door unlocked or open so that im protected from intruders,SE
+as a home occupant i want ability to lock all doors and windows instantly phone app or hot button so that to keep occupants safe,SE
+as a home occupant i want automatic locking doors at night so that i do not forget to lock the doors,SE
+as a home occupant i want my smart home to make a sound to warn me if my door is not locked at night so that my home remains secure,SE
+as a home occupant i want security footage of visits by humans only so that i can save time when reviewing the footage,SE
+as a home owner i want an alarm system that i can monitor anywhere so that i can make sure everyone is safe,SE
+as a home owner i want an alarm that will detect leaks in the house so that i can stay safe,SE
+as a home owner i want automatic door lock so that dont need keys,SE
+as a home owner i want doors to unlock automatically if i am specifically detected so that i dont need to deal with keys,SE
+as a home owner i want my doors to lock if an intruder comes in so that they cannot escape and will be caught by police,SE
+as a home owner i want my home to alert me to changing environmental issues so that i can keep my family safe,SE
+as a home owner i want my smart home to alert me to reports of crimes in the area so that i can be on alert for security,SE
+as a home owner i want my smart home to lock all doors at once so that i dont have to worry about locking all the doors,SE
+as a home owner i want my smart house to put the shutters down when a storm is coming so that my house is protected,SE
+as a home owner i want remote access to outlets so that i can turn them off to avoid energy vampires,SE
+as a husband i want to have a monitoring system for my kitchen equipments so that it helps my wife to be safe,SE
+as a neighbor i want my smart home to alert neighbors to emergencies in my home so that they will be safe as well,SE
+as a parent i want alerts if my toddler is where she shouldnt be so that i can make sure she is safe,SE
+as a parent i want socket adapters so that accidental shocks are avoided,SE
+as a parent i want the ability to lock all doors on command so that i can put the house into lock down to protect my kids,SE
+as a parent i want the front and back doors to automatically lock after 6pm so that if we forget to close them we dont have to worry about burglars,SE
+as a user i want to either keep a logbook entry private or share it with individuals rather than groups,SE
+as an admin i want to monitor failed login attempts so that i can identify potential issues or abuse,SE
+as an app user i want to be able to display the terms of use and data privacy information at any time,SE
+as an ifa administration i want to have access to teams budget over web application so that i can to continuously control budgeting system,SE
+as an administrator i want to have support for the sso tool so that i dont have to spend time on managing login data,SE
+"As a  retailer, I want PCI-DSS compliance for all credit card processing.",SE
+"As a project owner, I want security patches to be applied regularly, so that vulnerabilities are minimized.",SE
+"As a manager, I want dependency updates to resolve security vulnerabilities promptly.",SE
+"As a developer, I want the system to be secure and protected from vulnerabilities.",SE
+"As a developer, I want the app to use environment variables so that configurations are managed securely.",SE
+as a pet owner i want my smart windows to have sensors that automatically close when an animal gets too close so that my pets will be safe,SE
+"As a traveler, I want booking confirmations to always be sent, so that I know my plans are secure.",SE
+"As a user, I want the app to store my data securely so that it is not lost.",SE
+"As a user, I want the app to provide security updates regularly so that it remains secure.",SE
+"As a user, I want the app to provide a secure environment for financial transactions so that my payments are safe.",SE
+"As a user, I want the app to support secure downloads so that I can install updates safely.",SE
+"As a  farmer, I want SMS weather alerts if apps fail so that I can protect crops.",SE
+"As a traveler, I want offline access to maps and bookings when internet is unavailable.",SE
+"As a user, I want automatic retries for failed payment transactions.",SE
+"As a  parent, I want smart home locks to default to manual keys during Wi-Fi drops.",SE
+"As a patient, I want my medical records to be securely stored so that they are always available to my doctor.",SE
+"As a scientist, I want my research data to be stored securely so that it is not lost or corrupted.",SE
+"As a patient, I want my medical records to be securely stored and accessible when needed.",SE
+"As a security guard, I want surveillance systems to reliably record and store video footage.",SE
+"As a scientist, I want my research data to be safe and secure so that I don't lose any valuable information.",SE
+"As a developer, I want the system to be secure so that user data and system integrity are protected.",SE
+as a as a parent i want home with security so that so that i can monitor nannies and my children while away,SE
+as a bank customer i expect all my online transactions to be secure and traceable,SE
+as a business account holder i want the app to support multiple user access so that my team can manage our business banking,SE
+as a business owner i need to modify user access levels easily in the software,SE
+as a business owner i want to set up different access levels for the system so that employees can view only the information relevant to their role,SE
+as a business user i want the service to comply with data protection regulations so that i can use it for workrelated documents without security concerns,SE
+as a busy person i want a keyless entry system so that i dont have to spend time fiddling with the keys to my home,SE
+as a cautious person i want security cameras everywhere so that i can feel safe,SE
+as a collection curator housed in the protected data network i want my collection to be encrypted with a key maintained on that server a checksum made and stored of the encrypted file and the encrypted file replicated to our remote storage site,SE
+as a collection curator i want to be able require authentication to access objects unless the request is coming from a whitelisted ip address list of addresses like the special collections reading room or range,SE
+as a collection curator i want to restrict access to my collection or items to duke ip addresses,SE
+as a collection curator i want users to be able to contact me directly from the repository to request access to restricted objects,SE
+as a compliance officer i want to ensure the system adheres to healthcare regulations so that we are consistently compliant with legal standards,SE
+as a computer user i want to be alerted every time someone tries to use my computer so that i know if someone is invading my privacy,SE
+as a computer user i want to be alerted when my computer has been breached when i am not around it so that i can keep my information safe,SE
+as a content creator i need the platform to protect the integrity of my uploaded content,SE
+as a content creator i want the platform to protect my content from unauthorized use so that my intellectual property rights are respected,SE
+as a content moderator i want the platform to automatically detect inappropriate content so that the community remains safe,SE
+as a cornell faculty member i want to login remotely to the repository using shibboleth so that i can get remote access to cornell campusonly content,SE
+as a customer i want the app to provide secure online banking so that i can perform transactions safely,SE
+as a customer i want the online store to handle my payments securely so that my financial information is safe,SE
+as a customer i want to be able to pay securely and conveniently,SE
+as a customer i want to create a customer portal user account so that i can log on to the customer portal and perform transactions that first require user authentication,SE
+as a customer i want to temporarily lock my debit card through the app so that i can prevent unauthorized use if its misplaced,SE
+as a customer i want to use facial recognition for secure login so that i can access my account quickly and securely,SE
+as a cybersecurity analyst i want the system to log all access attempts so that potential security breaches can be tracked,SE
+as a data contributor i want the platform to ensure that my datasets are only used in compliance with their licenses so that my intellectual property rights are respected,SE
+as a data contributor i want to set access levels for my datasets so that i can control who views or uses them,SE
+as a data manager i want to know the security requirements of the data so that i can check whether the data can be kept secure,SE
+as a data manager i want to plan the anonymization of data so that we protect the privacy of the people participating in the research as good as possible and still ensure reusability of data,SE
+as a dbir administrator i want to administrate patron accounts for purpose of closing accounts viewing subscriptions changing subscriptions resetting passwords changing email address etc,SE
+as a dbir administrator i want to have a personal account with the ability to change passwords to make them more secure or to retrieve forgotten ones,SE
+as a dbir administrator i want to login to personal account with access to authorized functions,SE
+as a dbir administrator i want to set up or delete accounts for other administrators with various levels of permission,SE
+as a depositor i want to allow my collaborators privileged access to datasets so that we continue to have a productive relationship,SE
+as a depositor i want to apply licenses to datasets so that my ip rights are protected appropriately,SE
+as a depositor i want to have guarantees about data integrity so that i can use my data in the future and i can fulfil funder requirements for archival,SE
+as a depositor i want to place data under an embargo so that my right of first use is protected and i can fulfil my confidentiality responsibilities,SE
+as a developer i want to automate testing for data validation so that i ensure system accuracy,SE
+as a developer i want to be able to generate testcases for security testing so that i can ensure that the software is secure and protects user data,SE
+as a developer i want to deploy the ez event site bundle on production server protected behind a htaccess password for the ez conference website,SE
+as a developer i want to ensure data consistency across distributed services so that users always have accurate information,SE
+as a developer i want to ensure data consistency across transactions so that no discrepancies occur,SE
+as a developer i want to have my app to be granted access to several operating system features,SE
+as a diabetic patient i want the device to securely store my personal health information so that my privacy is protected,SE
+as a director of research integrity i want to access reports containing details of research projects in which data are classified as sensitive or highly sensitive so that i can confirm security protocols are applied to these data,SE
+as a doctor i should not be able to see medical records of patients that im not assigned to so that the patients confidentiality is maintained,SE
+as a doctor i want the patient to be excluded from viewing any information that is not intended to be viewed by them so that there are no security risks,SE
+as a doctor i want to only access medical files from my own patients so that no other doctor can access the medical files of my patients,SE
+as a donor i want my personal and health information to be encrypted so that my data cannot be intercepted or misused,SE
+as a electronics user and pet owner i want sockets that automatically cut off power supply if less than a certain voltage is being drawn so that when pets chew wire theyre less likely to be electrocuted so that my small pets can be safer from electrocution,SE
+as a fabs user i want to have readonly access to dabs so that i can view dabs pages without wanting two sets of permissions,SE
+as a faculty member i want to have granular access controls for my documents so that i can manage who can view or edit them,SE
+as a fan i want the app to provide a feature to buy and resell tickets securely so that i can attend games that i otherwise might miss,SE
+as a fan i want the app to securely store my payment information for quick purchases so that i can buy merchandise and tickets easily,SE
+as a fan i want to securely log in with my social media accounts so that i can use the apps social features quickly and easily,SE
+as a funder i want to know how secure data is so that i can ensure legal compliance,SE
+as a girl i want outlet control so that i can turn off power to an outlet if i leave my hair straightener plugged in after i leave,SE
+as a grandparent i want my cabinets to automatically lock so that the grandchildren are safe,SE
+as a guest i want to securely make payments for my reservations so that my financial information is protected,SE
+as a head of the family i want security system to alert me of unknown people getting into my house at my absence so that to safe guard my family members,SE
+as a healthcare professional i want all data transmissions from the app to the central database to be secure so that we maintain patient confidentiality,SE
+as a healthcare provider i want to access donor information quickly so that i can ensure the safety and suitability of blood donations,SE
+as a healthcare provider i want to securely message colleagues about patient care so that we can collaborate effectively while maintaining privacy,SE
+as a high net worth individual who values privacy i want the banking system to provide toplevel security features like biometric authentication advanced encryption strict data protection policies and a dedicated customer service team that can handle my unique needs so that my financial information is kept safe and secure,SE
+as a home i want my smoke alarms would beep when the battery gets low so that my family is safe from fires,SE
+as a home occupant i want a perimeter alarm that will alert me if anyone enters my yard so that ill be safe from intruders,SE
+as a home occupant i want a pet door that will open for my pet and lock afterwards so that my pet can go potty but my home is secure,SE
+as a home occupant i want a security system which can be set to account for visitors so that a person opening the door to the wrong person would set an alarm if the occupant did not clear that persons entry,SE
+as a home occupant i want all power strips to automatically shut off when plugged in devices are fully charged so that eliminate wasting energy via plugs that arent charging anything,SE
+as a home occupant i want appalarm controlled retractable stairs so that the second floor can be secure in case of zombie attacks or a swat raid,SE
+as a home occupant i want automatic locks on the doors so that i ensure there will never be human error,SE
+as a home occupant i want controllable applicances so that i can control the power supply to all appliances and turn it off in order to save energy,SE
+as a home occupant i want doors that automatically lock within 1 minute after they have been shut so that i never have to worry about forgetting to lock my doors,SE
+as a home occupant i want doors that lock after half an hour so that i am safe,SE
+as a home occupant i want doors to be auto locked when entering or leaving the home so that i am protected from a robbery or forgetting to lock the doors,SE
+as a home occupant i want every single item and appliance in my home to have advanced safety features in the event of a break in since every item is smart all my appliances my tv etc should be able to communicate or send alerts to my smart phone in the event that someone in my house is tampering with them maybe a smart phone alert when something becomes unplugged for example combined with a full series of motion sensor and body heat detection features indoors and outdoor security features such as automated cameras i envision the future of the ultimate secure smart home so that our home can be safe and burglary free,SE
+as a home occupant i want i want to secure my house during night so that i can sleep peacefully,SE
+as a home occupant i want improved security so that i do not have to worry about a burglar,SE
+as a home occupant i want it automatically replenishes itself at lunch time of pet so that my home will be secure from burgulars,SE
+as a home occupant i want keyless digital door lock so that i dont have to carry keys with me,SE
+as a home occupant i want my doors to lock up automatically after a mentioned time so that we can prevent theft and other burglary,SE
+as a home occupant i want my doors to sense automatically when my smart phone is within a certain distance from the front door and unlock themselves so that i dont have to use a key anymore,SE
+as a home occupant i want my electronic appliances to automatically turn themselves off so that i can save on electricity,SE
+as a home occupant i want my house to automatically lock all windows and doors once i close the front door and step on the front steps outsidde so that i can always be comfortable,SE
+as a home occupant i want my smart home fully secured so that we can get notification if thief in home,SE
+as a home occupant i want my smart home to alert me if movement is detected outside so that i can be safe at night from prowlers,SE
+as a home occupant i want my smart home to automatically dial 911 if forced entry is detected whether an alarm is activated or not so that i can feel safe all the time,SE
+as a home occupant i want my smart home to collect and manage the various power requirements of my smart appliances heating and cooling technologies and my security and access systems and i wish to be alerted via text message via mobile phone when powerrelated problems spikes or failures occur so that i may have alternate backup power sources automatically activated or manually activate them myself,SE
+as a home occupant i want my smart home to have a payment system near the front door that can only be accessed by an occupant so that i can pay delivery drivers without opening the door and stay safe,SE
+as a home occupant i want my smart home to turn off the heat if anything is blocking the heater so that my house will not burn down,SE
+as a home occupant i want my television to automatically turn off if i fall asleep on the couch so that it doesnt waste extra electricity,SE
+as a home occupant i want my things in home to be safe and turned off all lights so that make safe of all my things on home and live safe,SE
+as a home occupant i want my wall to act as a in built wifi router so that i can access the internet without using an external router,SE
+as a home occupant i want my wifi router to notify me on my smartphone if someone tried to unauthorizedly access it so that so that i am safe from hackers and intruders,SE
+as a home occupant i want my windows to set an alarm if they are opened after a certain time when the alarm is set so that i can be safe,SE
+as a home occupant i want outdoor motion detectors so that i have an added measure of security of the property,SE
+as a home occupant i want proper shutdown my personal computer so that secure my personal computer,SE
+as a home occupant i want safety locks so that so my kids are safe,SE
+as a home occupant i want secure doggy door so that it will only unlock for my dogs,SE
+as a home occupant i want security system that tracks my belongings so that i can keep an accurate inventory assist the authorities if there is a theft or remember to retrieve what i have loaned out,SE
+as a home occupant i want smart breakfast appliances so that my home will be secure from burgulars,SE
+as a home occupant i want smart locks so that my home is secure,SE
+as a home occupant i want the doors to lock when im gone from the house for 10 minutes so that my house will be safe,SE
+as a home occupant i want the front door to lock automatically behind me so that i know everyone in the house is safe,SE
+as a home occupant i want the window blinds to automatically open and close depending on the time of day so that i can maintain my privacy and save on electricity,SE
+as a home occupant i want the windows and doors to lock automatically after 10 pm so that when i forget to do it manually i know i am safe,SE
+as a home occupant i want they doors and windows to automatically lock at certain times so that the house will be secure,SE
+as a home occupant i want to be able to monitor carbon monoxide levels so that it is safe inside the house,SE
+as a home occupant i want to secure my house and my family when there is a gas leakage so that i am tension free,SE
+as a home occupant i want unused or unneeded electronics to automatically be placed on a low power mode so that unneeded energy not be wasted,SE
+as a home occupant i want wifi connection so that we can use internet entire home,SE
+as a home occupant i want windows that lock so that i feel safe,SE
+as a home occupant i want wireless charging of phones so that phones dont need to be tethered to wall sockets while charging,SE
+as a home owner i want a carbon monoxide detector so that my family is always kept safe from dangerous gasses,SE
+as a home owner i want a device that can protect my airspace from drones so that i can feel safe in my privacy,SE
+as a home owner i want a door lock that can have temporary access codes added that i can share with others so that i dont have to lend someone a spare key and the code will expire after a certain amount of time so i can revoke access,SE
+as a home owner i want a mail box that will automatically lock itself after the mail has been deliver so that my mail cannot be stolen,SE
+as a home owner i want a security system that informs me of doors opening so that i can know who is in my home at any time,SE
+as a home owner i want a security system that tells and tracks who is entering my home so that i can keep my home secure,SE
+as a home owner i want an alarm to sound if the garage door is left open after a car entersexits so that we can keep home safe,SE
+as a home owner i want an alert automatic locks on the doors so that they could all be locked at once,SE
+as a home owner i want an automatic lock on the doors after a certain time so that the doors will be locked no matter what,SE
+as a home owner i want an automatic lock whenever i leaves my home so that my house will be in very safe,SE
+as a home owner i want automatic locking doors so that doors will lock automatically but unlock when i touch the knob via fingerprint sensor,SE
+as a home owner i want automatically closing windows when a person is within a certain range of the window so that i can leave windows open on a nice day instead of running the air conditioning but also maintain the safety of my house,SE
+as a home owner i want biometric controls on locks so that i have greater security for my home and convenience i can never be locked out again,SE
+as a home owner i want doors that automatically lock after a certain tim so that my home is safer,SE
+as a home owner i want doors to stay locked so that thiefs dont enter,SE
+as a home owner i want fire sensors to be linked to the fire suppression system to be activated when a fire occurs so that i can protect my property,SE
+as a home owner i want i want my vehicles to get auto locked at night so that it remains safe,SE
+as a home owner i want lock and unlock my front door via my smartphone so that i dont have to hassle with key,SE
+as a home owner i want my alarm to go off when my child opens the door so that my kids will be safe,SE
+as a home owner i want my doors to lock automatically so that my family is safe,SE
+as a home owner i want my doors to lock automaticaly so that i never have to worry about them being locked,SE
+as a home owner i want my external doors to automatically lock after 30 seconds so that i can feel safe in my home,SE
+as a home owner i want my mailbox to lock when it senses the mailman has filled it with mail so that no one steals my mail,SE
+as a home owner i want my smart home to alarm me if danger so that i can be safe,SE
+as a home owner i want my smart home to alert the police if someone is trying to break in so that my home and valubles are protected,SE
+as a home owner i want my smart home to contact the police if anyone has broken into my home so that my home can be protected while i am away,SE
+as a home owner i want my smart home to immediately sound alarm if smoke is found so that my family will be safe,SE
+as a home owner i want my smart home to sound an alarm if someone is walking around after night so that my family will be safe,SE
+as a home owner i want my smart home to use fingerprint technology as a locking mechanism so that my family will be safer,SE
+as a home owner i want my windows and doors to be locked in accordance with my or family members voice lock and unlock so that my home can maintain privacy and safety,SE
+as a home owner i want security cameras that record hours of important footage without cloud services so that i can review any feed without the hassle of dealing with outside companies,SE
+as a home owner i want security cams to automatically record when strage movement happens at night so that video of the matter can be obtained,SE
+as a home owner i want the alarm system to automatically activate after all registered people in the home have left so that i can secure the household,SE
+as a home owner i want the doors to lock automatically behind me when coming or going so that the house will always be secure,SE
+as a home owner i want the windows to automatically lock at night so that i can prevent breakins,SE
+as a home owner i want to be alerted to any intruders to my property so that i can be safe in my home,SE
+as a home owner i want to know when my home has an unauthorized entrant so that i am safe,SE
+as a a teacher i want daily syllabus to be studied with systematic alerts so that easy to teach the students,US
+as a beginner i want access to a library of exercises with instructions so that i can learn how to perform them correctly,US
+as a content editor i want to be able to easily find content so that i can edit it,US
+as a cooking enthusiast i want a faster preheating oven so that i can cook things without as much planning or waiting,US
+as a customer i want to be able to access a variety of payment options such as cash credit debit and mobile payments so that i can choose the most convenient method for me,US
+as a customer i want to be able to save my payment and shipping information for future purchases so that i can checkout more quickly and easily,US
+as a customer i want to be able to search for products by keywords category or brand so that i can find what im looking for quickly and easily,US
+as a customer i want to be able to search for specific medications by name or category so that i can quickly find what i need,US
+as a customer i want to be able to select different shipping options including express and overnight delivery so that i can receive my medications as quickly as possible,US
+as a customer i want to easily find atm locations through the app so that i can withdraw cash when needed,US
+as a customer i want to easily find interest rates and fees information in the app so that i can make informed financial decisions,US
+as a customer i want to easily search for sports merchandise by team or athlete so that i can find what im looking for quickly,US
+as a developer i want to have an easy way to manage the pricing modality of my apps,US
+as a developer i want to have an easy way to read data from health sensors the user is wearing,US
+as a developer i want to have the accounting to be as simple and clear as possible,US
+as a fan i want the app to have gamification elements like quizzes and polls so that i can engage with content in a fun way,US
+as a fan i want the app to provide exclusive content for app users like behindthescenes footage or early ticket access so that i have incentives to use the app regularly,US
+as a gamer i want the house to have a gaming mode so that lighting and sounds are adjusted,US
+as a healthcare provider i want to be able to easily submit prescription orders to the online pharmacy so that my patients can receive their medications quickly and efficiently,US
+as a home occupant i want a feature that detects when the room could use a boost of aromatherapy so that i can enjoy the pleasant smells and relax,US
+as a home occupant i want a smart bed so that it adjusts tension to optimize comfort and posture,US
+as a home occupant i want a smart thermostat so that it can manage energy efficiently and predict what type of temperatures we prefer at different times of the year,US
+as a home occupant i want heat in each room i am in to be set at 70 degrees so that i am comfortable at all times,US
+as a home occupant i want innovative controls in my kitchen so that so that cooking is energy saving easy,US
+as a home occupant i want room temperatures to be dynamic and adjust according to personal options so that everyone is comfortable in every room at any given moment,US
+as a home occupant i want smart roofing so that it will absorb or reflect the temperature of the outside air to keep the house comfortable,US
+as a home occupant i want the fireplace to turn on as soon as i enter the living room so that i can be warm and comfortable in the winter,US
+as a home owner i want a central heat and air system that knows the weather outside and adjusts itself accordingly so that i can save money and enjoy more comfortable inside temperatures,US
+as a library staff member i want to have customizable metadata fields so that each project is described in the most accurate way possible,US
+as a medicalcaregiver i want to have a simple alfred unit that is expandable in is functions,US
+as a parent i want i want my smart home to put heat or air conditioning on depending on the temperature in the room so that i can always be comfortable,US
+as a parent of a diabetic child i want the device to have customizable alarms for high and low readings so that i can ensure my childs safety,US
+as a payroll manager i want the system to provide customizable salary templates so that i can create different templates for various employee types,US
+as a site visitor i want to have articles that interest me and are easy to get to so that i come to the site for my agile news and learning,US
+as a smart home occupant i want a chair that will cool me so that i can play games without overheating,US
+as a software engineer i want to be able to access and use analytics and monitoring tools so that i can identify and resolve performance or reliability issues,US
+as a student i want an affordable plan that fits my budget so that i can use the service for academic purposes,US
+as a teacher i want to access a dashboard that highlights student achievements and areas for improvement so that i can quickly assess overall class performance,US
+as a teacher i want to receive alerts about students at risk of falling behind so that i can intervene early,US
+as a user i want the app to have video tutorials for newer fans so that they can learn about the game and the league,US
+as a user i want the service to recognize different handwriting styles so that my conversion results are accurate,US
+as a user i want the system to automatically enhance the quality of uploaded images so that the conversion is more accurate,US
+as a user i want to be able to access educational resources and tools so that i can improve my investment knowledge and skills,US
+as a user i want to browse thumbnails of available datasets web services or web application to give me a quick sense of what,US
+as a user i want to configure block templates using semantic configuration,US
+as a user i want to have basic content types in ez studio after clean install,US
+as a user i want to provide feedback on the service so that it can be improved based on user experience,US
+as a user i want to receive a notification when my conversion is ready to download so that i can access it as soon as its available,US
+as a user i want to receive motivational notifications on days i havent worked out so that i stay encouraged to exercise regularly,US
+as a user i want to receive weather alerts for specific locations that i select such as my workplace or a vacation destination,US
+as a user i want to see sensible and predictable urls so that the application feels logical and transparent,US
+as a user i want to send multimedia messages so that my conversations are more expressive and fun,US
+as a user i want to turn onoff insite editing mode,US
+as a user i want web services providing access to aerial photos that render google fast,US
+as an api user i want to be able to understand if a user is a publisher so that i can offer functionality based on dataset publisher privileges,US
+as an app user the first time i launch the app i want to receive an introduction to how it works app motivation,US
+as an hr manager i want the system to facilitate easy reporting for regulatory compliance so that we can fulfill legal obligations effortlessly,US
+as an api user i want to be able to get a csv output of any cubebased query so that i can use work with tools that read csv,US
+"As a video conference participant, I want video and audio to be synchronized and clear so I can participate effectively.",US
+as a manager i want the software to be easy to learn so that my team can quickly adapt to it,US
+"As a designer, I want to customize the layout, so that I can test different designs.",US
+"As a  user, I want apps to allow theme customization so that I can personalize my experience.",US
+as a home occupant i want smart solar panels that adjust themselves so that sunlight is collected more efficiently,US
+as a person who likes tv i want the tv channel to change with my voice so that i can have entertainment more quickly,US
+"As a  chef, I want timers with voice alerts so that I can focus on cooking.",US
+"As a gamer, I want the game to respond instantly to my actions so that I can enjoy a fully immersive and responsive gaming experience.",US
+"As a user, I want the application to be accessible to users with disabilities.",US
+"As a user, I want the application to be easy for everyone to use regardless of their technical skills.",US
+"As a user, I want the application to be easy to use regardless of my location or device so that I can access it conveniently.",US
+as a virtual assistant i want it control my computer so that mkae things easier,US
+"As a user, I want the app to have a support team so that I can get help if needed.",US
+"As a user, I want the app to provide a detailed error log so that I can understand issues better.",US
+"As a  driver, I want offline maps so that I can navigate without cell service.",US
+"As a customer, I want online stores that are easy to shop at so that I can quickly find and purchase the products I need.",US
+"As a end-user, I want to receive alerts when unusual activities occur.",US
+"As a database administrator, I want the interface to be accessible to users with disabilities, so that everyone can use the system.",US
+as a bachelor i want a device that can emit nice fragrances when i have a female date over so that women can feel more comfortable when they come to my house,US
+as a bank customer i want to customize the types of alerts i receive so that i only get notifications that are relevant to me,US
+as a bather i want a standard setting like a car radio button for a temperature i like the water so that i dont experience water thats too hot or too cold each time,US
+as a bride or groom i want to be able to design and customize my wedding website and invitations,US
+as a business decisionmaker i want to use french as native language for cms sitemanager so that native frenchspeaking editors adopt cms sitemanager easily and as a result gain a better understanding of the application,US
+as a business owner i want to customize the salary components like allowances and bonuses so that i can cater to our companys specific payroll needs,US
+as a busy professional i want the banking system to offer convenient online and mobile banking options so that i can manage my finances onthego and save time,US
+as a busy professional who values time and convenience i want the banking system to offer a mobile app with a userfriendly interface realtime notifications for transactions and account balances easytouse bill payment options and the ability to deposit checks using my smartphone so that i can manage my finances onthego,US
+as a cataloger i want authority lists to be easily accessible and contextually relevant so it is easy to use the authority,US
+as a cataloger or collection manager i want to be able to use a gridspreadsheet style interface so i can edit items quickly,US
+as a cautious person i want smart emergency alarms so that i feel safe,US
+as a chef i want kitchen appliances with smart technology so that i can cook better overall,US
+as a cleanly person i want automatic window cleaners so that i do not need to spend hours cleaning them,US
+as a coffee lover i want a coffee pot that can be controlled via mobile app so that i dont have to manually set the pot,US
+as a coffeetea drinkerpc user i want my computer heat to be used to keep my drink hot so that i can enjoy it longer,US
+as a company i want to have a website that is easy to use so that i can upload or delete stuff step by step,US
+as a computer user i want my computer to have a screen built into the wall and respond to voice commands if desired so that i can use the computer more easily,US
+as a consumer i want centralized command center with voice activated automation so that i can control my smart home without remotes using only vocal commands,US
+as a cook i want devices to help me prepare food quickly so that i can save prep time,US
+as a cook i want led touchscreen displays so that cooking can be optimized,US
+as a customer i expect to find help easily within the app if i encounter any issues,US
+as a customer i want the app to have multilanguage support so that i can use it in my preferred language,US
+as a customer i want the website to have a live chat support so that i can get immediate assistance,US
+as a customer i want to access a faq section for quick help so that i can resolve queries without needing to contact support,US
+as a customer i want to apply for loans through the app so that i can access financial services conveniently,US
+as a customer i want to be able to access customer support easily and receive timely assistance,US
+as a customer i want to be able to browse and search for products easily and efficiently,US
+as a customer i want to be able to contact customer support easily and receive timely responses to my inquiries and issues,US
+as a customer i want to be able to customize alerts for different types of transactions so that i can be promptly informed about important account activities,US
+as a customer i want to be able to easily find products in the store through clear signage and product categorization so that i can quickly locate the items i need,US
+as a customer i want to be able to easily locate and access customer service representatives so that i can have my questions and concerns addressed,US
+as a customer i want to be able to receive alerts when my medication is running low so that i can reorder before i run out,US
+as a customer i want to customize my app dashboard so that i can have quick access to frequently used features,US
+as a customer i want to easily find contact information for customer service so that i can get in touch if i have issues,US
+as a customer i want to easily find the nearest bank branches and atms within the app so that i can access physical banking services when needed,US
+as a customer i want to receive personalized financial advice based on my spending habits so that i can make smarter financial decisions,US
+as a customer i want to update my orders through the screen so that i can get a quick and correct service,US
+as a customer support representative i want to be able to easily access customer data and troubleshoot issues so that i can provide effective and efficient support,US
+as a data consuming user i want to be able to have stepped zoom on map visualisations so that i can have better control over the navigation experience inside a map view,US
+as a data consuming user i want to have consistent use of colour on map visualisations so that i can better understand the visual logic of the map view,US
+as a data consuming user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i am viewing,US
+as a data creator i need to access help content on the data broker that is organized and searchable so i can easily find the information i need,US
+as a deaf user i want the app to support video calling with sign language compatibility so that i can communicate effectively,US
+as a depositor i want to have a user interface that is familiar to me so that i feel like all the university systems are joined up,US
+as a developer i want to be able to customise the brand name and icon and primary color of all frontend javascript apps so that i can customise the branding for my own needs,US
+as a developer i want to customize an existing wizard for my specific type of data so that i can give my users a great user experience,US
+as a developer i want to have an easy way to define questions the user can ask and perform,US
+as a developer i want to have the site comply with the w3c accessibility guidelines where possible so that people with accessibility issues can use the application,US
+as a developer i want to provide an easy way to manage the user settings,US
+as a developer i want to use interface that defines block type,US
+as a diabetic patient i want the device to be small and portable so that i can carry it with me throughout the day,US
+as a diabetic patient i want the device to have an easy way to replace testing strips so that the process is hasslefree,US
+as a diabetic patient i want the device to use the minimum amount of blood necessary so that the testing process is less painful,US
+as a diabetic patient i want to access troubleshooting guidelines within the device so that i can resolve minor issues without external help,US
+as a distance learner i want the cms to provide a stable and consistent user experience so that my learning is not interrupted by technical issues,US
+as a doctor i want to customize the layout of electronic medical records so that i can access the information i need more efficiently,US
+as a donor i want the ability to use voice commands within the app so that i can use it handsfree enhancing usability,US
+as a donor i want the app to be usable with one hand so that i can navigate it while on the move,US
+as a donor i want the apps user interface to be simple and straightforward so that i can navigate it with ease regardless of my techsavviness,US
+as a fabs user i do not want dabs banner messages and vice versa so that i have the appropriate information for my application,US
+as a fabs user i want additional helpful info in the submission dashboard so that i can better manage submissions and ig requests,US
+as a fabs user i want the frontend urls to more accurately reflect the page im accessing so that im not confused,US
+as a fabs user i want the language on fabs pages to be appropriate for me so that i am not confused,US
+as a fabs user i want to see correct status labels on the submission dashboard so that i can quickly see my submission history,US
+as a fan i want the ability to customize the apps interface with my teams colors so that it reflects my loyalty and enhances my experience,US
+as a fan i want to have application in my native language so that i can understand the context of information included in web application,US
+as a food preparer i want a waterproof screen in the kitchen that can look up recipes and play cooking instructional videos without me having to touch it so that i can receive help cooking without destroying my laptop or other device with messy hands,US
+as a gadget enthusiast i want a unit that will control the lights sounds temperature and entertainment devices in the house so that i can easily control everything in the house,US
+as a github site user i need to understand what the data broker is and how it works,US
+as a graduate student i want the cms to have a robust search engine so that i can find relevant thesis papers and articles efficiently,US
+as a guest i want to access customer support through the system so that i can resolve any issues with my reservation quickly,US
+as a guest i want to have a live chat option for support during the booking process so that i can get immediate assistance if needed,US
+as a gym member i want the app to be fast and responsive so that i dont waste time during my workout sessions,US
+as a gymgoer i want the app to have a userfriendly interface so that i can input data quickly and focus more on my workout,US
+as a health enthusiast i want have a voice feature connected to my surround sound system at home that reminds me to exercise so that i stay on track with my fitness goals,US
+as a healthcare provider i want to access multilingual support in the system so that i can assist patients who speak different languages,US
+as a healthcare provider i want to receive alerts for critical patient updates so that i can respond promptly to emergencies,US
+as a healthcare provider i want to use the system for scheduling and time management so that i can efficiently plan my day,US
+as a home maker i want bluetooth home appliance automation so that will control the appliance,US
+as a home occupant i want a central control unit so that i can easily change settings of smart home features in my house,US
+as a home occupant i want a feature for dimmed lighting and soft music so that i can relax and enjoy my downtime without much effort,US
+as a home occupant i want a floor heating controller so that i can have comfortable floors during winter time,US
+as a home occupant i want a learning thermostat so that my home will be energy efficient and comfortable,US
+as a home occupant i want a loud speaker system so that i dont have to yell,US
+as a home occupant i want a smart home that features vacuum terminals built into the corner of certain corners of the house so that i can conveniently sweep without having to use a dustpan,US
+as a home occupant i want a smart shower so that i can save energy while using it as efficiently as possible,US
+as a home occupant i want a smart thermostat so that i can better regulate the temperature in my home,US
+as a home occupant i want a smart thermostat so that the temperature can automatically be adjusted to save energy,US
+as a home occupant i want a smart vacuum so that i do not have to clean,US
+as a home occupant i want a thermostat that turns on as i wake up so that i am more comfortable in the morning,US
+as a home occupant i want a voice control system that allows me to monitor multiple features in the house so that i can change features anywhere in the home,US
+as a home occupant i want an automated sprinkler system so that that will water only when the soil needs it and only in the places where the soil needs it,US
+as a home occupant i want automatic fragrance sprinkler so that can save time,US
+as a home occupant i want each room to feel comfortable temperature and humidity wise so that each room is comfortable,US
+as a home occupant i want have remote control for windows and blinds so that i can adjust the lights remotely,US
+as a home occupant i want home appliance universal remote so that i can remotely control electronic devices throutout the home,US
+as a home occupant i want integrated smart electronics so that i only need one remote and devices are easy to operate,US
+as a home occupant i want my shower to immediately turn to a warm temperature before i get in so that i can have a comfortable show,US
+as a home occupant i want my smart home to be able to control all devices with one remotephone so that i save time and no longer have to look for a lost remote,US
+as a home occupant i want my smart home to have a whole home sound system with individual control for each room so that i enjoy the music in whichever room i go into,US
+as a home occupant i want my smart home to regulate ideal temperature according to my personal preferences and the outside temperature so that i can be comfortable,US
+as a home occupant i want my thermostats to automatically know when i want the home cooler or warmer so that i am always comfortable,US
+as a home occupant i want my walls to take the design color or pattern of my choosing at any time selected from my smartphone so that i can easily customize my home,US
+as a home occupant i want smart alarm clock so that it always has the right time and has simple buttons,US
+as a home occupant i want smart smoke and carbon monoxide monitor that is more interactive than a simple alarm thats confusing and frustrating so that i can be assured im safe and dont have to mess to antiquated devices,US
+as a home occupant i want smart thermometer so that i can remotely control the temperature at home,US
+as a home occupant i want smart window cleaners so that i dont have to do that chore,US
+as a home occupant i want smarthome feature that will sense when a person is in the room and quickly heatcool it so that i can save energy when no one is in a room but can quickly and easily make a room comfortable as someone enters it,US
+as a home occupant i want sprinkler system so that i can feel safe about fires,US
+as a home occupant i want the smarthome to assess the temperature outside and adjust the inside temperature appropriately so that i can feel more comfortable when the weather changes quickly,US
+as a home occupant i want window sensors so that my home will be energy efficient and comfortable,US
+as a home owner i want a comfortable temperature so that the temperature doesnt vary between 6876 degrees,US
+as a home owner i want a couch that is heated and air conditioned by remote control so that i can reduce other sources of heat and cooling by making my immediate area more comfortable,US
+as a home owner i want a shower that will go to my preferred temperature with a button press so that i can shower more easily,US
+as a home owner i want a smart remote so that it can control every electronic device,US
+as a home owner i want a smart thermostat so that the house can be comfortable without wasting energy,US
+as a home owner i want a touchscreen voiceactivated smart monitor so that i can watch videos television or do other things right when i need to,US
+as a home owner i want automatic temperature controls so that i am always comfortable without wasting energy,US
+as a home owner i want live wallpaper so that i can customize my homes wallpaper probably via a projector or hologram to fit my moods and the situation entertaining ect,US
+as a home owner i want smart tennis court so that i can play and practice with an automated system since i am forever alone,US
+as a home owner i want the temperature to automatically adjust based on how hot or cold it is outside so that i am comfortable,US
+as a home owner i want voiceactivated cooking system so that i can do multiple things quickly and efficiently,US
+as a homebuyer i want to be able to receive assistance with the paperwork and legal aspects of the homebuying process so that i can navigate the process easily and efficiently,US
+as a hospital staff member i want to receive system support and troubleshooting assistance easily so that any technical issues can be resolved quickly,US

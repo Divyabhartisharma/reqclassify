@@ -1,0 +1,124 @@
+1. You are an expert software quality engineer specializing in ISO/IEC 25010:2023.
+
+Task:
+Classify each requirement into exactly ONE non-functional requirement category.
+
+IMPORTANT:
+- This dataset may contain functional and non-functional requirements.
+- NEVER classify anything as Functional.
+- ALWAYS select exactly one category from the fixed list below.
+
+FIXED_CLASSES:
+A, CM, MN, PE, PO, RL, SE, US
+
+ISO/IEC 25010 DEFINITIONS:
+- PE (Performance Efficiency): response time, latency, throughput, resource usage, capacity.
+- SE (Security): confidentiality, integrity, authentication, authorization, resistance to attacks.
+- US (Usability): learnability, operability, accessibility, user assistance.
+- RL (Reliability): availability, fault tolerance, recoverability, maturity.
+- MN (Maintainability): modifiability, analysability, testability, reusability.
+- PO (Portability): adaptability, installability, replaceability.
+- CM (Compatibility): interoperability, coexistence.
+- A (Availability): system uptime, service continuity, redundancy.
+
+Instructions:
+- Treat each requirement independently.
+- Output exactly one class.
+- Do NOT rewrite or rephrase requirements.
+- Do NOT invent thresholds.
+
+Output CSV only:
+Requirement,Type
+
+Input: <PROMISE_> 
+
+
+
+2.You are an ISO/IEC 25010 requirement classifier.
+
+Task:
+For each requirement, output EXACTLY ONE label from:
+CM, FR, MN, PE, PO, RL, SE, US
+
+CRITICAL RULES:
+- The dataset contains both functional and non-functional requirements.
+- NEVER output the word "Functional".
+- Output exactly ONE label from the list (no extra text).
+- Do NOT rewrite or rephrase the requirement.
+- Ignore role phrases like "as a user / as a developer / i want" (they do NOT mean Usability).
+
+--------------------------------------------------
+LABEL DEFINITIONS (OPERATIONAL)
+--------------------------------------------------
+SE (Security): protection + access control (authentication/authorization/privacy/protection/locking).
+CM (Compatibility): integration/data exchange/sync/connect between systems/devices/apps/APIs.
+RL (Reliability): continues working despite failure; uptime/backup/recovery/offline survivability.
+PE (Performance Efficiency): speed/latency/throughput/load/resource usage/capacity/scaling limits.
+PO (Portability): install/deploy/run/migrate across platforms/OS/environments/devices.
+MN (Maintainability): maintainers modifying/testing/debugging/patching/modularizing/reusing.
+US (Usability): ease of interaction (easy/intuitive/learnable/UI/navigation/accessibility/help to use).
+FR (Functional Suitability): default when the requirement is mainly a feature/capability and no other quality dominates.
+
+--------------------------------------------------
+STRICT DECISION RULES (APPLY IN THIS ORDER)
+--------------------------------------------------
+
+1) SECURITY → SE
+If the requirement mentions ANY of:
+login, authenticate, authorization, access control, permission, role-based, password, PIN,
+biometric, encryption, privacy, confidential, integrity, secure, protect/protected,
+lock/unlock, prevent unauthorized, attack, vulnerability
+→ SE
+
+2) INTEGRATION / SYNC → CM
+If the requirement mentions ANY of:
+integrate, integration, interface, API, connect, communicate, sync/synchronize,
+data exchange, interoperability, compatible with, link with, pair with,
+works with another system/app/device, import/export between systems
+→ CM
+
+3) RELIABILITY / OFFLINE / RECOVERY → RL
+If the requirement mentions ANY of:
+available/availability/uptime, reliable/reliably, fail/failure, crash, fault tolerant,
+recover/recovery, backup, restore, retry, resume, no data loss, persist,
+offline, reconnect automatically, continue working when network/power is lost
+→ RL
+
+4) PERFORMANCE / CAPACITY → PE
+If the requirement mentions ANY of:
+response time, latency, throughput, performance, fast, real-time,
+load, concurrent users, capacity, scalable/scalability, resource usage (CPU/memory)
+→ PE
+
+5) PORTABILITY / INSTALL / PLATFORM → PO
+If the requirement mentions ANY of:
+install/uninstall, deploy, run on, platform, OS (Android/iOS/Windows/Linux),
+environment, migrate, container, portability, adaptable to different devices/environments
+→ PO
+
+6) MAINTAINABILITY (MAINTAINER ACTIONS) → MN
+If the requirement is about developers/maintainers being able to:
+modify/change/refactor, test/testable, debug, analyze impact, modular/reusable,
+configure for maintenance, update/patch/upgrade as maintainers
+→ MN
+
+7) USABILITY (INTERACTION QUALITY ONLY) → US
+Choose US ONLY if the requirement explicitly talks about interaction quality such as:
+easy/simple/intuitive to use, learnability, UI/navigation, clear instructions,
+prevent user error, accessibility/inclusivity, user assistance for operating the system
+→ US
+
+IMPORTANT NEGATIVE RULE FOR US:
+- If the requirement says "help users" by providing a service, feature, report, information,
+or decision support (not about ease-of-use/UI), then it is NOT US → classify as FR.
+
+8) OTHERWISE → FR
+If none of the rules above clearly match → FR
+
+--------------------------------------------------
+OUTPUT (CSV File ONLY)
+--------------------------------------------------
+Requirement, Type
+
+INPUT: 
+

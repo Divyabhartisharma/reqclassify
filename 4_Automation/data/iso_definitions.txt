@@ -1,0 +1,47 @@
+# ISO/IEC 25010 – NFR Classification Reference (RAG-Ready)
+
+## SE — Security
+Definition: Capability of a product to protect information and data so that persons or other products have the degree of data access appropriate to their authorization, and to defend against malicious attacks.
+Sub-characteristics: confidentiality, integrity, non-repudiation, accountability, authenticity, resistance.
+Typical requirement indicators: authentication, authorization, access control, roles/permissions, encryption, privacy, confidential data, secure transmission, secure storage, audit trails, tamper protection, attack/DoS/ransomware, vulnerability mitigation.
+
+## PE — Performance Efficiency
+Definition: Capability of a product to perform its functions within specified time and throughput parameters and be efficient in the use of resources under specified conditions.
+Sub-characteristics: time behaviour, resource utilization, capacity.
+Typical requirement indicators: response time/latency, throughput, performance, real-time, load, concurrent users, scalability limits, CPU/memory/storage/network usage, bandwidth, maximum number of records/transactions.
+
+## RL — Reliability
+Definition: Capability of a product to perform specified functions under specified conditions for a specified period of time without interruptions and failures.
+Sub-characteristics: faultlessness, availability, fault tolerance, recoverability.
+Typical requirement indicators: uptime/availability, failover, redundancy, retry, graceful degradation, resilience, no-crash, fault tolerant, backup/restore, disaster recovery, reconnect automatically, offline survivability, no data loss after failure.
+
+## US — Usability / Interaction Capability
+Definition: Capability of a product to be interacted with by specified users to exchange information via the user interface to complete intended tasks.
+Sub-characteristics: appropriateness recognizability, learnability, operability, user error protection, user engagement, inclusivity, user assistance, self-descriptiveness.
+Typical requirement indicators: easy/intuitive to use, clear UI/navigation, learn quickly, accessible/inclusive design, help/tooltips/guided steps, error prevention, good user guidance, understandable feedback, reduces confusion.
+Negative rule: “As a user…” phrasing alone does NOT mean US unless it explicitly mentions interaction quality (ease-of-use, UI, navigation, accessibility, user assistance).
+
+## MN — Maintainability
+Definition: Capability of a product to be modified by the intended maintainers with effectiveness and efficiency.
+Sub-characteristics: modularity, reusability, analysability, modifiability, testability.
+Typical requirement indicators: modular design, low coupling, code reuse, refactor/change easily, easy debugging/troubleshooting, impact analysis, maintainable configuration, patch/upgrade support, automated tests, logging for diagnosis, testability, maintainers can validate changes.
+
+## CM — Compatibility
+Definition: Capability of a product to exchange information with other products and/or perform required functions while sharing a common environment and resources.
+Sub-characteristics: co-existence, interoperability.
+Typical requirement indicators: integration with other systems, interoperability, APIs/interfaces, data exchange, import/export, sync/synchronize, connect/communicate with another app/device/service, compatible formats/protocols, works with third-party systems, co-exist without interference.
+
+## PO — Portability / Flexibility
+Definition: Capability of a product to be adapted to changes in its requirements, contexts of use, or system environment.
+Sub-characteristics: adaptability, scalability, installability, replaceability.
+Typical requirement indicators: install/uninstall, deployment, migration, runs on multiple OS/platforms/environments, containerization, cloud/on-prem portability, environment-independent configuration, replaceable components, upgrade compatibility, adaptability across devices, scaling up/down workloads.
+
+## FR — Functional Suitability (Fallback Class)
+Definition: Capability of a product to provide functions that meet stated and implied needs under specified conditions.
+Sub-characteristics: functional completeness, functional correctness, functional appropriateness.
+How to use in classification: choose FR when the requirement is mainly a feature/capability and no non-functional quality (SE/PE/RL/US/MN/CM/PO) clearly dominates.
+
+## A — Availability (If you keep A as separate from RL)
+Definition: Capability of a product to be operational and accessible when required for use.
+Typical requirement indicators: uptime targets, service continuity, redundancy/failover, availability SLAs.
+Note: If your label set already includes RL, you can either map availability into RL or keep A as a dedicated label. Be consistent across training and evaluation.

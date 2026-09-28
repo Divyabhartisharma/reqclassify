@@ -1,0 +1,40 @@
+﻿requirement_text
+AUTOSAR communication shall support the CAN communication bus.
+The Can Driver shall support Standard Identifier and Extended Identifier.
+The CAN driver shall allow the static configuration of the hard-ware reception filter
+The bit timing of each CAN Controller shall be configurable
+Hardware Object Handles shall be provided for the CAN Inter-face in the static configuration file
+The CAN Driver shall implement an interface for initialization
+The CAN Driver shall support dynamic selection of configuration sets
+The CAN Driver shall provide a service to enable/disable interrupts of the CAN Controller.
+The CAN Driver shall guarantee data consistency of received L-PDUs
+The CAN Driver shall offer a reception indication service
+The CAN Driver shall implement an interface for deinitialization
+CAN Driver shall provide a notification for bus-off state
+The CAN driver shall not recover from bus-off automatically
+The CAN Interface configuration shall be able to import information from CAN communication matrix
+The AUTOSAR CAN Transport Layer shall be statically configurable to support either single or multiple connections in an optimizing way
+AUTOSAR communication shall support the standardized transport protocol for Diagnostics over CAN
+The CAN Driver shall fulfill the general requirements for Basic Software Modules as specified in AUTOSAR_SRS_SPAL
+The CAN Driver shall offer a Hardware independent interface.
+The CAN Interface implementation and interface shall be independent from underlying CAN Controller and CAN Transceiver
+The CAN State Manager shall offer a network abstract API to upper layer
+The CAN Interface and Driver shall offer a CAN Controller specific interface for initialization
+The FlexRay Interface shall provide a PDU-based data API to all upper layers
+Abstraction of FlexRay CC-specific Implementation shall be provided
+The FlexRay Driver shall be able to communicate with at least four FlexRay CCs of the same type
+The CC Hardware FIFO Mechanism shall be supported
+Hardware Message ID Filter Mechanism according to the FlexRay Protocol Specification 3.0 shall be supported
+The transceiver driver package shall include a description file with the basic information needed to configure the driver for a given bus and the supported notifications
+Abstraction of FlexRay-Specific Features shall be provided
+"The FlexRay Interface shall allocate the needed memory space only once for a PDU sent multiple times in the FlexRay matrix
+"
+Configuration of the FlexRay Interface shall be done at System Configuration Time
+ISO 10681-2 or ISO 15765-2 or both Specifications shall be selected
+"The FlexRay Transport Layer shall be configured to be compliant with the ISO 10681-2 specification
+"
+The FlexRay Transceiver Driver shall handle the transceiver-specific timing requirements internally.
+"The module will operate as an independent instance in each of the partitions, means the called API will only target the partition it is called in."
+The ECUC partitions referenced by CanController EcucPartitionRef shall be a subset of the ECUC partitions referenced by CanEcuc PartitionRef.
+CanController and CanTrcvChannel of one communication channel shall all reference the same ECUC partition
+"If CanEcucPartitionRef references one or more ECUC partitions, CanControllerEcucPartitionRef shall have a multiplicity of one and reference one of these ECUC partitions as well."

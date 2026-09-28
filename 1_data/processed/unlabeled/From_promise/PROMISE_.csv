@@ -1,0 +1,147 @@
+Requirement
+If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30
+The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.
+If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100
+The product shall ensure that it can only be accessed by authorized users.  The product will be able to distinguish between authorized and unauthorized users in all access attempts
+The product shall be intuitive and self-explanatory. 90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.
+The search results shall be returned no later 30 seconds  after the user has entered the search criteria
+The product shall be available for use 24 hours per day 365 days  per year
+Only registered realtors shall be able to access the system.
+The product shall prevent its data from incorrect data being introduced.
+2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.
+The system shall be available for use between the hours of 8am and 6pm.
+Only authorized users shall have access to clinical site information.
+Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students\92 personal information.
+Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.
+The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.
+The system shall use the organization\92s standard virus protection software to help monitor threats to itself.
+100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.
+The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.
+All authorized users  once authenticated must be able to logon to the Disputes System
+If a user account is revoked  it can only be re-instantiated by the System Administrator.
+Only the System Administrator shall be able to reset a revoked user logon account
+All updates to data files or database must be initiated from the Disputes System.
+The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.
+Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.
+The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training
+The user shall easily locate instructions while using the product.  User help can be found within 90% of the system.
+The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.
+The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds
+The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.
+The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.
+The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.
+Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.
+Only collision estimators shall search for recycled parts.  Users without the collision estimator role shall not have access to the search for recycled parts.
+One insurance company shall not be able to view another insurance companys claim data.
+The product shall allow the user to select a chosen language from one of the target market countries.
+An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.
+The product shall use a standard navigation menu familiar to most web users.
+The response shall be fast enough to avoid interrupting the user\92s flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.
+Aside from server failure  the software product shall achieve 99.99% up time.
+The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.
+The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product\92s software code.
+Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install.
+Every registered user will have access to the product\92s support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.
+The customer shall be able to easily integrate new building maps with the product throughout the product\92s lifecycle.  Integration of new maps with the product shall be possible with little to no support from product support staff.
+The product shall be translated into foreign languages other than the target market countries\92 languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market\92s language.
+The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.
+Only managers are able to perform search queries for reservations by user.  100% of all search queries for reservations by user shall be from logons of only management logons.
+The product shall ensure that the database\92s data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.
+The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems\92 data shall remain 100% uncorrupted each time malicious data is input into the product.
+The product shall be able to display calendar dates and times according to the user\92s locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.
+The System shall allow for a minimum of  6 users to work at the same time.
+The System shall maintain consistent security.  Any changes in user passwords and/or permissions should take affect in all parts of the System.
+The System shall granularly control access rights to all major subsystems.  It should be possible to assign access rights to all subsystems independently.
+ Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.
+System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.
+System shall let administrator add/remove movies on the website in under 5 minutes.  Entered movie information will be stored in the database and will now be available on the website.
+Users should only have to navigate through a maximum of 4 pages  to create an account with the website.
+Users should be able to access their streaming movies in under 2 clicks after logging into the website.
+The product shall be easy for customers with novice skills on the  Internet to purchase and watch streaming movies.  Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.
+Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.
+When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.
+When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user\92s connection.)
+While streaming a movie  buffering should only occur if there is latency in the user\92s connection.
+All credit card information will be secured on the server  and only accessible by authorized Izogn administrators.  Information will be encrypted in the database.
+The website shall be available for use 24 hours per day  365 days per year.
+All movies shall be streamed on demand  at any time of the day.
+The website will provide a help section with answers and solutions to common problems.
+Velkat staff will be available for phone support between 7am-7pm  M-F to provide technical support to the Izogn administrators.
+Only registered customers can purchase streaming movies.
+A customer can only stream a movie if they purchased it  and are within the 2 day viewing period.
+Only authorized personnel can access sales information.
+The website shall prevent its data from being corrupted when incorrect data is entered in.
+The website shall protect itself from intentional abuse  and notify the administrator at all occurrences.
+The website shall make its user aware of its information practices before collection data from them via a Privacy Policy  accessible on all pages of the website.
+The system shall notify customers of changes to its information policy.
+The system shall reveal private information only in compliance with the organization\92s information policy.
+All customer information will be stored on a secure database  accessible only to authorized personnel.
+The streaming server will have anti-virus software to prevent infection of malicious viruses.
+The product shall be available 24 hours per day  seven days per week.
+The response time shall be fast enough to maintain the flow of the game.  The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.
+The product shall be intuitive and self-explanatory.  Nine out ten users shall be able to successfully complete a game with no training.
+The product shall be available to players who understand English  Spanish and French.  The product shall allow the user to select the language upon accessing the product.
+The product shall provide players no access to information that might reveal the identity of another player
+The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.
+The system shall be responsive. At the DePaul TeleServices Center  when a supervisor uses the system to view a callers schedule  the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.
+On a 56k connection  the system response time for all operations must be no more than 6 seconds 90% of the time.
+On a 112k connection or faster  the system response time for all operations must be no more than 3 seconds 90% of the time.
+The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.
+The product shall continue to operate during upgrade  change or new resource addition.The product shall be able to continue to operate with no interruption in service due to new resource additions.
+The product shall have security.The product shall provide authentication  and authorization.
+The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.
+The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.
+The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.
+Reports must be easy to generate. Reports must be generated within one button click and exported within one button click (after selecting the report)
+A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.
+The WCS system shall be available at all times as long as IBM\92s internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM\92s internal intranet W3 is available.
+All changes  updates  and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation
+Each team owner will need to use a username and password in order to be authenticated to reach the team owner\92s page
+The Commissioner will be the only authorized user per league to adjust league settings.
+Users shall be able to reach the \91add\92  \91drop\92  and \91trade player\92 pages with one click from the team owner\92s page.
+The application shall have a downtime of at most 10 minutes per year.
+The RFS system should be available 24/7  especially during the budgeting period. The RFS system shall be available 90% of the time all year  and 98% during the budgeting period. 2% of the time  the system will become available within 1 hour of the time that the situation is reported.
+Changes to revenue and expense formulae must be applied to the RFS system  every year  prior to the budgeting process start. Revenue and expense formulae will be updated within one week of their receipt  after which 2 weeks will be allotted to testing of the budget calculations  to be conducted jointly by the project development team and PCG Finance.
+New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process.
+Only authorized user shall access the RFS system. ONLY users that exist in the UAS system  with the RFS system assigned to their role(s)  shall access the RFS system and use it.
+The users should be able to easily use the system to successfully complete their budgets  within the stipulated time for completion. With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time.
+The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.not be more than 10 seconds.
+The menus of the system must be easily navigable by the users with buttons that are easy to understand.
+All the functions of the system must be available to the user every time the system is turned on.
+The system shall provide a way to return to the startup screen.
+A waiter password used for tablet login must have a bit-strength of at least 64 bits.
+A waiter password used for tablet login must be changed every three months.
+A waiter shall only be able to log into one tablet at any given instance of time.
+A display shall not require a user to log in.
+All transactions at the Flea Market require a valid user ID and password.
+Secure data transfer over the Internet could be provided using SSL encryption that will be configured by the host system administrator.
+User passwords will be stored in the database in an encrypted format.
+Full data backups must be created daily.
+Each account must securely store all of its data.
+The system use SSL (secured socket layer) in all transactions that include any confidential customer information.
+The system should not leave any cookies on the customer’s computer containing the user’s password.
+The system’s back-end servers shall only be accessible to authenticated administrators.
+The system should need to be entirely self-supporting since the users would be using it only to register courses.
+Everyone (stakeholders and guests) can have access to the system and the catalogue. Every client must have secure and private access to his/her data. The  and the service man can have access to every part of the system. All these accesses (except the “guest tour” access) require identification through ID and password.
+The system shall be available 99.5% of the time.
+System use shall not cause any harm to human users.
+System will have different types of users and every user has access constraints.
+Customers must have a valid login id to enter into the site.
+All the passwords that are generated or accepted must be stored in database in an encrypted form.
+To prevent attacks the system should generate random word and ask the user to enter it correctly for multiple tryings.
+All users of the system shall login using some form of unique identification.
+All login attempts shall be done so in a secure manner.
+The system shall utilize HTTPS communication to ensure data confidentiality.
+User authentication and privileges are defined outside the scope of the sytem by the Microsoft Active Directroy Server.
+Users shall be required to log into the system for all operations except the operations on the login page.
+The system shall be compatible with IIS6.0 and above or  Apache 2.0 and above.
+The system shall provide a contractual agreement with an internet service provider for T3 access with 99.9999% availability.
+The system shall not leave any cookies on the customer’s computer containing any of the user’s confidential information.
+The customer’s web browser shall never display a customer’s password.  It shall always be echoed with special characters representing typed characters.
+The customer’s web browser shall never display a customer’s credit card number after retrieving from the database.  It shall always be shown with just the last 4 digits of the credit card number.
+The system’s back-end servers shall never display a customer’s password.  The customer’s password may be reset but never shown.
+The system will use a single password per user to login to the E-Store System.
+The MTBF (if any) should not be less than 2 months.
+A secure server will be required to ensure confidentiality of customer’s credit card and other details.
+The user interface of the system should be very user friendly. 
+The entire website must be user-friendly and easily navigable. The website must be provided with a site map for quick access to a particular link according to the requirement specification. The user must be able to find what he/she wants from the site without any difficulty. The website must adhere to branding schemes and the layout of the web pages must be uniform throughout  

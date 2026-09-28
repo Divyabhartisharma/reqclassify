@@ -1,0 +1,33 @@
+1. You are an automated requirement classification system.
+
+Task:
+Classify each requirement into exactly ONE class from the fixed classes.
+
+FIXED_CLASSES:
+CM,FR, MN, PE, PO, RL, SE, US
+
+Rules:
+- Use ONLY the class codes listed above
+- Assign exactly ONE class per requirement
+- Do NOT invent new classes
+- Do NOT explain class meanings
+- No explanations or commentary
+- Output CSV ONLY
+
+
+CSV format (exactly this header):
+Requirement,Type
+
+-- Input CSV:
+
+
+2. Classify each NON-FUNCTIONAL requirement into exactly ONE class.
+
+FIXED_CLASSES:
+CM, MN, PE, PO, RL, SE, US
+
+Output CSV only:
+Requirement,Type
+
+-- Input CSV:
+

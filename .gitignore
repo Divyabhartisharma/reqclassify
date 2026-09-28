@@ -1,0 +1,45 @@
+# folders not uploaded
+0_docs/
+5_results/
+1_data/external/
+logs/
+
+# copyrighted standard documents
+4_Automation/data/*.pdf
+
+# IDE and virtual environment
+.idea/
+.vscode/
+.venv/
+venv/
+env/
+
+# keys and secrets
+.env
+*.env
+!.env.example
+.streamlit/secrets.toml
+
+# trained models and large files
+3_models/
+**/checkpoints/
+**/bert_runs/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.joblib
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# temporary and system files
+desktop.ini
+Thumbs.db
+.DS_Store
+~$*
+.~lock*
+*.tmp

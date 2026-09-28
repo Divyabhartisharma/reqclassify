@@ -1,0 +1,61 @@
+﻿Requirement Text
+The network shall provide a coverage probability of at least 95% at -98 dBm for voice and non-safety critical data.
+The network shall provide a coverage probability of at least 95% at -95 dBm on ETCS level 2/3 lines for speeds ≤ 220 km/h.
+The handover success rate shall be at least 99.5% under design load conditions.
+Call setup times defined in the EIRENE FRS shall be achieved with authentication and ciphering enabled.
+The passage of calls through external networks shall take less than 250 milliseconds.
+The maximum alerting duration in the network shall not exceed 60 seconds.
+The duration of DTMF tones shall be 70 ms ± 5 ms with a minimum 65 ms gap.
+Direct mode equipment shall have a maximum transmit power of 1 Watt.
+Direct mode equipment sensitivity shall be at least -107 dBm.
+The handover break period shall not exceed 300 ms and may be reduced to 150 ms with synchronous handover.
+"If a Railway emergency call setup is unsuccessful, the radio shall automatically re-attempt call setup for up to 30 seconds."
+The Cab radio shall withstand voltage fluctuations of ±15% without interrupting operation.
+The Cab radio shall withstand 20% over-voltage for 10 seconds without interruption.
+Environmental moisture condensation shall not cause malfunction.
+The system shall provide recovery mechanisms to re-establish lost functional number correlation.
+The network shall prevent unauthorized use of unverified functional numbers.
+The system shall support confirmation of Railway emergency calls.
+EIRENE mobile equipment shall operate correctly under defined coverage criteria.
+The system shall comply with defined environmental testing standards.
+The system shall maintain functionality under specified operational tolerances.
+All Railway emergency group IDs shall remain active while powered on.
+The mobile shall provide indication when GSM service is lost.
+Direct mode shall only be available when GSM services are unavailable.
+Re-registration shall occur when entering a new EIRENE network.
+Registration confirmation shall occur before deregistration completes.
+SIM cards shall contain prioritized authorized networks.
+The system shall support automatic network selection.
+Emergency power supply shall support at least 6 hours of operation.
+Emergency call group area configuration shall be supported.
+Confirmation shall be provided after emergency call clear down.
+Standardized ciphering algorithms shall be used when encryption is implemented.
+Mobiles shall support encryption algorithms for all roaming countries.
+Closed User Groups may be employed as an additional security measure.
+The system shall prevent unauthorized external calls.
+Access to GSM-R networks shall require defined breakout codes.
+Manual confirmation shall be required before removal of Engine Number association.
+The network shall validate information during registration and deregistration.
+Special access classes shall comply with GSM specifications.
+SIM cards shall store authorized networks in priority order.
+Confirmation messages shall use User-to-User Signalling (UUS1).
+All EIRENE mobile equipment shall comply with EN 60950.
+All equipment shall comply with ISO 9001.
+Environmental testing shall comply with IEC 68 standards.
+EMC immunity shall comply with ENV 50121 Part 4.
+RF emissions shall comply with EN 301 515 transmission masks.
+Direct mode shall operate at 876.0125 MHz for the common access channel.
+Direct mode equipment shall operate in simplex mode.
+CTCSS shall use a frequency of 203.5 Hz.
+Operational radio shall conform to IP54 protection level.
+National standards may supersede environmental requirements if stricter.
+Environmental testing shall be conducted at accredited facilities per EN 45001.
+EMC testing shall follow EN 61000-4 procedures.
+Functional numbering shall use standardized USSD protocols.
+Forced deregistration mechanisms shall be supported.
+Validation mechanisms shall exist during registration.
+Signalling shall use standardized SS7 protocols.
+Routing shall use ITU-T E.164 global titles.
+Maintenance access shall be considered during installation design.
+SIM removal shall be restricted to maintenance staff.
+Environmental test suites shall follow IEC 68 series standards.

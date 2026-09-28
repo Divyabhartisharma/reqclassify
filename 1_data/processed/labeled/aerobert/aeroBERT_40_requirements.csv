@@ -1,0 +1,41 @@
+Requirement,Type
+Each cockpit voice recorder shall record voice communications transmitted from or received in the airplane by radio.,FR
+Each cockpit voice recorder shall record voice communications of flightcrew members on the flight deck.,FR
+"Each cockpit voice recorder shall record voice communications of flightcrew members on the flight deck, using the airplane's interphone system.",FR
+Each cockpit voice recorder shall record voice or audio signals identifying navigation or approach aids introduced into a headset or speaker.,FR
+"Each cockpit voice recorder shall record voice communications of flightcrew members using the passenger loudspeaker system, if there is such a system and if the fourth channel is available in accordance with the requirements of paragraph (c)(4)(ii) of this section.",FR
+Each cockpit voice recorder shall record datalink messages as the output signal from the communications unit that translates the signal into usable data.,FR
+"The microphone must be so located and, if necessary, the preamplifiers and filters of the recorder must be so adjusted or supplemented, so that the intelligibility of the recorded communications is as high as practicable when recorded under flight cockpit noise conditions and played back.",PE
+Each cockpit voice recorder must be installed so that it receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads.,D
+Each cockpit voice recorder must be installed so that it remains powered for as long as possible without jeopardizing emergency operation of the airplane.,PE
+"Each cockpit voice recorder must be installed so that there is an automatic means to simultaneously stop the recorder and prevent each erasure feature from functioning, within 10 minutes after crash impact.",FR
+Each cockpit voice recorder must be installed so that there is an aural or visual means for preflight checking of the recorder for proper operation.,D
+Each cockpit voice recorder must be installed so that any single electrical failure external to the recorder does not disable both the cockpit voice recorder and the flight data recorder.,D
+Each cockpit voice recorder must be installed so that it has an independent power source that provides 10 +/-1 minutes of electrical power to operate both the cockpit voice recorder and cockpit-mounted area microphone.,PE
+Each cockpit voice recorder must be installed so that it has an independent power source that is located as close as practicable to the cockpit voice recorder.,D
+Each cockpit voice recorder must be installed so that it has an independent power source to which the cockpit voice recorder and cockpit-mounted area microphone are switched automatically in the event that all other power to the cockpit voice recorder is interrupted either by normal shutdown or by any other loss of power to the electrical power bus.,FR
+Each recorder container must be either bright orange or bright yellow.,D
+Each recorder container must have reflective tape affixed to its external surface to facilitate its location under water.,D
+"Each recorder container must have an underwater locating device, when required by the operating rules of this chapter, on or adjacent to the container, which is secured in such manner that they are not likely to be separated during crash impact.",FR
+The aircraft shall supply airspeed data to the flight recorder.,FR
+The aircraft shall supply altitude data to the flight recorder.,FR
+The aircraft shall supply directional data to the flight recorder.,FR
+The state estimates supplied to the flight recorder shall meet the aircraft level system requirements and the functionality specified in Section 23-2500.,D
+"Each flight recorder must be installed so that the vertical acceleration sensor is rigidly attached, and located longitudinally either within the approved center of gravity limits of the airplane, or at a distance forward or aft of these limits that does not exceed 25 percent of the airplane's mean aerodynamic chord.",D
+Each flight recorder must be installed so that it receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads.,D
+Each flight recorder must be installed so that it remains powered for as long as possible without jeopardizing emergency operation of the airplane.,D
+Each flight recorder must be installed so that there is an aural or visual means for preflight checking of the recorder for proper recording of data in the storage medium.,D
+"Each flight recorder must be installed so that except for recorders powered solely by the engine-driven electrical generator system, there is an automatic means to simultaneously stop a recorder that has a data erasure feature and prevent each erasure feature from functioning, within 10 minutes after crash impact.",FR
+Each flight recorder must be installed so that any single electrical failure external to the recorder does not disable both the cockpit voice recorder and the flight data recorder.,D
+Each flight recorder must be installed so that it is in a separate container from the cockpit voice recorder when both are required.,D
+Each non-ejectable record container must be located and mounted so as to minimize the probability of container rupture resulting from crash impact and subsequent damage to the record from fire.,D
+"The record container must be located as far aft as practicable, but need not be aft of the pressurized compartment, and may not be where aft-mounted engines may crush the container upon impact.",D
+"Each recorder container must have an underwater locating device, when required by the operating rules of this chapter, on or adjacent to the container, which is secured in such a manner that they are not likely to be separated during crash impact.",D
+"At each point along the takeoff path, starting at the point at which the airplane reaches 400 feet above the takeoff surface, the available gradient of climb may not be less than 1.5 percent for three-engine airplanes",PE
+"At each point along the takeoff path, starting at the point at which the airplane reaches 400 feet above the takeoff surface, the available gradient of climb may not be less than 1.2 percent for two-engine airplanes.",PE
+"The airplane must be controllable and maneuverable, without requiring exceptional piloting skill, alertness, or strength, within the operating envelope with likely reversible flight control or propulsion system failure.",FR
+"The airplane must be controllable and maneuverable, without requiring exceptional piloting skill, alertness, or strength, within the operating envelope during configuration changes.",FR
+The airplane must be able to complete a landing without causing substantial damage or serious injury using the steepest approved approach gradient procedures and providing a reasonable margin below V_ref or above approach angle of attack.,PE
+"For levels 1,2, and 3, the airplane must maintain lateral and directional trim in cruise without further force upon, or movement of, the primary flight controls or corresponding trim controls by the pilot, or the flight control system.",FR
+"For level 4, the airplane must maintain lateral and directional trim during normal operations without further force upon, or movement of, the primary flight controls or corresponding trim controls by the pilot, or the flight control system.",FR
+"The steady gradient of climb may not be less than 2.1 percent for two-engine airplanes, 2.4 percent for three-engine airplanes, and 2.7 percent for four-engine airplanes, with landing gear retracted.",PE

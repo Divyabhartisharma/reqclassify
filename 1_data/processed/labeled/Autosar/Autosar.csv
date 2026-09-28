@@ -1,0 +1,127 @@
+Requirement Text,Type
+CAN Driver shall support Standard and Extended Identifier.The CAN driver shall be able to operate with both standard and extended CAN Identifiers on one CAN Controller if supported by CAN Hardware.,FR
+CAN Driver shall allow static configuration of hardware reception filter.HW supported filtering of receive L-PDUs shall be configurable during initialization phase; reconfiguration during normal operation shall only be possible in STOPPED mode.,FR
+"Bit timing of CAN Controller shall be configurable.The Baud Rate of each CAN controller served by the CAN Driver shall be configurable, including propagation delay, Tseg1, Tseg2, Samples/bit, and SJW.",FR
+Hardware Object Handles shall be provided for the CAN Interface in the static configuration file. All available hardware object handles shall be defined in the ECU configuration description.,FR
+It shall be configurable whether Multiplex Transmission is used. The Multiplexed Transmission feature shall be Pre-Compile-Time configurable and only supported if the underlying CAN Controller supports it.,FR
+Each event for each CAN Controller shall be configurable to be detected by polling or by an interrupt. Each possible event shall be Pre-Compile-Time configurable to operate in either Polling or Interrupt-driven mode,FR
+"It shall be possible to configure one or several TX Hardware Objects, where each Hardware Object is represented by its own Hardware Object Handle.",FR
+The CAN Driver shall implement an interface for initialization. This service shall initialize all module global variables and all Registers of the CAN Hardware Unit and its Controllers. This function shall only be called once during startup.,FR
+"The CAN Driver shall support dynamic selection of configuration sets. The driver shall support selection of one static configuration set from a list, passed via the initialization interface; switching is only possible in STOPPED mode.",FR
+The CAN Driver shall provide a service to enable/disable interrupts of the CAN Controller. Disabling means disabling all interrupts; enabling means re-enabling all interrupts that were disabled before.,FR
+The CAN Driver shall guarantee data consistency of received L-PDUs. The driver shall guarantee that the data inside a Hardware Object is not overwritten while it is copied.,FR
+"The CAN Driver shall offer a reception indication service. The CAN Driver shall notify the CAN Interface about a successful reception via a static callback function, including CAN Identifier, DLC, Hardware Object, and pointer to SDU data.",FR
+"The CAN Driver shall provide a dynamic transmission request service. The API shall accept CAN Hardware Object Handle, pointer to L-SDU source, CAN Identifier, and DLC as parameters.",FR
+The CAN Driver shall provide a transmission confirmation service. The driver shall notify the CAN Interface about a successful transmission (at least one receiver acknowledged and no error disturbed the frame) via a static callback function.,FR
+"The CAN Driver shall provide a service to change the CAN controller mode, supporting states: UNINIT, STOPPED, STARTED, and SLEEP.",FR
+The CAN Driver shall provide a notification for controller wakeup events. The driver shall notify the Service Layer in case of a wake-up interrupt; this feature is Pre-Compile-Time configurable.,FR
+The CAN driver shall support the situation where a wakeup by bus occurs during the same time the transition to standby/sleep is in progress. The driver shall raise the Wake-up Notification immediately after the standby/sleep API has finished.,FR
+The CAN driver shall be able to detect notification events message object specific by CAN-Interrupt and polling. Both mechanisms shall be configurable for each message object if supported by CAN Hardware.,FR
+"The CAN Driver shall support multiplexed transmission (three TX HW objects represented as one Hardware Object Handle) if supported by the underlying CAN Controller, to avoid outer priority inversion.",FR
+The CAN Driver shall not support remote frames. The CAN driver shall not transmit messages triggered by remote transmission requests and shall initialize the CAN HW to ignore any remote transmission requests.,FR
+The CAN driver shall be able to operate with both classic CAN and CAN FD frames on one CAN Controller if supported by CAN Hardware. CAN FD frames support up to 64 bytes per frame at a higher baud rate.,FR
+The CAN Driver shall support CAN XL besides CAN 2.0 and CAN FD. CAN XL provides higher bandwidth and allows native tunneling of Ethernet frames.,FR
+"The CAN Driver shall provide a function to return the current CAN controller error state (ACTIVE, PASSIVE, BUSOFF).",FR
+The CAN Driver shall provide a function to return the current CAN controller Rx and Tx error counters via dedicated functions.,FR
+The CAN Driver shall provide a service to fetch the message state of an L-PDU. (Status: DRAFT) L-PDUs encapsulated with IEEE1722 protocol require the message state added to the ACF header.,FR
+The CAN Driver shall implement an interface for de-initialization. This service shall de-initialize the CAN Hardware Unit and its Controllers to allow re-configuration without an ECU reset.,FR
+CAN Driver shall provide a notification for bus-off state. The driver shall notify the CAN Interface if the CAN Controller goes in bus-off state via a static callback function.,FR
+The CAN driver shall not recover from bus-off automatically. Bus-off recovery shall be software driven; automatic hardware recovery must be suppressed by software.,FR
+CAN Interface shall import communication matrix,FR
+CAN Interface shall access driver configuration,FR
+The CAN Driver shall fulfill the general requirements for Basic Software Modules as specified in AUTOSAR_SRS_SPAL.,NFR
+The CAN Driver shall fulfill the general requirements for Basic Software Modules as specified in AUTOSAR_SRS_SPAL.,NFR
+The CAN Driver shall support multiple CAN controllers of the same CAN hardware unit. It shall be possible Pre-Compile-Time to de-select an unused CAN Controller.,NFR
+CAN Interface shall be the interface layer between the underlying CAN Driver(s) and CAN transceiver Driver(s) and Upper Layers. The CAN Interface is the single interface for all upper layers and the single user of the CAN Driver and CAN Transceiver Driver.,NFR
+The CAN Interface implementation and interface shall be independent from the underlying CAN Controller and CAN Transceiver. The Hardware Abstraction Layer encapsulates different mechanisms of hardware access.,NFR
+"The CAN State Manager shall offer a network abstract API to the upper layer (ComM). The CAN State Manager handles states of peripherals assigned to a network, performing Init, Start, Stop, WakeUp, Sleep, and BusOff Recovery actions.",NFR
+The CAN State Manager shall offer a network configuration independent interface for upper layers. The interface to upper layers shall be independent from the network configuration.,NFR
+The AUTOSAR CAN Transport Layer shall be based on ISO 15765-2 and 15765-4 specifications for OEM enhanced communication and on-board diagnostics respectively.,NFR
+CAN Bus Transceiver driver shall handle the transceiver specific timing requirements internally. Port sequences and timings for mode transitions must be managed within the bus transceiver driver.,NFR
+The CAN stack shall ensure not to lose messages in receive direction. The HW receive buffer shall be read out in a time frame that no message is lost for a bus load of 100% with a payload of 1 byte.,NFR
+"The CAN stack shall be able to produce 100% bus load (except gaps resulting from not using multiplexed HW transmit buffers), using CAN frames with 1 byte payload.",NFR
+The FlexRay-related BSW modules shall support applications running synchronously to the FlexRay global time.,FR
+The FlexRay-related BSW modules shall support applications running asynchronously to the FlexRay global time.,FR
+The FlexRay Interface shall operate synchronized to the FlexRay global time of all involved FlexRay Communication Controllers.,FR
+The FlexRay-related BSW modules shall support the FlexRay Slot and Cycle Multiplexing mechanism for efficient bandwidth exploitation.,FR
+The FlexRay Interface shall provide a PDU-based data API to all upper layers.,FR
+The FlexRay Interface shall be able to communicate with at least four FlexRay CCs via the appropriate FlexRay Drivers.,FR
+The FlexRay Interface shall identify each PDU with a unique PDU-ID based on the operation to be carried out.,FR
+The FlexRay Interface shall provide a software interface to initialize the local memory space used to store PDU data and properties.,FR
+The FlexRay Interface shall provide a software interface to start-up a specific FlexRay CC.,FR
+The FlexRay Interface shall provide a software interface to immediately abort the communication of a specific FlexRay CC by setting it into HALT state.,FR
+The FlexRay Interface shall provide a software interface to send a wake-up pattern on a specific FlexRay Channel of a specific FlexRay CC.,FR
+The FlexRay Interface shall provide a software interface to get the CC POC status of a specific FlexRay CC.,FR
+The FlexRay Interface shall provide a software interface to transmit a PDU via the FlexRay communication system.,FR
+The FlexRay Interface shall provide a software interface to initialize and configure a specific FlexRay CC including its transmit and receive buffers.,FR
+All configuration data of the FlexRay Interface defined at system configuration time shall be modifiable by a flashing process.,FR
+The FlexRay Interface shall provide a software interface to set the operation mode of a specific FlexRay Transceiver device.,FR
+The FlexRay Interface shall allow switching from one configuration of a FlexRay CC to another during runtime in Normal Active Mode.,FR
+The NM Vector feature provided by the FlexRay Communication Controller shall be supported by the FlexRay BSW modules.,FR
+The FlexRay Interface shall provide a software interface to halt the communication of a specific FlexRay CC at the end of the current Communication Cycle.,FR
+The FlexRay Interface configuration shall specify which FlexRay Communication Controller is to be served by which FlexRay Driver.,FR
+The FlexRay Interface shall be able to communicate with at least four FlexRay Drivers.,FR
+"The FlexRay Interface shall be configurable to generate, transmit, and handle PDU-based update and valid information per PDU within FlexRay Frames.",FR
+The FlexRay Interface shall support PDU transmission buffer queues of configurable size for higher BSW modules.,FR
+The FlexRay Interface shall retrieve PDUs received via the FlexRay communication system and indicate reception to the appropriate higher-layer BSW module.,FR
+The FlexRay Interface shall be configurable to provide the appropriate higher-layer BSW module with a transmit confirmation for a sent PDU.,FR
+The FlexRay Interface shall provide the DEM with error-related information using the aggregated channel status known to the FlexRay Interface.,FR
+The FlexRay Interface shall provide an API that cancels a transmit request from the CC buffer.,FR
+The FlexRay Driver shall provide an abstraction from the FlexRay CC-specific implementation and a generic FlexRay Driver API to the FlexRay Interface.,FR
+The FlexRay Driver shall be able to communicate with at least four FlexRay CCs of the same type.,FR
+The FlexRay Driver shall provide a software interface to start-up a specific FlexRay CC after proper configuration.,FR
+The FlexRay Driver shall provide a software interface to immediately abort the communication of a specific FlexRay CC by setting it into HALT state.,FR
+The FlexRay Driver shall provide a software interface to halt the communication of a specific FlexRay CC at the end of the current Communication Cycle.,FR
+The FlexRay Driver shall provide a software interface to initialize and configure a specific FlexRay CC.,FR
+The FlexRay Driver shall provide a software interface to send a wake-up pattern on a specific FlexRay Channel of a specific FlexRay CC.,FR
+The FlexRay Driver shall provide a software interface to get the CC POC status of a specific FlexRay CC.,FR
+The FlexRay Driver shall provide a software interface to get the sync state of a specific FlexRay CC.,FR
+The FlexRay Driver shall provide an API that cancels a transmit request to remove it from the CC buffer.,FR
+The FlexRay Driver shall provide a method that reinitializes CC functionality when trouble occurs at the hardware level.,FR
+The FlexRay Transport Layer shall identify each N-SDU with a unique identifier independent of addressing mode configuration.,FR
+The FlexRay Transport Layer shall implement an initialization interface to initialize all global variables and set all connections to default Idle state.,FR
+The FlexRay Transport Layer services shall not be operational before the module is initialized and shall raise an error in development mode if not initialized.,FR
+The FlexRay Transport Layer shall support per connection the ISO 10681-2 and ISO 15765-2 service N_ChangeParameter to adapt bandwidth control parameters.,FR
+The FlexRay Transport Layer shall provide to the sender a cancellation service of transmission at any point in time.,FR
+The FlexRay Transport Layer shall support the dynamic bandwidth control mechanism as described in ISO 10681-2.,FR
+The FlexRay Transceiver Driver shall provide an API to initialize the driver internally during the ECU power-up or reset sequence.,FR
+The FlexRay Transceiver Driver shall provide a software interface to get the wake-up reason of a specific FlexRay Transceiver device.,FR
+The FlexRay Transceiver Driver shall call a notification to higher layers when the transceiver detects a wake-up by bus.,FR
+The FlexRay Interface shall provide a software interface to get the wake-up reason of a specific FlexRay Transceiver device.,FR
+The FlexRay Interface shall provide a software interface to enable the wake-up indication of a specific FlexRay Transceiver device.,FR
+The FlexRay Interface shall provide a software interface to disable the wake-up indication of a specific FlexRay Transceiver device.,FR
+The FlexRay Interface shall provide a software interface to clear all pending wake-up events of a specific FlexRay Transceiver device.,FR
+For data reception and sending the FlexRay Interface shall provide upper software layers an abstraction from specific FlexRay features as well as a PDU-based API.,NFR
+The FlexRay Interface shall allocate the needed memory space only once for a PDU sent multiple times in the FlexRay matrix.,NFR
+The software interface of the FlexRay Driver shall be independent of the FlexRay CC transmit and receive buffers configuration and their access.,NFR
+The FlexRay Interface configuration shall be done at system configuration time before the execution of the FlexRay Interface code.,NFR
+The configuration of the FlexRay Driver shall be defined at system configuration time before the execution of the FlexRay Driver code.,NFR
+The FlexRay Transport Layer software module shall be located between the PDU Router and the FlexRay Interface for FlexRay PDUs requiring Transport Protocol functionalities.,NFR
+The FlexRay Transport Layer implementation shall be independent of the network configuration represented by the FlexRay communication matrix.,NFR
+The FlexRay-related BSW modules shall ensure that no timer interrupt from a FlexRay CC will be forwarded to other software modules during the shutdown phase.,NFR
+The FlexRay-related BSW modules shall ensure that no timer interrupt from a FlexRay CC will be forwarded to other software modules during the start-up phase.,NFR
+The FlexRay Driver shall raise an error if a time services function is called after communication of the CC has been halted or aborted.,NFR
+The FlexRay Driver shall raise an error if a time services function is called for a FlexRay CC which is not synchronous to its Cluster.,NFR
+The FlexRay Transceiver Driver shall check the correctness of the executed control communication and the operation mode a transceiver is in.,NFR
+The FlexRay Driver shall decide whether the received frame is valid in accordance with a criteria setting defined in pre-compiled parameters.,NFR
+The FlexRay Driver shall check whether the CC is working properly at its initialization phase and notify errors to the application when illegal status is detected.,NFR
+The FlexRay Transceiver Driver initialization function shall check error status in BD to ensure the hardware is working properly.,NFR
+The FlexRay Transceiver Driver shall support situations where a wake-up by bus occurs at the same moment the transition to standby or sleep is executed by the driver.,NFR
+The FlexRay Transceiver Driver shall support the AUTOSAR ECU state manager in a way that a safe system startup and shutdown is possible.,NFR
+The FlexRay Transceiver Driver shall handle the transceiver-specific timing requirements internally including predefined sequences applied to ports.,NFR
+The FlexRay BSW modules shall provide a method to trigger functionality by an OS-task instead of using the FlexRay interrupt to reduce interrupt resource consumption.,NFR
+The FlexRay Transport Layer shall support at least 32 logical FlexRay Transport Layer active connections being used concurrently.,NFR
+The FlexRay Transceiver Driver shall support the configuration for more than one transceiver type as well as for more than one FlexRay Cluster.,NFR
+For safety reasons it shall be possible to completely deactivate the runtime configuration switching feature at pre compile time.,NFR
+The transceiver driver package shall include a description file with the basic information needed to configure the driver for a given bus and the supported notifications.,NFR
+The FlexRay Transceiver Driver shall support the configuration sequence of the AUTOSAR stack to enable correct ECU startup behavior.,NFR
+It shall be possible to select at pre-compile time which AUTOSAR Transport Protocol Module shall be used: ISO 10681-2 or ISO 15765-2 or both.,NFR
+All post-build configuration parameters of the FlexRay Transport Layer shall be modifiable by a flashing process.,NFR
+In the FlexRay Interface a pre-compile configuration parameter shall define the mode in the checking function of L-PDU length supporting both loose and strict validation modes.,NFR
+FlexRay 2.1 and 3.0 Communication Controllers and Transceivers shall be supported by the FlexRay BSW modules.,NFR
+It shall be possible to configure the AUTOSAR FlexRay Transport Layer at system configuration time to be compliant with the ISO 10681-2 specification.,NFR
+It shall be possible to select the AUTOSAR FlexRay Transport Layer at pre-compile time to be compliant with ISO 15765-2 regarding the PCI layout.,NFR
+Hardware filtering mechanism provided by the FlexRay CC for selecting receive buffers based on a message ID within the dynamic segment shall be supported.,NFR
+It shall be possible to transmit and receive dynamic LPdu payload length in the dynamic segment of a FlexRay Communication Cycle.,NFR
+The FlexRay Interface shall periodically call an API that detects error information in transmitted frames controlled by a pre-compile configuration parameter.,NFR
+The FlexRay Transceiver Driver API shall be synchronous to ease implementation of wake-up and sleep concepts and improve testability in the AUTOSAR BSW environment.,NFR
